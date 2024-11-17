@@ -1,0 +1,1444 @@
+Cause of death,NICU Admission,Antibiotics for Mother,Mother's Pre-pregnancy BMI,Infant birth weight,Deaths,Births,Death rate per 1000,Year
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,12.0,726.0,16.56 (Unreliable),2017
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,No,Normal 18.5-24.9,500 - 749 grams,13.0,1254.0,10.40 (Unreliable),2017
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,No,Normal 18.5-24.9,750 - 999 grams,10.0,1701.0,5.88 (Unreliable),2017
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,No,Overweight 25.0-29.9,500 - 749 grams,12.0,994.0,12.08 (Unreliable),2017
+Newborn affected by incompetent cervix,No,Yes,Normal 18.5-24.9,499 grams or less,12.0,270.0,45.00 (Unreliable),2017
+Newborn affected by incompetent cervix,No,Yes,Obesity I 30.0-34.9,499 grams or less,12.0,151.0,79.80 (Unreliable),2017
+Newborn affected by incompetent cervix,No,Yes,Obesity II 35.0-39.9,499 grams or less,11.0,98.0,113.24 (Unreliable),2017
+Newborn affected by incompetent cervix,No,No,Normal 18.5-24.9,499 grams or less,57.0,880.0,65.21,2017
+Newborn affected by incompetent cervix,No,No,Overweight 25.0-29.9,499 grams or less,62.0,721.0,86.45,2017
+Newborn affected by incompetent cervix,No,No,Obesity I 30.0-34.9,499 grams or less,54.0,593.0,91.66,2017
+Newborn affected by incompetent cervix,No,No,Obesity II 35.0-39.9,499 grams or less,33.0,347.0,95.62,2017
+Newborn affected by incompetent cervix,No,No,Extreme Obesity III > 39.9,499 grams or less,22.0,291.0,75.76,2017
+Newborn affected by incompetent cervix,No,No,Unknown or Not Stated,499 grams or less,17.0,283.0,60.59 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,499 grams or less,37.0,270.0,138.17,2017
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,138.0,73.05 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,Yes,Overweight 25.0-29.9,499 grams or less,13.0,193.0,67.78 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,Yes,Obesity I 30.0-34.9,499 grams or less,15.0,151.0,100.46 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,Yes,Obesity II 35.0-39.9,499 grams or less,11.0,98.0,112.81 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,Yes,Extreme Obesity III > 39.9,499 grams or less,10.0,67.0,150.00 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,No,Underweight <18.5,499 grams or less,13.0,95.0,138.52 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,499 grams or less,74.0,880.0,83.54,2017
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,500 - 749 grams,15.0,352.0,42.90 (Unreliable),2017
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,499 grams or less,62.0,721.0,86.61,2017
+Newborn affected by premature rupture of membranes,No,No,Obesity I 30.0-34.9,499 grams or less,73.0,593.0,122.29,2017
+Newborn affected by premature rupture of membranes,No,No,Obesity II 35.0-39.9,499 grams or less,33.0,347.0,96.04,2017
+Newborn affected by premature rupture of membranes,No,No,Extreme Obesity III > 39.9,499 grams or less,38.0,291.0,131.3,2017
+Newborn affected by premature rupture of membranes,No,No,Unknown or Not Stated,499 grams or less,17.0,283.0,60.34 (Unreliable),2017
+Newborn affected by multiple pregnancy,No,Yes,Normal 18.5-24.9,499 grams or less,12.0,270.0,44.84 (Unreliable),2017
+Newborn affected by multiple pregnancy,No,No,Normal 18.5-24.9,499 grams or less,15.0,880.0,17.11 (Unreliable),2017
+Newborn affected by multiple pregnancy,No,No,Obesity I 30.0-34.9,499 grams or less,15.0,593.0,25.55 (Unreliable),2017
+Newborn affected by other maternal complications of pregnancy,No,No,Normal 18.5-24.9,499 grams or less,11.0,880.0,12.52 (Unreliable),2017
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,499 grams or less,45.0,880.0,51.29,2017
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,500 - 749 grams,11.0,352.0,31.33 (Unreliable),2017
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Overweight 25.0-29.9,499 grams or less,24.0,721.0,33.55,2017
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,593.0,18.74 (Unreliable),2017
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Extreme Obesity III > 39.9,499 grams or less,10.0,291.0,34.42 (Unreliable),2017
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Unknown or Not Stated,499 grams or less,12.0,283.0,42.53 (Unreliable),2017
+Newborn affected by chorioamnionitis,No,Yes,Normal 18.5-24.9,499 grams or less,19.0,270.0,70.84 (Unreliable),2017
+Newborn affected by chorioamnionitis,No,Yes,Overweight 25.0-29.9,499 grams or less,15.0,193.0,78.20 (Unreliable),2017
+Newborn affected by chorioamnionitis,No,Yes,Obesity I 30.0-34.9,499 grams or less,13.0,151.0,87.23 (Unreliable),2017
+Newborn affected by chorioamnionitis,No,No,Normal 18.5-24.9,499 grams or less,41.0,880.0,46.81,2017
+Newborn affected by chorioamnionitis,No,No,Normal 18.5-24.9,500 - 749 grams,10.0,352.0,28.60 (Unreliable),2017
+Newborn affected by chorioamnionitis,No,No,Overweight 25.0-29.9,499 grams or less,23.0,721.0,32.05,2017
+Newborn affected by chorioamnionitis,No,No,Obesity I 30.0-34.9,499 grams or less,23.0,593.0,39.1,2017
+Newborn affected by chorioamnionitis,No,No,Unknown or Not Stated,499 grams or less,11.0,283.0,39.11 (Unreliable),2017
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,29.0,940.0,31.1,2017
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,499 grams or less,14.0,97.0,144.85 (Unreliable),2017
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,22.0,726.0,30.46,2017
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,23.0,565.0,40.83,2017
+Extreme immaturity,Yes,Yes,Obesity II 35.0-39.9,500 - 749 grams,12.0,349.0,34.48 (Unreliable),2017
+Extreme immaturity,Yes,No,Normal 18.5-24.9,499 grams or less,41.0,268.0,154.2,2017
+Extreme immaturity,Yes,No,Normal 18.5-24.9,500 - 749 grams,58.0,1254.0,46.45,2017
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,499 grams or less,39.0,220.0,178.17,2017
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,500 - 749 grams,28.0,994.0,28.25,2017
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,499 grams or less,23.0,165.0,139.74,2017
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,25.0,744.0,33.76,2017
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,499 grams or less,17.0,100.0,171.25 (Unreliable),2017
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,11.0,403.0,27.45 (Unreliable),2017
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,499 grams or less,20.0,88.0,228.74,2017
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,18.0,352.0,51.40 (Unreliable),2017
+Extreme immaturity,Yes,No,Unknown or Not Stated,499 grams or less,14.0,59.0,237.99 (Unreliable),2017
+Extreme immaturity,Yes,No,Unknown or Not Stated,500 - 749 grams,12.0,187.0,64.22 (Unreliable),2017
+Extreme immaturity,No,Yes,Normal 18.5-24.9,499 grams or less,86.0,270.0,320.11,2017
+Extreme immaturity,No,Yes,Normal 18.5-24.9,500 - 749 grams,28.0,138.0,204.13,2017
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,499 grams or less,91.0,193.0,473.7,2017
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,500 - 749 grams,24.0,99.0,244.19,2017
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,499 grams or less,55.0,151.0,365.42,2017
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,500 - 749 grams,14.0,82.0,171.31 (Unreliable),2017
+Extreme immaturity,No,Yes,Obesity II 35.0-39.9,499 grams or less,21.0,98.0,215.32,2017
+Extreme immaturity,No,Yes,Obesity II 35.0-39.9,500 - 749 grams,12.0,34.0,355.97 (Unreliable),2017
+Extreme immaturity,No,Yes,Extreme Obesity III > 39.9,499 grams or less,22.0,67.0,329.39,2017
+Extreme immaturity,No,Yes,Unknown or Not Stated,499 grams or less,15.0,33.0,457.55 (Unreliable),2017
+Extreme immaturity,No,No,Underweight <18.5,499 grams or less,36.0,95.0,381.09,2017
+Extreme immaturity,No,No,Normal 18.5-24.9,499 grams or less,317.0,880.0,360.35,2017
+Extreme immaturity,No,No,Normal 18.5-24.9,500 - 749 grams,69.0,352.0,197.04,2017
+Extreme immaturity,No,No,Overweight 25.0-29.9,499 grams or less,295.0,721.0,408.63,2017
+Extreme immaturity,No,No,Overweight 25.0-29.9,500 - 749 grams,55.0,265.0,209.4,2017
+Extreme immaturity,No,No,Obesity I 30.0-34.9,499 grams or less,212.0,593.0,357.84,2017
+Extreme immaturity,No,No,Obesity I 30.0-34.9,500 - 749 grams,37.0,176.0,211.32,2017
+Extreme immaturity,No,No,Obesity II 35.0-39.9,499 grams or less,157.0,347.0,451.75,2017
+Extreme immaturity,No,No,Obesity II 35.0-39.9,500 - 749 grams,21.0,98.0,216.03,2017
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,499 grams or less,107.0,291.0,369.38,2017
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,500 - 749 grams,18.0,78.0,232.48 (Unreliable),2017
+Extreme immaturity,No,No,Unknown or Not Stated,499 grams or less,117.0,283.0,414.64,2017
+Extreme immaturity,No,No,Unknown or Not Stated,500 - 749 grams,22.0,81.0,272.72,2017
+Other preterm infants,Yes,No,Normal 18.5-24.9,500 - 749 grams,14.0,1254.0,11.17 (Unreliable),2017
+Other preterm infants,No,Yes,Normal 18.5-24.9,499 grams or less,24.0,270.0,89.3,2017
+Other preterm infants,No,Yes,Overweight 25.0-29.9,499 grams or less,14.0,193.0,72.97 (Unreliable),2017
+Other preterm infants,No,Yes,Obesity I 30.0-34.9,499 grams or less,14.0,151.0,93.25 (Unreliable),2017
+Other preterm infants,No,Yes,Obesity II 35.0-39.9,499 grams or less,16.0,98.0,163.92 (Unreliable),2017
+Other preterm infants,No,Yes,Extreme Obesity III > 39.9,499 grams or less,12.0,67.0,180.34 (Unreliable),2017
+Other preterm infants,No,No,Underweight <18.5,499 grams or less,10.0,95.0,105.86 (Unreliable),2017
+Other preterm infants,No,No,Normal 18.5-24.9,499 grams or less,84.0,880.0,95.96,2017
+Other preterm infants,No,No,Normal 18.5-24.9,500 - 749 grams,24.0,352.0,68.63,2017
+Other preterm infants,No,No,Overweight 25.0-29.9,499 grams or less,77.0,721.0,107.15,2017
+Other preterm infants,No,No,Overweight 25.0-29.9,500 - 749 grams,27.0,265.0,102.83,2017
+Other preterm infants,No,No,Obesity I 30.0-34.9,499 grams or less,62.0,593.0,105.1,2017
+Other preterm infants,No,No,Obesity I 30.0-34.9,500 - 749 grams,14.0,176.0,79.82 (Unreliable),2017
+Other preterm infants,No,No,Obesity II 35.0-39.9,499 grams or less,36.0,347.0,104.06,2017
+Other preterm infants,No,No,Extreme Obesity III > 39.9,499 grams or less,43.0,291.0,148.37,2017
+Other preterm infants,No,No,Unknown or Not Stated,499 grams or less,41.0,283.0,145.14,2017
+"Intrauterine hypoxia, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,12.0,1254.0,9.64 (Unreliable),2017
+Respiratory distress syndrome of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,23.0,940.0,24.62,2017
+Respiratory distress syndrome of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,19.0,726.0,26.34 (Unreliable),2017
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,15.0,565.0,26.67 (Unreliable),2017
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,28.0,1254.0,22.45,2017
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,17.0,994.0,17.13 (Unreliable),2017
+Respiratory distress syndrome of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,11.0,744.0,14.85 (Unreliable),2017
+Bronchopulmonary dysplasia originating in the perinatal period,Yes,No,Normal 18.5-24.9,500 - 749 grams,12.0,1254.0,9.58 (Unreliable),2017
+Primary atelectasis of newborn,No,No,Normal 18.5-24.9,499 grams or less,14.0,880.0,16.01 (Unreliable),2017
+Neonatal cardiac failure,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,12.0,940.0,12.84 (Unreliable),2017
+Neonatal cardiac failure,Yes,No,Normal 18.5-24.9,500 - 749 grams,14.0,1254.0,11.20 (Unreliable),2017
+Neonatal cardiac failure,No,No,Normal 18.5-24.9,499 grams or less,12.0,880.0,13.76 (Unreliable),2017
+Neonatal cardiac dysrhythmia,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,10.0,726.0,13.81 (Unreliable),2017
+Neonatal cardiac dysrhythmia,Yes,No,Normal 18.5-24.9,500 - 749 grams,12.0,1254.0,9.59 (Unreliable),2017
+Neonatal cardiac dysrhythmia,No,No,Normal 18.5-24.9,499 grams or less,24.0,880.0,27.49,2017
+Neonatal cardiac dysrhythmia,No,No,Overweight 25.0-29.9,499 grams or less,23.0,721.0,32.12,2017
+Neonatal cardiac dysrhythmia,No,No,Obesity I 30.0-34.9,499 grams or less,15.0,593.0,25.50 (Unreliable),2017
+Neonatal cardiac dysrhythmia,No,No,Obesity II 35.0-39.9,499 grams or less,10.0,347.0,28.99 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,500 - 749 grams,21.0,940.0,22.4,2017
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,750 - 999 grams,14.0,1277.0,10.98 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,12.0,726.0,16.73 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,13.0,565.0,23.18 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,499 grams or less,12.0,268.0,45.07 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,26.0,1254.0,20.82,2017
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,750 - 999 grams,15.0,1701.0,8.86 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,500 - 749 grams,15.0,994.0,15.12 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,750 - 999 grams,13.0,1243.0,10.51 (Unreliable),2017
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,500 - 749 grams,11.0,744.0,14.82 (Unreliable),2017
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,21.0,940.0,22.48,2017
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,12.0,726.0,16.59 (Unreliable),2017
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,13.0,1254.0,10.43 (Unreliable),2017
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Normal 18.5-24.9,750 - 999 grams,13.0,1701.0,7.71 (Unreliable),2017
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,18.0,994.0,18.28 (Unreliable),2017
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,10.0,744.0,13.51 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,13.0,940.0,13.85 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,Yes,Normal 18.5-24.9,750 - 999 grams,14.0,1277.0,10.97 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,10.0,726.0,13.81 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1254.0,8.80 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,1000 - 1249 grams,10.0,2092.0,4.78 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,11.0,994.0,11.07 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,750 - 999 grams,11.0,1243.0,8.88 (Unreliable),2017
+Necrotizing enterocolitis of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,14.0,744.0,18.84 (Unreliable),2017
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,16.0,16069.0,1.00 (Unreliable),2017
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Obesity I 30.0-34.9,3500 - 3999 grams,10.0,4480.0,2.23 (Unreliable),2017
+Anencephaly,No,No,Normal 18.5-24.9,1000 - 1249 grams,11.0,347.0,31.87 (Unreliable),2017
+Anencephaly,No,No,Normal 18.5-24.9,1500 - 1999 grams,15.0,3470.0,4.35 (Unreliable),2017
+Anencephaly,No,No,Normal 18.5-24.9,2000 - 2499 grams,25.0,41610.0,0.61,2017
+Anencephaly,No,No,Normal 18.5-24.9,2500 - 2999 grams,15.0,226913.0,0.07 (Unreliable),2017
+Anencephaly,No,No,Overweight 25.0-29.9,1500 - 1999 grams,12.0,1972.0,6.12 (Unreliable),2017
+Anencephaly,No,No,Obesity I 30.0-34.9,1500 - 1999 grams,10.0,1170.0,8.65 (Unreliable),2017
+Hypoplastic left heart syndrome,Yes,No,Normal 18.5-24.9,2500 - 2999 grams,11.0,14689.0,0.75 (Unreliable),2017
+Hypoplastic left heart syndrome,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,10.0,16069.0,0.62 (Unreliable),2017
+Hypoplastic left heart syndrome,Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,13.0,10136.0,1.29 (Unreliable),2017
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,12.0,10449.0,1.16 (Unreliable),2017
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,17.0,14831.0,1.15 (Unreliable),2017
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,16.0,14689.0,1.10 (Unreliable),2017
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,3000 - 3499 grams,17.0,16069.0,1.06 (Unreliable),2017
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,2500 - 2999 grams,12.0,9062.0,1.33 (Unreliable),2017
+"Congenital malformation of heart, unspecified",Yes,No,Obesity I 30.0-34.9,2500 - 2999 grams,10.0,5445.0,1.84 (Unreliable),2017
+"Congenital malformation of heart, unspecified",Yes,No,Obesity I 30.0-34.9,3000 - 3499 grams,12.0,5985.0,2.01 (Unreliable),2017
+"Congenital malformation of heart, unspecified",No,No,Normal 18.5-24.9,3000 - 3499 grams,13.0,491335.0,0.03 (Unreliable),2017
+"Congenital malformation of heart, unspecified",No,No,Overweight 25.0-29.9,3000 - 3499 grams,11.0,275284.0,0.04 (Unreliable),2017
+"Congenital malformation, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,10.0,3470.0,2.91 (Unreliable),2017
+"Edwards syndrome, unspecified",Yes,Yes,Normal 18.5-24.9,1500 - 1999 grams,13.0,8199.0,1.59 (Unreliable),2017
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,14.0,10449.0,1.35 (Unreliable),2017
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,16.0,14831.0,1.09 (Unreliable),2017
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,1500 - 1999 grams,14.0,6384.0,2.20 (Unreliable),2017
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,13.0,8897.0,1.47 (Unreliable),2017
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,16.0,3470.0,4.62 (Unreliable),2017
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,2000 - 2499 grams,14.0,41610.0,0.34 (Unreliable),2017
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1500 - 1999 grams,16.0,1972.0,8.18 (Unreliable),2017
+"Patau syndrome, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,12.0,14689.0,0.82 (Unreliable),2017
+"Patau syndrome, unspecified",No,No,Normal 18.5-24.9,2000 - 2499 grams,14.0,41610.0,0.34 (Unreliable),2017
+"Patau syndrome, unspecified",No,No,Overweight 25.0-29.9,2500 - 2999 grams,12.0,114550.0,0.11 (Unreliable),2017
+Sudden infant death syndrome - SIDS,Yes,Yes,Normal 18.5-24.9,1500 - 1999 grams,12.0,8199.0,1.47 (Unreliable),2017
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,10.0,10449.0,0.96 (Unreliable),2017
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,12.0,14831.0,0.81 (Unreliable),2017
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,2500 - 2999 grams,11.0,14689.0,0.75 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,16.0,17087.0,0.94 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,28.0,68267.0,0.41,2017
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,32.0,132042.0,0.24,2017
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,23.0,82657.0,0.28,2017
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,19.0,38152.0,0.50 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,30.0,81305.0,0.37,2017
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,15.0,59655.0,0.25 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,12.0,21964.0,0.55 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,14.0,46985.0,0.30 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,2500 - 2999 grams,11.0,11190.0,0.99 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,10.0,23731.0,0.42 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,No,Underweight <18.5,2500 - 2999 grams,14.0,25688.0,0.55 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2000 - 2499 grams,35.0,41610.0,0.84,2017
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2500 - 2999 grams,94.0,226913.0,0.42,2017
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3000 - 3499 grams,117.0,491335.0,0.24,2017
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3500 - 3999 grams,42.0,305879.0,0.14,2017
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2000 - 2499 grams,15.0,21111.0,0.71 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2500 - 2999 grams,54.0,114550.0,0.47,2017
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3000 - 3499 grams,67.0,275284.0,0.24,2017
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3500 - 3999 grams,43.0,200267.0,0.22,2017
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,42.0,59611.0,0.71,2017
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,46.0,143311.0,0.32,2017
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,22.0,111139.0,0.2,2017
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,4000 - 4499 grams,11.0,31615.0,0.35 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,11.0,27420.0,0.40 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,30.0,65878.0,0.46,2017
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,18.0,52967.0,0.34 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,23.0,42750.0,0.54,2017
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,14.0,35354.0,0.40 (Unreliable),2017
+Sudden infant death syndrome - SIDS,No,No,Unknown or Not Stated,3000 - 3499 grams,10.0,21500.0,0.47 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,14.0,10449.0,1.34 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,10.0,8897.0,1.12 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,12.0,17087.0,0.70 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,31.0,68267.0,0.45,2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,30.0,132042.0,0.23,2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,10.0,82657.0,0.12 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,17.0,38152.0,0.45 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,22.0,81305.0,0.27,2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,14.0,59655.0,0.24 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,14.0,21964.0,0.64 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,11.0,46985.0,0.23 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,10.0,23731.0,0.42 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,No,Underweight <18.5,2500 - 2999 grams,10.0,25688.0,0.39 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2000 - 2499 grams,25.0,41610.0,0.6,2017
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2500 - 2999 grams,79.0,226913.0,0.35,2017
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3000 - 3499 grams,107.0,491335.0,0.22,2017
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3500 - 3999 grams,41.0,305879.0,0.13,2017
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2000 - 2499 grams,20.0,21111.0,0.95,2017
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2500 - 2999 grams,31.0,114550.0,0.27,2017
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3000 - 3499 grams,75.0,275284.0,0.27,2017
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3500 - 3999 grams,31.0,200267.0,0.16,2017
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,41.0,59611.0,0.69,2017
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,48.0,143311.0,0.34,2017
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,19.0,111139.0,0.17 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,12.0,27420.0,0.44 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,23.0,65878.0,0.35,2017
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,15.0,52967.0,0.28 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,15.0,18537.0,0.81 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,18.0,42750.0,0.42 (Unreliable),2017
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,12.0,35354.0,0.34 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,19.0,68267.0,0.28 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,25.0,132042.0,0.19,2017
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,15.0,82657.0,0.18 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,13.0,38152.0,0.34 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,16.0,81305.0,0.20 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,11.0,59655.0,0.18 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,10.0,21964.0,0.46 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,13.0,46985.0,0.28 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,10.0,18149.0,0.55 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,No,Underweight <18.5,2500 - 2999 grams,11.0,25688.0,0.43 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2000 - 2499 grams,20.0,41610.0,0.48,2017
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2500 - 2999 grams,71.0,226913.0,0.31,2017
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3000 - 3499 grams,78.0,491335.0,0.16,2017
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3500 - 3999 grams,35.0,305879.0,0.11,2017
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2000 - 2499 grams,13.0,21111.0,0.62 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2500 - 2999 grams,32.0,114550.0,0.28,2017
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3000 - 3499 grams,55.0,275284.0,0.2,2017
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3500 - 3999 grams,25.0,200267.0,0.13,2017
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,29.0,59611.0,0.49,2017
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,36.0,143311.0,0.25,2017
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,23.0,111139.0,0.21,2017
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,10.0,27420.0,0.37 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,22.0,65878.0,0.33,2017
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,10.0,52967.0,0.19 (Unreliable),2017
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,14.0,42750.0,0.33 (Unreliable),2017
+Unspecified threat to breathing,No,No,Overweight 25.0-29.9,3000 - 3499 grams,10.0,275284.0,0.04 (Unreliable),2017
+Assault by unspecified means,No,No,Normal 18.5-24.9,3000 - 3499 grams,11.0,491335.0,0.02 (Unreliable),2017
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1136.0,9.69 (Unreliable),2018
+Newborn affected by incompetent cervix,No,Yes,Normal 18.5-24.9,499 grams or less,13.0,205.0,64.15 (Unreliable),2018
+Newborn affected by incompetent cervix,No,Yes,Overweight 25.0-29.9,499 grams or less,21.0,218.0,97.13,2018
+Newborn affected by incompetent cervix,No,Yes,Obesity I 30.0-34.9,499 grams or less,14.0,169.0,83.52 (Unreliable),2018
+Newborn affected by incompetent cervix,No,No,Normal 18.5-24.9,499 grams or less,57.0,834.0,68.04,2018
+Newborn affected by incompetent cervix,No,No,Overweight 25.0-29.9,499 grams or less,48.0,686.0,70.61,2018
+Newborn affected by incompetent cervix,No,No,Obesity I 30.0-34.9,499 grams or less,35.0,547.0,64.78,2018
+Newborn affected by incompetent cervix,No,No,Obesity II 35.0-39.9,499 grams or less,33.0,327.0,101.91,2018
+Newborn affected by incompetent cervix,No,No,Extreme Obesity III > 39.9,499 grams or less,19.0,287.0,66.69 (Unreliable),2018
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,499 grams or less,24.0,205.0,117.63,2018
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,500 - 749 grams,11.0,131.0,84.70 (Unreliable),2018
+Newborn affected by premature rupture of membranes,No,Yes,Overweight 25.0-29.9,499 grams or less,20.0,218.0,93.24,2018
+Newborn affected by premature rupture of membranes,No,Yes,Obesity I 30.0-34.9,499 grams or less,30.0,169.0,179.05,2018
+Newborn affected by premature rupture of membranes,No,Yes,Obesity II 35.0-39.9,499 grams or less,11.0,101.0,110.38 (Unreliable),2018
+Newborn affected by premature rupture of membranes,No,Yes,Extreme Obesity III > 39.9,499 grams or less,12.0,81.0,148.68 (Unreliable),2018
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,499 grams or less,62.0,834.0,73.86,2018
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,500 - 749 grams,13.0,303.0,43.62 (Unreliable),2018
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,499 grams or less,77.0,686.0,111.94,2018
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,500 - 749 grams,10.0,236.0,42.94 (Unreliable),2018
+Newborn affected by premature rupture of membranes,No,No,Obesity I 30.0-34.9,499 grams or less,41.0,547.0,74.14,2018
+Newborn affected by premature rupture of membranes,No,No,Obesity I 30.0-34.9,500 - 749 grams,11.0,186.0,59.87 (Unreliable),2018
+Newborn affected by premature rupture of membranes,No,No,Obesity II 35.0-39.9,499 grams or less,35.0,327.0,107.94,2018
+Newborn affected by premature rupture of membranes,No,No,Extreme Obesity III > 39.9,499 grams or less,37.0,287.0,129.59,2018
+Newborn affected by premature rupture of membranes,No,No,Unknown or Not Stated,499 grams or less,15.0,205.0,74.00 (Unreliable),2018
+Newborn affected by multiple pregnancy,No,No,Obesity I 30.0-34.9,499 grams or less,10.0,547.0,18.73 (Unreliable),2018
+Newborn affected by other forms of placental separation and haemorrhage,No,Yes,Normal 18.5-24.9,499 grams or less,10.0,205.0,49.37 (Unreliable),2018
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,499 grams or less,39.0,834.0,47.08,2018
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,500 - 749 grams,12.0,303.0,39.87 (Unreliable),2018
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Overweight 25.0-29.9,499 grams or less,25.0,686.0,36.74,2018
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,547.0,20.36 (Unreliable),2018
+Newborn affected by chorioamnionitis,No,Yes,Normal 18.5-24.9,499 grams or less,15.0,205.0,74.22 (Unreliable),2018
+Newborn affected by chorioamnionitis,No,Yes,Overweight 25.0-29.9,499 grams or less,18.0,218.0,83.82 (Unreliable),2018
+Newborn affected by chorioamnionitis,No,No,Normal 18.5-24.9,499 grams or less,15.0,834.0,18.07 (Unreliable),2018
+Newborn affected by chorioamnionitis,No,No,Overweight 25.0-29.9,499 grams or less,17.0,686.0,25.13 (Unreliable),2018
+Newborn affected by chorioamnionitis,No,No,Obesity I 30.0-34.9,499 grams or less,13.0,547.0,24.11 (Unreliable),2018
+"Slow fetal growth, unspecified",Yes,No,Obesity I 30.0-34.9,499 grams or less,14.0,166.0,85.03 (Unreliable),2018
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,499 grams or less,18.0,144.0,125.71 (Unreliable),2018
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,28.0,873.0,32.47,2018
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,499 grams or less,10.0,108.0,93.77 (Unreliable),2018
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,28.0,756.0,37.14,2018
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,499 grams or less,10.0,92.0,110.28 (Unreliable),2018
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,20.0,560.0,36.32,2018
+Extreme immaturity,Yes,No,Normal 18.5-24.9,499 grams or less,45.0,251.0,181.16,2018
+Extreme immaturity,Yes,No,Normal 18.5-24.9,500 - 749 grams,40.0,1136.0,34.77,2018
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,499 grams or less,32.0,201.0,160.4,2018
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,500 - 749 grams,26.0,952.0,27.49,2018
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,499 grams or less,30.0,166.0,182.71,2018
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,11.0,652.0,17.00 (Unreliable),2018
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,499 grams or less,19.0,125.0,153.82 (Unreliable),2018
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,14.0,471.0,30.12 (Unreliable),2018
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,499 grams or less,14.0,97.0,145.53 (Unreliable),2018
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,12.0,372.0,32.44 (Unreliable),2018
+Extreme immaturity,Yes,No,Unknown or Not Stated,500 - 749 grams,15.0,196.0,76.98 (Unreliable),2018
+Extreme immaturity,No,Yes,Normal 18.5-24.9,499 grams or less,72.0,205.0,350.32,2018
+Extreme immaturity,No,Yes,Normal 18.5-24.9,500 - 749 grams,28.0,131.0,215.74,2018
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,499 grams or less,85.0,218.0,389.39,2018
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,500 - 749 grams,20.0,106.0,190.44,2018
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,499 grams or less,46.0,169.0,275.0,2018
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,500 - 749 grams,11.0,57.0,194.50 (Unreliable),2018
+Extreme immaturity,No,Yes,Obesity II 35.0-39.9,499 grams or less,41.0,101.0,410.81,2018
+Extreme immaturity,No,Yes,Extreme Obesity III > 39.9,499 grams or less,32.0,81.0,399.51,2018
+Extreme immaturity,No,Yes,Unknown or Not Stated,499 grams or less,20.0,39.0,516.63,2018
+Extreme immaturity,No,No,Underweight <18.5,499 grams or less,32.0,89.0,362.52,2018
+Extreme immaturity,No,No,Normal 18.5-24.9,499 grams or less,351.0,834.0,420.89,2018
+Extreme immaturity,No,No,Normal 18.5-24.9,500 - 749 grams,86.0,303.0,283.79,2018
+Extreme immaturity,No,No,Normal 18.5-24.9,750 - 999 grams,10.0,205.0,49.18 (Unreliable),2018
+Extreme immaturity,No,No,Overweight 25.0-29.9,499 grams or less,279.0,686.0,406.2,2018
+Extreme immaturity,No,No,Overweight 25.0-29.9,500 - 749 grams,49.0,236.0,207.09,2018
+Extreme immaturity,No,No,Obesity I 30.0-34.9,499 grams or less,231.0,547.0,421.53,2018
+Extreme immaturity,No,No,Obesity I 30.0-34.9,500 - 749 grams,60.0,186.0,320.24,2018
+Extreme immaturity,No,No,Obesity II 35.0-39.9,499 grams or less,135.0,327.0,412.54,2018
+Extreme immaturity,No,No,Obesity II 35.0-39.9,500 - 749 grams,23.0,98.0,238.67,2018
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,499 grams or less,119.0,287.0,414.17,2018
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,500 - 749 grams,16.0,81.0,199.59 (Unreliable),2018
+Extreme immaturity,No,No,Unknown or Not Stated,499 grams or less,90.0,205.0,436.85,2018
+Extreme immaturity,No,No,Unknown or Not Stated,500 - 749 grams,15.0,63.0,238.87 (Unreliable),2018
+Other preterm infants,No,Yes,Normal 18.5-24.9,499 grams or less,19.0,205.0,93.78 (Unreliable),2018
+Other preterm infants,No,Yes,Overweight 25.0-29.9,499 grams or less,18.0,218.0,83.27 (Unreliable),2018
+Other preterm infants,No,Yes,Obesity I 30.0-34.9,499 grams or less,10.0,169.0,59.87 (Unreliable),2018
+Other preterm infants,No,Yes,Obesity II 35.0-39.9,499 grams or less,14.0,101.0,139.81 (Unreliable),2018
+Other preterm infants,No,No,Underweight <18.5,499 grams or less,11.0,89.0,125.01 (Unreliable),2018
+Other preterm infants,No,No,Normal 18.5-24.9,499 grams or less,109.0,834.0,130.77,2018
+Other preterm infants,No,No,Normal 18.5-24.9,500 - 749 grams,20.0,303.0,66.39,2018
+Other preterm infants,No,No,Overweight 25.0-29.9,499 grams or less,73.0,686.0,107.12,2018
+Other preterm infants,No,No,Overweight 25.0-29.9,500 - 749 grams,12.0,236.0,51.25 (Unreliable),2018
+Other preterm infants,No,No,Obesity I 30.0-34.9,499 grams or less,71.0,547.0,128.95,2018
+Other preterm infants,No,No,Obesity II 35.0-39.9,499 grams or less,48.0,327.0,148.24,2018
+Other preterm infants,No,No,Extreme Obesity III > 39.9,499 grams or less,41.0,287.0,143.86,2018
+Other preterm infants,No,No,Unknown or Not Stated,499 grams or less,26.0,205.0,127.33,2018
+Respiratory distress syndrome of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,21.0,873.0,24.23,2018
+Respiratory distress syndrome of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,19.0,756.0,25.27 (Unreliable),2018
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,12.0,560.0,21.54 (Unreliable),2018
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,26.0,1136.0,23.2,2018
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,26.0,952.0,27.51,2018
+Respiratory distress syndrome of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,12.0,652.0,18.50 (Unreliable),2018
+Unspecified pulmonary haemorrhage originating in the perinatal period,Yes,No,Normal 18.5-24.9,500 - 749 grams,16.0,1136.0,14.31 (Unreliable),2018
+Neonatal cardiac failure,Yes,No,Normal 18.5-24.9,500 - 749 grams,12.0,1136.0,10.75 (Unreliable),2018
+Neonatal cardiac failure,Yes,No,Overweight 25.0-29.9,500 - 749 grams,13.0,952.0,13.71 (Unreliable),2018
+Neonatal cardiac failure,No,No,Normal 18.5-24.9,499 grams or less,17.0,834.0,20.55 (Unreliable),2018
+Neonatal cardiac failure,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,547.0,20.46 (Unreliable),2018
+Neonatal cardiac dysrhythmia,Yes,No,Normal 18.5-24.9,500 - 749 grams,10.0,1136.0,8.93 (Unreliable),2018
+Neonatal cardiac dysrhythmia,No,No,Normal 18.5-24.9,499 grams or less,25.0,834.0,30.21,2018
+Neonatal cardiac dysrhythmia,No,No,Overweight 25.0-29.9,499 grams or less,21.0,686.0,30.92,2018
+Neonatal cardiac dysrhythmia,No,No,Obesity I 30.0-34.9,499 grams or less,19.0,547.0,34.99 (Unreliable),2018
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,500 - 749 grams,20.0,873.0,23.04,2018
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,16.0,756.0,21.26 (Unreliable),2018
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Extreme Obesity III > 39.9,500 - 749 grams,12.0,265.0,45.56 (Unreliable),2018
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,24.0,1136.0,21.21,2018
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,500 - 749 grams,17.0,952.0,17.92 (Unreliable),2018
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,500 - 749 grams,13.0,652.0,20.00 (Unreliable),2018
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity II 35.0-39.9,500 - 749 grams,11.0,471.0,23.40 (Unreliable),2018
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,14.0,873.0,16.09 (Unreliable),2018
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,15.0,756.0,20.07 (Unreliable),2018
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,20.0,1136.0,17.77,2018
+Necrotizing enterocolitis of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,873.0,11.46 (Unreliable),2018
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1136.0,9.70 (Unreliable),2018
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,750 - 999 grams,11.0,1508.0,7.30 (Unreliable),2018
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,14.0,952.0,14.71 (Unreliable),2018
+Necrotizing enterocolitis of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,12.0,652.0,18.41 (Unreliable),2018
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,12.0,15518.0,0.78 (Unreliable),2018
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,3500 - 3999 grams,12.0,9254.0,1.31 (Unreliable),2018
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,11.0,10368.0,1.07 (Unreliable),2018
+Anencephaly,No,No,Normal 18.5-24.9,1500 - 1999 grams,11.0,3027.0,3.67 (Unreliable),2018
+Anencephaly,No,No,Normal 18.5-24.9,2000 - 2499 grams,21.0,39388.0,0.54,2018
+Anencephaly,No,No,Normal 18.5-24.9,2500 - 2999 grams,12.0,216767.0,0.06 (Unreliable),2018
+Hypoplastic left heart syndrome,Yes,No,Normal 18.5-24.9,2500 - 2999 grams,14.0,14176.0,1.00 (Unreliable),2018
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,16.0,14437.0,1.11 (Unreliable),2018
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,16.0,14176.0,1.13 (Unreliable),2018
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,3000 - 3499 grams,16.0,15518.0,1.04 (Unreliable),2018
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,14.0,10368.0,1.36 (Unreliable),2018
+"Congenital malformation of heart, unspecified",No,No,Normal 18.5-24.9,2500 - 2999 grams,15.0,216767.0,0.07 (Unreliable),2018
+Hypoplasia and dysplasia of lung,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,10.0,14437.0,0.70 (Unreliable),2018
+Congenital diaphragmatic hernia,Yes,No,Normal 18.5-24.9,2500 - 2999 grams,10.0,14176.0,0.71 (Unreliable),2018
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,1250 - 1499 grams,13.0,2595.0,5.06 (Unreliable),2018
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,27.0,9995.0,2.71,2018
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,12.0,14437.0,0.84 (Unreliable),2018
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,1500 - 1999 grams,21.0,6518.0,3.24,2018
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,16.0,9060.0,1.78 (Unreliable),2018
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,29.0,3027.0,9.64,2018
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1500 - 1999 grams,12.0,1802.0,6.71 (Unreliable),2018
+"Edwards syndrome, unspecified",No,No,Obesity I 30.0-34.9,1500 - 1999 grams,11.0,1148.0,9.69 (Unreliable),2018
+"Patau syndrome, unspecified",Yes,No,Overweight 25.0-29.9,2500 - 2999 grams,11.0,9172.0,1.22 (Unreliable),2018
+"Patau syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,10.0,3027.0,3.32 (Unreliable),2018
+Sudden infant death syndrome - SIDS,Yes,Yes,Normal 18.5-24.9,2000 - 2499 grams,12.0,10742.0,1.12 (Unreliable),2018
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,13.0,14437.0,0.90 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,16.0,16287.0,0.98 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,32.0,66206.0,0.48,2018
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,31.0,127598.0,0.24,2018
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,17.0,79718.0,0.21 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,20.0,38983.0,0.51,2018
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,17.0,81976.0,0.21 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,18.0,48130.0,0.38 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,13.0,24827.0,0.53 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,10.0,18766.0,0.53 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,No,Underweight <18.5,2500 - 2999 grams,19.0,24244.0,0.78 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,No,Underweight <18.5,3000 - 3499 grams,14.0,35327.0,0.40 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2000 - 2499 grams,31.0,39388.0,0.79,2018
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2500 - 2999 grams,88.0,216767.0,0.41,2018
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3000 - 3499 grams,116.0,469551.0,0.25,2018
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3500 - 3999 grams,46.0,293306.0,0.16,2018
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,4000 - 4499 grams,14.0,61877.0,0.23 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2000 - 2499 grams,15.0,21213.0,0.71 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2500 - 2999 grams,49.0,114783.0,0.43,2018
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3000 - 3499 grams,55.0,274003.0,0.2,2018
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3500 - 3999 grams,36.0,199599.0,0.18,2018
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,25.0,60649.0,0.41,2018
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,43.0,145954.0,0.3,2018
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,31.0,111580.0,0.28,2018
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,16.0,28587.0,0.56 (Unreliable),2018
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,25.0,67270.0,0.37,2018
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,25.0,53577.0,0.47,2018
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,20.0,19658.0,1.02,2018
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,23.0,44846.0,0.51,2018
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,14.0,36154.0,0.39 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,Yes,Yes,Overweight 25.0-29.9,1500 - 1999 grams,10.0,5056.0,1.98 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,11.0,9995.0,1.10 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,15.0,14437.0,1.04 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,18.0,16287.0,1.11 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,30.0,66206.0,0.45,2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,30.0,127598.0,0.24,2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,13.0,38983.0,0.33 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,18.0,81976.0,0.22 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,16.0,59277.0,0.27 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,13.0,48130.0,0.27 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,11.0,24827.0,0.44 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,No,Underweight <18.5,3000 - 3499 grams,12.0,35327.0,0.34 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2000 - 2499 grams,28.0,39388.0,0.71,2018
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2500 - 2999 grams,90.0,216767.0,0.42,2018
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3000 - 3499 grams,97.0,469551.0,0.21,2018
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3500 - 3999 grams,28.0,293306.0,0.1,2018
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2000 - 2499 grams,18.0,21213.0,0.85 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2500 - 2999 grams,49.0,114783.0,0.43,2018
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3000 - 3499 grams,80.0,274003.0,0.29,2018
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3500 - 3999 grams,36.0,199599.0,0.18,2018
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,40.0,60649.0,0.66,2018
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,30.0,145954.0,0.21,2018
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,28.0,111580.0,0.25,2018
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,15.0,28587.0,0.53 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,23.0,67270.0,0.34,2018
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,12.0,53577.0,0.22 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,12.0,19658.0,0.61 (Unreliable),2018
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,25.0,44846.0,0.56,2018
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,11.0,36154.0,0.31 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,10.0,16287.0,0.62 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,22.0,66206.0,0.33,2018
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,25.0,127598.0,0.2,2018
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,12.0,79718.0,0.15 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,11.0,38983.0,0.28 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,13.0,81976.0,0.16 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,11.0,48130.0,0.23 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2000 - 2499 grams,16.0,39388.0,0.41 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2500 - 2999 grams,65.0,216767.0,0.3,2018
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3000 - 3499 grams,57.0,469551.0,0.12,2018
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3500 - 3999 grams,27.0,293306.0,0.09,2018
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2500 - 2999 grams,38.0,114783.0,0.33,2018
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3000 - 3499 grams,55.0,274003.0,0.2,2018
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3500 - 3999 grams,17.0,199599.0,0.09 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,20.0,60649.0,0.33,2018
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,29.0,145954.0,0.2,2018
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,22.0,111580.0,0.2,2018
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,15.0,67270.0,0.22 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,13.0,53577.0,0.24 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,10.0,19658.0,0.51 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,19.0,44846.0,0.42 (Unreliable),2018
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,16.0,36154.0,0.44 (Unreliable),2018
+Assault by unspecified means,No,No,Normal 18.5-24.9,3000 - 3499 grams,13.0,469551.0,0.03 (Unreliable),2018
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,865.0,11.58 (Unreliable),2019
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,No,Normal 18.5-24.9,500 - 749 grams,15.0,1139.0,13.21 (Unreliable),2019
+Newborn affected by incompetent cervix,No,Yes,Normal 18.5-24.9,499 grams or less,14.0,195.0,72.43 (Unreliable),2019
+Newborn affected by incompetent cervix,No,No,Normal 18.5-24.9,499 grams or less,50.0,812.0,61.07,2019
+Newborn affected by incompetent cervix,No,No,Overweight 25.0-29.9,499 grams or less,40.0,659.0,61.27,2019
+Newborn affected by incompetent cervix,No,No,Obesity I 30.0-34.9,499 grams or less,43.0,546.0,79.56,2019
+Newborn affected by incompetent cervix,No,No,Obesity II 35.0-39.9,499 grams or less,23.0,364.0,63.99,2019
+Newborn affected by incompetent cervix,No,No,Extreme Obesity III > 39.9,499 grams or less,25.0,290.0,87.26,2019
+Newborn affected by incompetent cervix,No,No,Unknown or Not Stated,499 grams or less,14.0,212.0,66.27 (Unreliable),2019
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,499 grams or less,34.0,195.0,175.58,2019
+Newborn affected by premature rupture of membranes,No,Yes,Overweight 25.0-29.9,499 grams or less,29.0,200.0,147.37,2019
+Newborn affected by premature rupture of membranes,No,Yes,Obesity I 30.0-34.9,499 grams or less,15.0,151.0,100.94 (Unreliable),2019
+Newborn affected by premature rupture of membranes,No,Yes,Obesity II 35.0-39.9,499 grams or less,11.0,102.0,108.10 (Unreliable),2019
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,499 grams or less,79.0,812.0,97.37,2019
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,500 - 749 grams,22.0,309.0,72.3,2019
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,499 grams or less,60.0,659.0,90.48,2019
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,500 - 749 grams,12.0,224.0,53.81 (Unreliable),2019
+Newborn affected by premature rupture of membranes,No,No,Obesity I 30.0-34.9,499 grams or less,43.0,546.0,79.42,2019
+Newborn affected by premature rupture of membranes,No,No,Obesity II 35.0-39.9,499 grams or less,26.0,364.0,72.14,2019
+Newborn affected by premature rupture of membranes,No,No,Extreme Obesity III > 39.9,499 grams or less,27.0,290.0,94.51,2019
+Newborn affected by premature rupture of membranes,No,No,Unknown or Not Stated,499 grams or less,28.0,212.0,132.76,2019
+Newborn affected by multiple pregnancy,No,No,Extreme Obesity III > 39.9,499 grams or less,10.0,290.0,34.48 (Unreliable),2019
+Newborn affected by other maternal complications of pregnancy,No,No,Normal 18.5-24.9,499 grams or less,10.0,812.0,12.63 (Unreliable),2019
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,499 grams or less,42.0,812.0,52.13,2019
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,500 - 749 grams,10.0,309.0,32.95 (Unreliable),2019
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Overweight 25.0-29.9,499 grams or less,32.0,659.0,49.23,2019
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Obesity I 30.0-34.9,499 grams or less,18.0,546.0,33.25 (Unreliable),2019
+Newborn affected by chorioamnionitis,No,Yes,Normal 18.5-24.9,499 grams or less,16.0,195.0,83.04 (Unreliable),2019
+Newborn affected by chorioamnionitis,No,Yes,Overweight 25.0-29.9,499 grams or less,16.0,200.0,80.74 (Unreliable),2019
+Newborn affected by chorioamnionitis,No,Yes,Obesity I 30.0-34.9,499 grams or less,17.0,151.0,113.14 (Unreliable),2019
+Newborn affected by chorioamnionitis,No,Yes,Obesity II 35.0-39.9,499 grams or less,12.0,102.0,118.29 (Unreliable),2019
+Newborn affected by chorioamnionitis,No,No,Normal 18.5-24.9,499 grams or less,31.0,812.0,38.55,2019
+Newborn affected by chorioamnionitis,No,No,Overweight 25.0-29.9,499 grams or less,12.0,659.0,18.32 (Unreliable),2019
+Newborn affected by chorioamnionitis,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,546.0,20.32 (Unreliable),2019
+Newborn affected by chorioamnionitis,No,No,Obesity II 35.0-39.9,499 grams or less,12.0,364.0,33.28 (Unreliable),2019
+"Slow fetal growth, unspecified",Yes,No,Overweight 25.0-29.9,499 grams or less,10.0,239.0,42.54 (Unreliable),2019
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,499 grams or less,12.0,137.0,87.82 (Unreliable),2019
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,34.0,865.0,39.63,2019
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,499 grams or less,16.0,124.0,129.53 (Unreliable),2019
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,28.0,723.0,39.02,2019
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,499 grams or less,10.0,108.0,93.01 (Unreliable),2019
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,17.0,560.0,30.72 (Unreliable),2019
+Extreme immaturity,Yes,Yes,Obesity II 35.0-39.9,499 grams or less,10.0,55.0,184.96 (Unreliable),2019
+Extreme immaturity,Yes,No,Normal 18.5-24.9,499 grams or less,61.0,286.0,213.37,2019
+Extreme immaturity,Yes,No,Normal 18.5-24.9,500 - 749 grams,37.0,1139.0,32.07,2019
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,499 grams or less,43.0,239.0,178.34,2019
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,500 - 749 grams,35.0,958.0,36.78,2019
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,499 grams or less,31.0,176.0,178.33,2019
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,19.0,692.0,27.82 (Unreliable),2019
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,499 grams or less,20.0,92.0,217.89,2019
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,499 grams or less,12.0,95.0,128.09 (Unreliable),2019
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,15.0,360.0,42.31 (Unreliable),2019
+Extreme immaturity,No,Yes,Normal 18.5-24.9,499 grams or less,68.0,195.0,348.04,2019
+Extreme immaturity,No,Yes,Normal 18.5-24.9,500 - 749 grams,16.0,100.0,161.25 (Unreliable),2019
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,499 grams or less,73.0,200.0,363.85,2019
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,500 - 749 grams,16.0,85.0,190.07 (Unreliable),2019
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,499 grams or less,49.0,151.0,321.24,2019
+Extreme immaturity,No,Yes,Obesity II 35.0-39.9,499 grams or less,39.0,102.0,383.98,2019
+Extreme immaturity,No,Yes,Extreme Obesity III > 39.9,499 grams or less,30.0,74.0,407.3,2019
+Extreme immaturity,No,Yes,Extreme Obesity III > 39.9,500 - 749 grams,12.0,29.0,414.61 (Unreliable),2019
+Extreme immaturity,No,Yes,Unknown or Not Stated,499 grams or less,11.0,36.0,307.10 (Unreliable),2019
+Extreme immaturity,No,No,Underweight <18.5,499 grams or less,28.0,65.0,436.05,2019
+Extreme immaturity,No,No,Normal 18.5-24.9,499 grams or less,295.0,812.0,363.66,2019
+Extreme immaturity,No,No,Normal 18.5-24.9,500 - 749 grams,64.0,309.0,208.42,2019
+Extreme immaturity,No,No,Overweight 25.0-29.9,499 grams or less,256.0,659.0,388.66,2019
+Extreme immaturity,No,No,Overweight 25.0-29.9,500 - 749 grams,45.0,224.0,202.14,2019
+Extreme immaturity,No,No,Obesity I 30.0-34.9,499 grams or less,221.0,546.0,405.08,2019
+Extreme immaturity,No,No,Obesity I 30.0-34.9,500 - 749 grams,37.0,149.0,249.8,2019
+Extreme immaturity,No,No,Obesity II 35.0-39.9,499 grams or less,153.0,364.0,421.67,2019
+Extreme immaturity,No,No,Obesity II 35.0-39.9,500 - 749 grams,31.0,122.0,255.71,2019
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,499 grams or less,124.0,290.0,427.45,2019
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,500 - 749 grams,19.0,83.0,229.86 (Unreliable),2019
+Extreme immaturity,No,No,Unknown or Not Stated,499 grams or less,81.0,212.0,379.85,2019
+Extreme immaturity,No,No,Unknown or Not Stated,500 - 749 grams,13.0,51.0,256.80 (Unreliable),2019
+Other preterm infants,No,Yes,Normal 18.5-24.9,499 grams or less,14.0,195.0,73.89 (Unreliable),2019
+Other preterm infants,No,Yes,Overweight 25.0-29.9,499 grams or less,21.0,200.0,105.87,2019
+Other preterm infants,No,Yes,Obesity I 30.0-34.9,499 grams or less,17.0,151.0,112.81 (Unreliable),2019
+Other preterm infants,No,No,Normal 18.5-24.9,499 grams or less,96.0,812.0,117.8,2019
+Other preterm infants,No,No,Normal 18.5-24.9,500 - 749 grams,25.0,309.0,81.47,2019
+Other preterm infants,No,No,Overweight 25.0-29.9,499 grams or less,82.0,659.0,124.21,2019
+Other preterm infants,No,No,Overweight 25.0-29.9,500 - 749 grams,15.0,224.0,67.98 (Unreliable),2019
+Other preterm infants,No,No,Obesity I 30.0-34.9,499 grams or less,68.0,546.0,124.54,2019
+Other preterm infants,No,No,Obesity II 35.0-39.9,499 grams or less,49.0,364.0,135.21,2019
+Other preterm infants,No,No,Extreme Obesity III > 39.9,499 grams or less,34.0,290.0,117.9,2019
+Other preterm infants,No,No,Unknown or Not Stated,499 grams or less,29.0,212.0,137.56,2019
+"Intrauterine hypoxia, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,10.0,1139.0,8.82 (Unreliable),2019
+Respiratory distress syndrome of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,22.0,865.0,25.67,2019
+Respiratory distress syndrome of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,17.0,723.0,23.69 (Unreliable),2019
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,16.0,560.0,28.82 (Unreliable),2019
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity II 35.0-39.9,500 - 749 grams,16.0,355.0,45.63 (Unreliable),2019
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,24.0,1139.0,21.18,2019
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,750 - 999 grams,11.0,1595.0,6.96 (Unreliable),2019
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,499 grams or less,11.0,239.0,46.08 (Unreliable),2019
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,15.0,958.0,15.91 (Unreliable),2019
+Respiratory distress syndrome of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,21.0,692.0,30.65,2019
+Unspecified pulmonary haemorrhage originating in the perinatal period,Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,958.0,10.49 (Unreliable),2019
+Primary atelectasis of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,865.0,11.78 (Unreliable),2019
+Primary atelectasis of newborn,No,No,Overweight 25.0-29.9,499 grams or less,11.0,659.0,16.81 (Unreliable),2019
+Neonatal cardiac failure,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,865.0,11.69 (Unreliable),2019
+Neonatal cardiac failure,Yes,No,Normal 18.5-24.9,500 - 749 grams,13.0,1139.0,11.47 (Unreliable),2019
+Neonatal cardiac failure,Yes,No,Overweight 25.0-29.9,499 grams or less,12.0,239.0,50.27 (Unreliable),2019
+Neonatal cardiac failure,No,No,Normal 18.5-24.9,500 - 749 grams,12.0,309.0,39.23 (Unreliable),2019
+Neonatal cardiac failure,No,No,Overweight 25.0-29.9,499 grams or less,14.0,659.0,21.38 (Unreliable),2019
+Neonatal cardiac dysrhythmia,No,No,Normal 18.5-24.9,499 grams or less,25.0,812.0,31.03,2019
+Neonatal cardiac dysrhythmia,No,No,Overweight 25.0-29.9,499 grams or less,20.0,659.0,30.59,2019
+Neonatal cardiac dysrhythmia,No,No,Obesity I 30.0-34.9,499 grams or less,25.0,546.0,46.3,2019
+Neonatal cardiac dysrhythmia,No,No,Obesity II 35.0-39.9,499 grams or less,10.0,364.0,27.64 (Unreliable),2019
+Neonatal cardiac dysrhythmia,No,No,Extreme Obesity III > 39.9,499 grams or less,10.0,290.0,34.82 (Unreliable),2019
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,500 - 749 grams,17.0,865.0,19.72 (Unreliable),2019
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,750 - 999 grams,12.0,1206.0,9.96 (Unreliable),2019
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,18.0,723.0,25.07 (Unreliable),2019
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,12.0,560.0,21.54 (Unreliable),2019
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,20.0,1139.0,17.74,2019
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,750 - 999 grams,11.0,1595.0,6.91 (Unreliable),2019
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,499 grams or less,11.0,239.0,46.46 (Unreliable),2019
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,500 - 749 grams,23.0,958.0,24.25,2019
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,750 - 999 grams,11.0,1214.0,9.13 (Unreliable),2019
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,11.0,865.0,13.08 (Unreliable),2019
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,13.0,723.0,18.17 (Unreliable),2019
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,13.0,1139.0,11.55 (Unreliable),2019
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,20.0,958.0,21.07,2019
+Necrotizing enterocolitis of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,11.0,865.0,12.74 (Unreliable),2019
+Necrotizing enterocolitis of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,12.0,723.0,16.65 (Unreliable),2019
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,23.0,1139.0,20.32,2019
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,750 - 999 grams,16.0,1214.0,13.25 (Unreliable),2019
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,12.0,15474.0,0.78 (Unreliable),2019
+Anencephaly,No,No,Normal 18.5-24.9,1500 - 1999 grams,12.0,2922.0,4.16 (Unreliable),2019
+Anencephaly,No,No,Normal 18.5-24.9,2000 - 2499 grams,19.0,38445.0,0.50 (Unreliable),2019
+Anencephaly,No,No,Normal 18.5-24.9,2500 - 2999 grams,10.0,211957.0,0.05 (Unreliable),2019
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,12.0,14133.0,0.86 (Unreliable),2019
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,19.0,14342.0,1.33 (Unreliable),2019
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,10.0,9034.0,1.12 (Unreliable),2019
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,2500 - 2999 grams,11.0,9584.0,1.16 (Unreliable),2019
+"Edwards syndrome, unspecified",Yes,Yes,Normal 18.5-24.9,1500 - 1999 grams,14.0,7898.0,1.79 (Unreliable),2019
+"Edwards syndrome, unspecified",Yes,Yes,Overweight 25.0-29.9,1500 - 1999 grams,12.0,5067.0,2.37 (Unreliable),2019
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,20.0,9657.0,2.09,2019
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,12.0,14133.0,0.85 (Unreliable),2019
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,1500 - 1999 grams,10.0,6652.0,1.50 (Unreliable),2019
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,11.0,9034.0,1.23 (Unreliable),2019
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,23.0,2922.0,7.93,2019
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1250 - 1499 grams,10.0,282.0,35.86 (Unreliable),2019
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1500 - 1999 grams,15.0,1804.0,8.38 (Unreliable),2019
+"Patau syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,10.0,14133.0,0.71 (Unreliable),2019
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,11.0,9657.0,1.14 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,12.0,15637.0,0.77 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,23.0,64960.0,0.36,2019
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,35.0,122930.0,0.29,2019
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,11.0,74352.0,0.15 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,11.0,39537.0,0.28 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,17.0,82381.0,0.21 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,17.0,23687.0,0.72 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,12.0,49872.0,0.24 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,2500 - 2999 grams,13.0,12168.0,1.07 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,20.0,25717.0,0.78,2019
+Sudden infant death syndrome - SIDS,No,No,Underweight <18.5,3000 - 3499 grams,17.0,33550.0,0.51 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2000 - 2499 grams,30.0,38445.0,0.78,2019
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2500 - 2999 grams,73.0,211957.0,0.35,2019
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3000 - 3499 grams,91.0,458350.0,0.2,2019
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3500 - 3999 grams,32.0,279019.0,0.12,2019
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2000 - 2499 grams,20.0,21123.0,0.95,2019
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2500 - 2999 grams,51.0,117266.0,0.44,2019
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3000 - 3499 grams,55.0,277168.0,0.2,2019
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3500 - 3999 grams,37.0,197874.0,0.19,2019
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2000 - 2499 grams,11.0,11878.0,0.93 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,28.0,63491.0,0.44,2019
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,40.0,149677.0,0.27,2019
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,27.0,112089.0,0.24,2019
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,15.0,29844.0,0.50 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,20.0,69693.0,0.29,2019
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,24.0,54322.0,0.44,2019
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,12.0,20678.0,0.58 (Unreliable),2019
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,29.0,46224.0,0.63,2019
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,12.0,36098.0,0.33 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,Yes,Yes,Overweight 25.0-29.9,1500 - 1999 grams,11.0,5067.0,2.18 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,12.0,9657.0,1.25 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,12.0,15637.0,0.77 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,27.0,64960.0,0.42,2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,21.0,122930.0,0.17,2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,11.0,74352.0,0.15 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,15.0,39537.0,0.38 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,26.0,82381.0,0.32,2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,10.0,58223.0,0.17 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,11.0,23687.0,0.47 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,12.0,19605.0,0.61 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Underweight <18.5,2500 - 2999 grams,12.0,22941.0,0.52 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2000 - 2499 grams,25.0,38445.0,0.65,2019
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2500 - 2999 grams,62.0,211957.0,0.29,2019
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3000 - 3499 grams,91.0,458350.0,0.2,2019
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3500 - 3999 grams,38.0,279019.0,0.14,2019
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2000 - 2499 grams,17.0,21123.0,0.81 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2500 - 2999 grams,40.0,117266.0,0.34,2019
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3000 - 3499 grams,62.0,277168.0,0.22,2019
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3500 - 3999 grams,35.0,197874.0,0.18,2019
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,4000 - 4499 grams,13.0,49208.0,0.27 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,23.0,63491.0,0.36,2019
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,45.0,149677.0,0.3,2019
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,18.0,112089.0,0.16 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,14.0,29844.0,0.47 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,28.0,69693.0,0.4,2019
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,11.0,54322.0,0.20 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,16.0,20678.0,0.78 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,13.0,46224.0,0.28 (Unreliable),2019
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,12.0,36098.0,0.33 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,10.0,15637.0,0.64 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,21.0,64960.0,0.32,2019
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,19.0,122930.0,0.15 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,11.0,74352.0,0.15 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,15.0,39537.0,0.38 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,17.0,82381.0,0.21 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,11.0,23687.0,0.47 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,13.0,49872.0,0.26 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2000 - 2499 grams,22.0,38445.0,0.57,2019
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2500 - 2999 grams,62.0,211957.0,0.29,2019
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3000 - 3499 grams,79.0,458350.0,0.17,2019
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3500 - 3999 grams,35.0,279019.0,0.13,2019
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2500 - 2999 grams,36.0,117266.0,0.31,2019
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3000 - 3499 grams,53.0,277168.0,0.19,2019
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3500 - 3999 grams,20.0,197874.0,0.1,2019
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,24.0,63491.0,0.38,2019
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,46.0,149677.0,0.31,2019
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,18.0,112089.0,0.16 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,16.0,29844.0,0.54 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,28.0,69693.0,0.4,2019
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,19.0,54322.0,0.35 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,10.0,20678.0,0.48 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,10.0,46224.0,0.22 (Unreliable),2019
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,11.0,36098.0,0.30 (Unreliable),2019
+Assault by unspecified means,No,No,Normal 18.5-24.9,2500 - 2999 grams,12.0,211957.0,0.06 (Unreliable),2019
+Newborn affected by incompetent cervix,No,Yes,Overweight 25.0-29.9,499 grams or less,19.0,178.0,108.08 (Unreliable),2020
+Newborn affected by incompetent cervix,No,No,Normal 18.5-24.9,499 grams or less,48.0,745.0,64.97,2020
+Newborn affected by incompetent cervix,No,No,Overweight 25.0-29.9,499 grams or less,42.0,636.0,65.48,2020
+Newborn affected by incompetent cervix,No,No,Obesity I 30.0-34.9,499 grams or less,35.0,524.0,67.32,2020
+Newborn affected by incompetent cervix,No,No,Obesity II 35.0-39.9,499 grams or less,25.0,332.0,76.45,2020
+Newborn affected by incompetent cervix,No,No,Extreme Obesity III > 39.9,499 grams or less,16.0,304.0,53.13 (Unreliable),2020
+Newborn affected by incompetent cervix,No,No,Unknown or Not Stated,499 grams or less,11.0,195.0,56.80 (Unreliable),2020
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,499 grams or less,22.0,179.0,124.02,2020
+Newborn affected by premature rupture of membranes,No,Yes,Overweight 25.0-29.9,499 grams or less,25.0,178.0,141.37,2020
+Newborn affected by premature rupture of membranes,No,Yes,Obesity I 30.0-34.9,499 grams or less,14.0,154.0,91.98 (Unreliable),2020
+Newborn affected by premature rupture of membranes,No,Yes,Obesity II 35.0-39.9,499 grams or less,15.0,108.0,139.96 (Unreliable),2020
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,499 grams or less,79.0,745.0,105.52,2020
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,499 grams or less,62.0,636.0,96.95,2020
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,500 - 749 grams,11.0,175.0,64.18 (Unreliable),2020
+Newborn affected by premature rupture of membranes,No,No,Obesity I 30.0-34.9,499 grams or less,60.0,524.0,113.88,2020
+Newborn affected by premature rupture of membranes,No,No,Obesity II 35.0-39.9,499 grams or less,26.0,332.0,78.97,2020
+Newborn affected by premature rupture of membranes,No,No,Extreme Obesity III > 39.9,499 grams or less,39.0,304.0,129.04,2020
+Newborn affected by premature rupture of membranes,No,No,Unknown or Not Stated,499 grams or less,23.0,195.0,118.64,2020
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,499 grams or less,29.0,745.0,39.5,2020
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Overweight 25.0-29.9,499 grams or less,29.0,636.0,46.0,2020
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Obesity I 30.0-34.9,499 grams or less,13.0,524.0,25.11 (Unreliable),2020
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Obesity II 35.0-39.9,499 grams or less,10.0,332.0,30.41 (Unreliable),2020
+Newborn affected by chorioamnionitis,No,Yes,Normal 18.5-24.9,499 grams or less,13.0,179.0,72.98 (Unreliable),2020
+Newborn affected by chorioamnionitis,No,Yes,Overweight 25.0-29.9,499 grams or less,14.0,178.0,79.53 (Unreliable),2020
+Newborn affected by chorioamnionitis,No,Yes,Obesity I 30.0-34.9,499 grams or less,14.0,154.0,91.98 (Unreliable),2020
+Newborn affected by chorioamnionitis,No,Yes,Extreme Obesity III > 39.9,499 grams or less,10.0,77.0,130.10 (Unreliable),2020
+Newborn affected by chorioamnionitis,No,No,Normal 18.5-24.9,499 grams or less,14.0,745.0,19.07 (Unreliable),2020
+Newborn affected by chorioamnionitis,No,No,Overweight 25.0-29.9,499 grams or less,19.0,636.0,30.12 (Unreliable),2020
+Newborn affected by chorioamnionitis,No,No,Obesity II 35.0-39.9,499 grams or less,11.0,332.0,33.60 (Unreliable),2020
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,499 grams or less,16.0,135.0,119.49 (Unreliable),2020
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,27.0,782.0,34.74,2020
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,499 grams or less,15.0,121.0,125.05 (Unreliable),2020
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,15.0,715.0,21.06 (Unreliable),2020
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,16.0,549.0,29.47 (Unreliable),2020
+Extreme immaturity,Yes,Yes,Extreme Obesity III > 39.9,500 - 749 grams,11.0,308.0,35.83 (Unreliable),2020
+Extreme immaturity,Yes,No,Normal 18.5-24.9,499 grams or less,41.0,225.0,180.12,2020
+Extreme immaturity,Yes,No,Normal 18.5-24.9,500 - 749 grams,37.0,1065.0,34.93,2020
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,499 grams or less,30.0,241.0,125.25,2020
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,500 - 749 grams,28.0,907.0,31.16,2020
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,499 grams or less,31.0,180.0,173.78,2020
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,32.0,677.0,47.7,2020
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,499 grams or less,19.0,99.0,193.30 (Unreliable),2020
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,13.0,427.0,30.65 (Unreliable),2020
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,499 grams or less,20.0,105.0,191.8,2020
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,18.0,357.0,50.60 (Unreliable),2020
+Extreme immaturity,No,Yes,Normal 18.5-24.9,499 grams or less,56.0,179.0,311.05,2020
+Extreme immaturity,No,Yes,Normal 18.5-24.9,500 - 749 grams,27.0,103.0,264.51,2020
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,499 grams or less,53.0,178.0,299.98,2020
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,500 - 749 grams,11.0,76.0,146.23 (Unreliable),2020
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,499 grams or less,53.0,154.0,341.64,2020
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,500 - 749 grams,14.0,72.0,196.32 (Unreliable),2020
+Extreme immaturity,No,Yes,Obesity II 35.0-39.9,499 grams or less,36.0,108.0,336.48,2020
+Extreme immaturity,No,Yes,Extreme Obesity III > 39.9,499 grams or less,28.0,77.0,365.29,2020
+Extreme immaturity,No,No,Underweight <18.5,499 grams or less,22.0,67.0,330.69,2020
+Extreme immaturity,No,No,Normal 18.5-24.9,499 grams or less,294.0,745.0,394.71,2020
+Extreme immaturity,No,No,Normal 18.5-24.9,500 - 749 grams,51.0,221.0,229.39,2020
+Extreme immaturity,No,No,Overweight 25.0-29.9,499 grams or less,225.0,636.0,353.04,2020
+Extreme immaturity,No,No,Overweight 25.0-29.9,500 - 749 grams,31.0,175.0,178.23,2020
+Extreme immaturity,No,No,Obesity I 30.0-34.9,499 grams or less,216.0,524.0,411.98,2020
+Extreme immaturity,No,No,Obesity I 30.0-34.9,500 - 749 grams,32.0,148.0,218.91,2020
+Extreme immaturity,No,No,Obesity II 35.0-39.9,499 grams or less,127.0,332.0,382.46,2020
+Extreme immaturity,No,No,Obesity II 35.0-39.9,500 - 749 grams,19.0,68.0,283.51 (Unreliable),2020
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,499 grams or less,123.0,304.0,404.76,2020
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,500 - 749 grams,13.0,68.0,193.71 (Unreliable),2020
+Extreme immaturity,No,No,Unknown or Not Stated,499 grams or less,68.0,195.0,346.46,2020
+Extreme immaturity,No,No,Unknown or Not Stated,500 - 749 grams,15.0,45.0,336.90 (Unreliable),2020
+Other preterm infants,Yes,No,Overweight 25.0-29.9,499 grams or less,10.0,241.0,42.22 (Unreliable),2020
+Other preterm infants,No,Yes,Normal 18.5-24.9,499 grams or less,19.0,179.0,107.86 (Unreliable),2020
+Other preterm infants,No,Yes,Overweight 25.0-29.9,499 grams or less,15.0,178.0,85.54 (Unreliable),2020
+Other preterm infants,No,Yes,Obesity I 30.0-34.9,499 grams or less,28.0,154.0,183.05,2020
+Other preterm infants,No,Yes,Obesity II 35.0-39.9,499 grams or less,14.0,108.0,130.57 (Unreliable),2020
+Other preterm infants,No,No,Underweight <18.5,499 grams or less,10.0,67.0,150.14 (Unreliable),2020
+Other preterm infants,No,No,Normal 18.5-24.9,499 grams or less,77.0,745.0,102.96,2020
+Other preterm infants,No,No,Normal 18.5-24.9,500 - 749 grams,20.0,221.0,91.05,2020
+Other preterm infants,No,No,Overweight 25.0-29.9,499 grams or less,87.0,636.0,136.61,2020
+Other preterm infants,No,No,Overweight 25.0-29.9,500 - 749 grams,13.0,175.0,75.03 (Unreliable),2020
+Other preterm infants,No,No,Obesity I 30.0-34.9,499 grams or less,52.0,524.0,100.17,2020
+Other preterm infants,No,No,Obesity II 35.0-39.9,499 grams or less,41.0,332.0,124.48,2020
+Other preterm infants,No,No,Extreme Obesity III > 39.9,499 grams or less,33.0,304.0,109.05,2020
+Other preterm infants,No,No,Unknown or Not Stated,499 grams or less,27.0,195.0,139.32,2020
+Respiratory distress syndrome of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,21.0,782.0,27.03,2020
+Respiratory distress syndrome of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,17.0,715.0,23.88 (Unreliable),2020
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,13.0,549.0,23.86 (Unreliable),2020
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,16.0,1065.0,15.12 (Unreliable),2020
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,750 - 999 grams,10.0,1392.0,7.23 (Unreliable),2020
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,499 grams or less,11.0,241.0,45.80 (Unreliable),2020
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,22.0,907.0,24.42,2020
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,750 - 999 grams,10.0,1131.0,8.89 (Unreliable),2020
+Respiratory distress syndrome of newborn,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,11.0,427.0,25.96 (Unreliable),2020
+Respiratory distress syndrome of newborn,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,10.0,357.0,28.09 (Unreliable),2020
+Unspecified pulmonary haemorrhage originating in the perinatal period,Yes,No,Overweight 25.0-29.9,500 - 749 grams,11.0,907.0,12.16 (Unreliable),2020
+Primary atelectasis of newborn,No,No,Normal 18.5-24.9,499 grams or less,11.0,745.0,14.97 (Unreliable),2020
+Neonatal cardiac failure,Yes,No,Normal 18.5-24.9,500 - 749 grams,13.0,1065.0,12.26 (Unreliable),2020
+Neonatal cardiac failure,Yes,No,Overweight 25.0-29.9,500 - 749 grams,13.0,907.0,14.40 (Unreliable),2020
+Neonatal cardiac failure,No,No,Normal 18.5-24.9,499 grams or less,13.0,745.0,17.64 (Unreliable),2020
+Neonatal cardiac failure,No,No,Overweight 25.0-29.9,499 grams or less,14.0,636.0,22.18 (Unreliable),2020
+Neonatal cardiac failure,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,524.0,21.08 (Unreliable),2020
+Neonatal cardiac dysrhythmia,Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,907.0,11.07 (Unreliable),2020
+Neonatal cardiac dysrhythmia,No,No,Normal 18.5-24.9,499 grams or less,21.0,745.0,28.4,2020
+Neonatal cardiac dysrhythmia,No,No,Overweight 25.0-29.9,499 grams or less,20.0,636.0,31.95,2020
+Neonatal cardiac dysrhythmia,No,No,Obesity I 30.0-34.9,499 grams or less,17.0,524.0,32.61 (Unreliable),2020
+Neonatal cardiac dysrhythmia,No,No,Unknown or Not Stated,499 grams or less,10.0,195.0,51.76 (Unreliable),2020
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,500 - 749 grams,16.0,782.0,20.57 (Unreliable),2020
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,15.0,549.0,27.57 (Unreliable),2020
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Obesity II 35.0-39.9,500 - 749 grams,10.0,352.0,28.80 (Unreliable),2020
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,18.0,1065.0,16.97 (Unreliable),2020
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,500 - 749 grams,18.0,907.0,19.88 (Unreliable),2020
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,750 - 999 grams,10.0,1131.0,8.86 (Unreliable),2020
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,500 - 749 grams,13.0,677.0,19.36 (Unreliable),2020
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,17.0,782.0,21.91 (Unreliable),2020
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1065.0,10.37 (Unreliable),2020
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,907.0,11.11 (Unreliable),2020
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,17.0,677.0,25.41 (Unreliable),2020
+Necrotizing enterocolitis of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,782.0,12.81 (Unreliable),2020
+Necrotizing enterocolitis of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,10.0,715.0,14.02 (Unreliable),2020
+Necrotizing enterocolitis of newborn,Yes,Yes,Overweight 25.0-29.9,750 - 999 grams,12.0,910.0,13.21 (Unreliable),2020
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,14.0,1065.0,13.15 (Unreliable),2020
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,750 - 999 grams,11.0,1392.0,7.92 (Unreliable),2020
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,13.0,907.0,14.34 (Unreliable),2020
+Necrotizing enterocolitis of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,10.0,677.0,14.79 (Unreliable),2020
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,2500 - 2999 grams,14.0,13447.0,1.06 (Unreliable),2020
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,15.0,14542.0,1.04 (Unreliable),2020
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,13.0,10653.0,1.23 (Unreliable),2020
+Anencephaly,No,No,Normal 18.5-24.9,2000 - 2499 grams,10.0,35886.0,0.28 (Unreliable),2020
+Anencephaly,No,No,Normal 18.5-24.9,2500 - 2999 grams,14.0,200809.0,0.07 (Unreliable),2020
+Anencephaly,No,No,Overweight 25.0-29.9,2000 - 2499 grams,10.0,20467.0,0.49 (Unreliable),2020
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,10.0,12756.0,0.78 (Unreliable),2020
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,16.0,13447.0,1.19 (Unreliable),2020
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,3000 - 3499 grams,11.0,14542.0,0.76 (Unreliable),2020
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,2500 - 2999 grams,14.0,9393.0,1.50 (Unreliable),2020
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,12.0,10653.0,1.13 (Unreliable),2020
+"Congenital malformation of heart, unspecified",Yes,No,Obesity I 30.0-34.9,2500 - 2999 grams,12.0,5902.0,2.05 (Unreliable),2020
+"Edwards syndrome, unspecified",Yes,Yes,Normal 18.5-24.9,1500 - 1999 grams,11.0,7169.0,1.54 (Unreliable),2020
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,21.0,9164.0,2.3,2020
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,14.0,12756.0,1.10 (Unreliable),2020
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,1500 - 1999 grams,12.0,6348.0,1.90 (Unreliable),2020
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,14.0,8767.0,1.60 (Unreliable),2020
+"Edwards syndrome, unspecified",Yes,No,Obesity I 30.0-34.9,1500 - 1999 grams,13.0,4220.0,3.11 (Unreliable),2020
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,17.0,2597.0,6.59 (Unreliable),2020
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,2000 - 2499 grams,11.0,35886.0,0.31 (Unreliable),2020
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1500 - 1999 grams,13.0,1672.0,7.81 (Unreliable),2020
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,2000 - 2499 grams,10.0,20467.0,0.49 (Unreliable),2020
+"Patau syndrome, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,13.0,13447.0,0.98 (Unreliable),2020
+"Patau syndrome, unspecified",No,No,Normal 18.5-24.9,2500 - 2999 grams,14.0,200809.0,0.07 (Unreliable),2020
+Sudden infant death syndrome - SIDS,Yes,Yes,Normal 18.5-24.9,1500 - 1999 grams,10.0,7169.0,1.40 (Unreliable),2020
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,15.0,9164.0,1.64 (Unreliable),2020
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,12.0,12756.0,0.95 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,12.0,15417.0,0.78 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,26.0,62792.0,0.42,2020
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,37.0,117553.0,0.32,2020
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,20.0,39883.0,0.5,2020
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,30.0,81580.0,0.37,2020
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,13.0,58139.0,0.23 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,12.0,24265.0,0.50 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,20.0,50363.0,0.4,2020
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3500 - 3999 grams,11.0,37507.0,0.29 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,10.0,20193.0,0.50 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,No,Underweight <18.5,2500 - 2999 grams,13.0,20727.0,0.63 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2000 - 2499 grams,18.0,35886.0,0.50 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2500 - 2999 grams,83.0,200809.0,0.42,2020
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3000 - 3499 grams,107.0,429659.0,0.25,2020
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3500 - 3999 grams,44.0,263142.0,0.17,2020
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2000 - 2499 grams,15.0,20467.0,0.74 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2500 - 2999 grams,54.0,114685.0,0.47,2020
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3000 - 3499 grams,78.0,269802.0,0.29,2020
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3500 - 3999 grams,64.0,192826.0,0.33,2020
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,30.0,62906.0,0.48,2020
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,63.0,148865.0,0.43,2020
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,24.0,111507.0,0.22,2020
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,23.0,29940.0,0.77,2020
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,25.0,69913.0,0.36,2020
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,17.0,54180.0,0.31 (Unreliable),2020
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,24.0,20990.0,1.15,2020
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,34.0,46108.0,0.74,2020
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,22.0,36099.0,0.61,2020
+Sudden infant death syndrome - SIDS,No,No,Unknown or Not Stated,2500 - 2999 grams,10.0,7667.0,1.31 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,12.0,12756.0,0.95 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,10.0,15417.0,0.65 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,21.0,62792.0,0.34,2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,17.0,117553.0,0.15 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,16.0,39883.0,0.40 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,12.0,81580.0,0.15 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,12.0,58139.0,0.21 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,10.0,24265.0,0.41 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,14.0,50363.0,0.28 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,11.0,20193.0,0.55 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Underweight <18.5,2500 - 2999 grams,10.0,20727.0,0.48 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2000 - 2499 grams,16.0,35886.0,0.45 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2500 - 2999 grams,63.0,200809.0,0.31,2020
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3000 - 3499 grams,70.0,429659.0,0.16,2020
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3500 - 3999 grams,38.0,263142.0,0.14,2020
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2000 - 2499 grams,14.0,20467.0,0.69 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2500 - 2999 grams,36.0,114685.0,0.32,2020
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3000 - 3499 grams,57.0,269802.0,0.21,2020
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3500 - 3999 grams,16.0,192826.0,0.08 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,27.0,62906.0,0.43,2020
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,42.0,148865.0,0.28,2020
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,22.0,111507.0,0.2,2020
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,18.0,29940.0,0.60 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,19.0,69913.0,0.27 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,16.0,54180.0,0.30 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,15.0,20990.0,0.72 (Unreliable),2020
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,16.0,46108.0,0.35 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,17.0,62792.0,0.27 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,23.0,117553.0,0.2,2020
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,15.0,39883.0,0.38 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,31.0,81580.0,0.38,2020
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,10.0,58139.0,0.17 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,13.0,24265.0,0.54 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,17.0,50363.0,0.34 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,Yes,Extreme Obesity III > 39.9,2500 - 2999 grams,10.0,10028.0,1.00 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2000 - 2499 grams,20.0,35886.0,0.56,2020
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2500 - 2999 grams,42.0,200809.0,0.21,2020
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3000 - 3499 grams,72.0,429659.0,0.17,2020
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3500 - 3999 grams,28.0,263142.0,0.11,2020
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2000 - 2499 grams,12.0,20467.0,0.59 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2500 - 2999 grams,31.0,114685.0,0.27,2020
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3000 - 3499 grams,49.0,269802.0,0.18,2020
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3500 - 3999 grams,25.0,192826.0,0.13,2020
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2000 - 2499 grams,13.0,11776.0,1.11 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,23.0,62906.0,0.37,2020
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,35.0,148865.0,0.24,2020
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,17.0,111507.0,0.15 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,12.0,29940.0,0.40 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,27.0,69913.0,0.39,2020
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,15.0,54180.0,0.28 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,11.0,20990.0,0.53 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,16.0,46108.0,0.35 (Unreliable),2020
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,15.0,36099.0,0.42 (Unreliable),2020
+Unspecified threat to breathing,No,No,Normal 18.5-24.9,3000 - 3499 grams,10.0,429659.0,0.02 (Unreliable),2020
+Other and unspecified gastroenteritis and colitis of infectious origin,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1141.0,9.68 (Unreliable),2021
+Newborn affected by incompetent cervix,No,Yes,Normal 18.5-24.9,499 grams or less,11.0,175.0,63.20 (Unreliable),2021
+Newborn affected by incompetent cervix,No,Yes,Obesity I 30.0-34.9,499 grams or less,10.0,144.0,70.92 (Unreliable),2021
+Newborn affected by incompetent cervix,No,No,Normal 18.5-24.9,499 grams or less,36.0,646.0,56.29,2021
+Newborn affected by incompetent cervix,No,No,Overweight 25.0-29.9,499 grams or less,53.0,685.0,77.73,2021
+Newborn affected by incompetent cervix,No,No,Overweight 25.0-29.9,500 - 749 grams,12.0,184.0,65.86 (Unreliable),2021
+Newborn affected by incompetent cervix,No,No,Obesity I 30.0-34.9,499 grams or less,44.0,526.0,83.05,2021
+Newborn affected by incompetent cervix,No,No,Obesity II 35.0-39.9,499 grams or less,31.0,287.0,106.61,2021
+Newborn affected by incompetent cervix,No,No,Extreme Obesity III > 39.9,499 grams or less,28.0,275.0,103.49,2021
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,499 grams or less,17.0,175.0,98.48 (Unreliable),2021
+Newborn affected by premature rupture of membranes,No,Yes,Overweight 25.0-29.9,499 grams or less,26.0,173.0,152.5,2021
+Newborn affected by premature rupture of membranes,No,Yes,Obesity I 30.0-34.9,499 grams or less,20.0,144.0,140.97,2021
+Newborn affected by premature rupture of membranes,No,Yes,Extreme Obesity III > 39.9,499 grams or less,11.0,73.0,151.75 (Unreliable),2021
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,499 grams or less,65.0,646.0,100.68,2021
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,500 - 749 grams,10.0,202.0,50.67 (Unreliable),2021
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,499 grams or less,65.0,685.0,95.14,2021
+Newborn affected by premature rupture of membranes,No,No,Obesity I 30.0-34.9,499 grams or less,53.0,526.0,99.9,2021
+Newborn affected by premature rupture of membranes,No,No,Obesity II 35.0-39.9,499 grams or less,25.0,287.0,87.8,2021
+Newborn affected by premature rupture of membranes,No,No,Extreme Obesity III > 39.9,499 grams or less,25.0,275.0,92.27,2021
+Newborn affected by premature rupture of membranes,No,No,Unknown or Not Stated,499 grams or less,21.0,159.0,134.45,2021
+Newborn affected by multiple pregnancy,No,No,Normal 18.5-24.9,499 grams or less,10.0,646.0,15.57 (Unreliable),2021
+Newborn affected by multiple pregnancy,No,No,Overweight 25.0-29.9,499 grams or less,10.0,685.0,14.95 (Unreliable),2021
+Newborn affected by multiple pregnancy,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,526.0,21.07 (Unreliable),2021
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,499 grams or less,26.0,646.0,40.77,2021
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Overweight 25.0-29.9,499 grams or less,14.0,685.0,20.65 (Unreliable),2021
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Obesity I 30.0-34.9,499 grams or less,18.0,526.0,34.64 (Unreliable),2021
+Newborn affected by chorioamnionitis,No,Yes,Normal 18.5-24.9,499 grams or less,15.0,175.0,86.64 (Unreliable),2021
+Newborn affected by chorioamnionitis,No,Yes,Obesity I 30.0-34.9,499 grams or less,12.0,144.0,83.96 (Unreliable),2021
+Newborn affected by chorioamnionitis,No,Yes,Obesity II 35.0-39.9,499 grams or less,12.0,75.0,161.88 (Unreliable),2021
+Newborn affected by chorioamnionitis,No,No,Normal 18.5-24.9,499 grams or less,14.0,646.0,21.96 (Unreliable),2021
+Newborn affected by chorioamnionitis,No,No,Overweight 25.0-29.9,499 grams or less,13.0,685.0,19.26 (Unreliable),2021
+Newborn affected by chorioamnionitis,No,No,Obesity I 30.0-34.9,499 grams or less,17.0,526.0,32.49 (Unreliable),2021
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,499 grams or less,19.0,146.0,132.82 (Unreliable),2021
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,29.0,829.0,35.58,2021
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,499 grams or less,10.0,132.0,77.68 (Unreliable),2021
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,25.0,756.0,33.71,2021
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,499 grams or less,11.0,120.0,93.16 (Unreliable),2021
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,22.0,634.0,35.21,2021
+Extreme immaturity,Yes,Yes,Obesity II 35.0-39.9,499 grams or less,15.0,100.0,152.51 (Unreliable),2021
+Extreme immaturity,Yes,Yes,Obesity II 35.0-39.9,500 - 749 grams,12.0,353.0,34.90 (Unreliable),2021
+Extreme immaturity,Yes,No,Normal 18.5-24.9,499 grams or less,38.0,225.0,168.42,2021
+Extreme immaturity,Yes,No,Normal 18.5-24.9,500 - 749 grams,44.0,1141.0,38.26,2021
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,499 grams or less,39.0,236.0,164.76,2021
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,500 - 749 grams,36.0,943.0,38.52,2021
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,499 grams or less,27.0,213.0,128.24,2021
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,22.0,742.0,29.87,2021
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,499 grams or less,17.0,117.0,146.30 (Unreliable),2021
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,17.0,477.0,36.48 (Unreliable),2021
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,499 grams or less,10.0,104.0,98.78 (Unreliable),2021
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,10.0,384.0,26.60 (Unreliable),2021
+Extreme immaturity,Yes,No,Unknown or Not Stated,500 - 749 grams,14.0,150.0,95.41 (Unreliable),2021
+Extreme immaturity,No,Yes,Normal 18.5-24.9,499 grams or less,61.0,175.0,347.24,2021
+Extreme immaturity,No,Yes,Normal 18.5-24.9,500 - 749 grams,17.0,95.0,182.13 (Unreliable),2021
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,499 grams or less,49.0,173.0,285.94,2021
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,500 - 749 grams,10.0,81.0,126.50 (Unreliable),2021
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,499 grams or less,49.0,144.0,338.81,2021
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,500 - 749 grams,12.0,65.0,188.29 (Unreliable),2021
+Extreme immaturity,No,Yes,Obesity II 35.0-39.9,499 grams or less,21.0,75.0,284.14,2021
+Extreme immaturity,No,Yes,Extreme Obesity III > 39.9,499 grams or less,25.0,73.0,346.78,2021
+Extreme immaturity,No,Yes,Unknown or Not Stated,499 grams or less,10.0,31.0,327.98 (Unreliable),2021
+Extreme immaturity,No,No,Underweight <18.5,499 grams or less,30.0,69.0,440.02,2021
+Extreme immaturity,No,No,Normal 18.5-24.9,499 grams or less,246.0,646.0,380.35,2021
+Extreme immaturity,No,No,Normal 18.5-24.9,500 - 749 grams,41.0,202.0,201.49,2021
+Extreme immaturity,No,No,Overweight 25.0-29.9,499 grams or less,237.0,685.0,346.6,2021
+Extreme immaturity,No,No,Overweight 25.0-29.9,500 - 749 grams,39.0,184.0,210.28,2021
+Extreme immaturity,No,No,Obesity I 30.0-34.9,499 grams or less,202.0,526.0,384.19,2021
+Extreme immaturity,No,No,Obesity I 30.0-34.9,500 - 749 grams,26.0,136.0,194.25,2021
+Extreme immaturity,No,No,Obesity II 35.0-39.9,499 grams or less,120.0,287.0,419.6,2021
+Extreme immaturity,No,No,Obesity II 35.0-39.9,500 - 749 grams,11.0,83.0,134.51 (Unreliable),2021
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,499 grams or less,111.0,275.0,405.05,2021
+Extreme immaturity,No,No,Unknown or Not Stated,499 grams or less,64.0,159.0,402.7,2021
+Other preterm infants,No,Yes,Normal 18.5-24.9,499 grams or less,12.0,175.0,69.01 (Unreliable),2021
+Other preterm infants,No,Yes,Overweight 25.0-29.9,499 grams or less,22.0,173.0,129.15,2021
+Other preterm infants,No,Yes,Obesity I 30.0-34.9,499 grams or less,18.0,144.0,127.81 (Unreliable),2021
+Other preterm infants,No,Yes,Obesity II 35.0-39.9,499 grams or less,14.0,75.0,188.13 (Unreliable),2021
+Other preterm infants,No,No,Underweight <18.5,499 grams or less,12.0,69.0,177.94 (Unreliable),2021
+Other preterm infants,No,No,Normal 18.5-24.9,499 grams or less,72.0,646.0,111.76,2021
+Other preterm infants,No,No,Normal 18.5-24.9,500 - 749 grams,13.0,202.0,64.83 (Unreliable),2021
+Other preterm infants,No,No,Overweight 25.0-29.9,499 grams or less,90.0,685.0,130.78,2021
+Other preterm infants,No,No,Obesity I 30.0-34.9,499 grams or less,59.0,526.0,112.39,2021
+Other preterm infants,No,No,Obesity I 30.0-34.9,500 - 749 grams,11.0,136.0,81.84 (Unreliable),2021
+Other preterm infants,No,No,Obesity II 35.0-39.9,499 grams or less,38.0,287.0,131.22,2021
+Other preterm infants,No,No,Extreme Obesity III > 39.9,499 grams or less,35.0,275.0,128.54,2021
+Other preterm infants,No,No,Unknown or Not Stated,499 grams or less,14.0,159.0,89.35 (Unreliable),2021
+Respiratory distress syndrome of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,16.0,829.0,19.42 (Unreliable),2021
+Respiratory distress syndrome of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,25.0,756.0,33.68,2021
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,10.0,634.0,15.93 (Unreliable),2021
+Respiratory distress syndrome of newborn,Yes,Yes,Extreme Obesity III > 39.9,500 - 749 grams,10.0,300.0,33.69 (Unreliable),2021
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,499 grams or less,11.0,225.0,49.10 (Unreliable),2021
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,30.0,1141.0,26.56,2021
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,20.0,943.0,21.51,2021
+Respiratory distress syndrome of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,15.0,742.0,20.36 (Unreliable),2021
+Bronchopulmonary dysplasia originating in the perinatal period,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,10.0,756.0,13.30 (Unreliable),2021
+Primary atelectasis of newborn,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,526.0,21.53 (Unreliable),2021
+Neonatal cardiac failure,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,12.0,829.0,14.68 (Unreliable),2021
+Neonatal cardiac failure,No,No,Obesity I 30.0-34.9,499 grams or less,11.0,526.0,21.10 (Unreliable),2021
+Neonatal cardiac dysrhythmia,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1141.0,9.69 (Unreliable),2021
+Neonatal cardiac dysrhythmia,No,No,Overweight 25.0-29.9,499 grams or less,15.0,685.0,22.16 (Unreliable),2021
+Neonatal cardiac dysrhythmia,No,No,Obesity I 30.0-34.9,499 grams or less,14.0,526.0,27.12 (Unreliable),2021
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,500 - 749 grams,12.0,829.0,14.55 (Unreliable),2021
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,18.0,756.0,24.20 (Unreliable),2021
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,15.0,634.0,24.10 (Unreliable),2021
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,26.0,1141.0,23.01,2021
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,500 - 749 grams,18.0,943.0,19.34 (Unreliable),2021
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,500 - 749 grams,16.0,742.0,21.61 (Unreliable),2021
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,750 - 999 grams,12.0,935.0,13.07 (Unreliable),2021
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,19.0,829.0,23.38 (Unreliable),2021
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,10.0,756.0,13.38 (Unreliable),2021
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,17.0,1141.0,15.13 (Unreliable),2021
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,17.0,943.0,18.30 (Unreliable),2021
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Overweight 25.0-29.9,750 - 999 grams,12.0,1218.0,9.99 (Unreliable),2021
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,11.0,742.0,15.15 (Unreliable),2021
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,11.0,384.0,29.17 (Unreliable),2021
+Necrotizing enterocolitis of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,10.0,634.0,15.91 (Unreliable),2021
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1141.0,9.66 (Unreliable),2021
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,750 - 999 grams,15.0,1488.0,10.16 (Unreliable),2021
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,943.0,10.60 (Unreliable),2021
+Necrotizing enterocolitis of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,15.0,742.0,20.42 (Unreliable),2021
+Necrotizing enterocolitis of newborn,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,12.0,477.0,25.37 (Unreliable),2021
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,13.0,13137.0,1.00 (Unreliable),2021
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,14.0,14821.0,0.95 (Unreliable),2021
+Anencephaly,No,No,Normal 18.5-24.9,1500 - 1999 grams,13.0,2725.0,4.90 (Unreliable),2021
+Anencephaly,No,No,Normal 18.5-24.9,2000 - 2499 grams,14.0,36731.0,0.39 (Unreliable),2021
+Anencephaly,No,No,Overweight 25.0-29.9,1500 - 1999 grams,15.0,1910.0,7.92 (Unreliable),2021
+Anencephaly,No,No,Overweight 25.0-29.9,2000 - 2499 grams,10.0,21470.0,0.47 (Unreliable),2021
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,19.0,13588.0,1.41 (Unreliable),2021
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,3000 - 3499 grams,10.0,14821.0,0.68 (Unreliable),2021
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,17.0,11172.0,1.55 (Unreliable),2021
+Congenital diaphragmatic hernia,Yes,No,Normal 18.5-24.9,2500 - 2999 grams,11.0,13588.0,0.82 (Unreliable),2021
+"Edwards syndrome, unspecified",Yes,Yes,Normal 18.5-24.9,1500 - 1999 grams,10.0,7457.0,1.36 (Unreliable),2021
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,14.0,9359.0,1.51 (Unreliable),2021
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,13.0,13137.0,1.01 (Unreliable),2021
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,1500 - 1999 grams,18.0,6742.0,2.69 (Unreliable),2021
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,14.0,9378.0,1.50 (Unreliable),2021
+"Edwards syndrome, unspecified",Yes,No,Obesity I 30.0-34.9,1500 - 1999 grams,16.0,4705.0,3.44 (Unreliable),2021
+"Edwards syndrome, unspecified",Yes,No,Obesity I 30.0-34.9,2000 - 2499 grams,11.0,6144.0,1.80 (Unreliable),2021
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,12.0,2725.0,4.45 (Unreliable),2021
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1500 - 1999 grams,21.0,1910.0,11.12,2021
+"Edwards syndrome, unspecified",No,No,Obesity I 30.0-34.9,1500 - 1999 grams,11.0,1145.0,9.72 (Unreliable),2021
+"Patau syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,11.0,13137.0,0.85 (Unreliable),2021
+"Patau syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,11.0,2725.0,4.10 (Unreliable),2021
+"Patau syndrome, unspecified",No,No,Normal 18.5-24.9,2500 - 2999 grams,10.0,200211.0,0.05 (Unreliable),2021
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,14.0,13137.0,1.07 (Unreliable),2021
+Sudden infant death syndrome - SIDS,Yes,No,Overweight 25.0-29.9,1500 - 1999 grams,13.0,6742.0,1.94 (Unreliable),2021
+Sudden infant death syndrome - SIDS,Yes,No,Overweight 25.0-29.9,2500 - 2999 grams,12.0,9709.0,1.24 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,12.0,15624.0,0.78 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,30.0,62140.0,0.49,2021
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,24.0,115817.0,0.21,2021
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,14.0,70139.0,0.20 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,21.0,40837.0,0.52,2021
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,33.0,83686.0,0.4,2021
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,16.0,25178.0,0.64 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,15.0,52022.0,0.29 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,2500 - 2999 grams,13.0,13387.0,0.98 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,15.0,27199.0,0.55 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,12.0,21148.0,0.57 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,Yes,Extreme Obesity III > 39.9,3500 - 3999 grams,11.0,15952.0,0.70 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2000 - 2499 grams,31.0,36731.0,0.85,2021
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2500 - 2999 grams,88.0,200211.0,0.44,2021
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3000 - 3499 grams,99.0,423796.0,0.23,2021
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3500 - 3999 grams,43.0,257938.0,0.17,2021
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2000 - 2499 grams,15.0,21470.0,0.70 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2500 - 2999 grams,40.0,117687.0,0.34,2021
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3000 - 3499 grams,98.0,276450.0,0.35,2021
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3500 - 3999 grams,31.0,195176.0,0.16,2021
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,36.0,65739.0,0.55,2021
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,52.0,153685.0,0.34,2021
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,22.0,114307.0,0.19,2021
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,2000 - 2499 grams,11.0,6116.0,1.80 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,15.0,31719.0,0.48 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,35.0,72591.0,0.48,2021
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,15.0,55046.0,0.27 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,16.0,22046.0,0.73 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,38.0,48222.0,0.79,2021
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,17.0,36306.0,0.47 (Unreliable),2021
+Sudden infant death syndrome - SIDS,No,No,Unknown or Not Stated,3000 - 3499 grams,13.0,15332.0,0.85 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,Yes,Yes,Normal 18.5-24.9,2000 - 2499 grams,11.0,9963.0,1.12 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,10.0,9359.0,1.07 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,10.0,13137.0,0.77 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,16.0,62140.0,0.26 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,32.0,115817.0,0.28,2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,11.0,40837.0,0.27 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,21.0,83686.0,0.25,2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,10.0,59247.0,0.17 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,17.0,52022.0,0.33 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,3500 - 3999 grams,12.0,38805.0,0.31 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,10.0,27199.0,0.37 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,12.0,21148.0,0.57 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2000 - 2499 grams,20.0,36731.0,0.55,2021
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2500 - 2999 grams,64.0,200211.0,0.32,2021
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3000 - 3499 grams,76.0,423796.0,0.18,2021
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3500 - 3999 grams,45.0,257938.0,0.18,2021
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2000 - 2499 grams,12.0,21470.0,0.56 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2500 - 2999 grams,52.0,117687.0,0.45,2021
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3000 - 3499 grams,54.0,276450.0,0.2,2021
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3500 - 3999 grams,27.0,195176.0,0.14,2021
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,30.0,65739.0,0.46,2021
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,42.0,153685.0,0.28,2021
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,28.0,114307.0,0.25,2021
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,18.0,31719.0,0.57 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,27.0,72591.0,0.38,2021
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,12.0,55046.0,0.22 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,10.0,22046.0,0.46 (Unreliable),2021
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,20.0,48222.0,0.42,2021
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,12.0,36306.0,0.33 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,12.0,15624.0,0.77 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,21.0,62140.0,0.34,2021
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,20.0,115817.0,0.17,2021
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,18.0,40837.0,0.44 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,18.0,83686.0,0.22 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,11.0,59247.0,0.19 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,11.0,25178.0,0.44 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,15.0,52022.0,0.29 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,11.0,27199.0,0.41 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,16.0,21148.0,0.76 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2000 - 2499 grams,25.0,36731.0,0.68,2021
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2500 - 2999 grams,53.0,200211.0,0.27,2021
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3000 - 3499 grams,71.0,423796.0,0.17,2021
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3500 - 3999 grams,43.0,257938.0,0.17,2021
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2000 - 2499 grams,15.0,21470.0,0.70 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2500 - 2999 grams,37.0,117687.0,0.32,2021
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3000 - 3499 grams,43.0,276450.0,0.16,2021
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3500 - 3999 grams,30.0,195176.0,0.15,2021
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2000 - 2499 grams,11.0,12496.0,0.88 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,22.0,65739.0,0.34,2021
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,32.0,153685.0,0.21,2021
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,24.0,114307.0,0.21,2021
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,16.0,31719.0,0.51 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,24.0,72591.0,0.33,2021
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,13.0,55046.0,0.24 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,14.0,22046.0,0.64 (Unreliable),2021
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,22.0,48222.0,0.46,2021
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,18.0,36306.0,0.50 (Unreliable),2021
+Assault by unspecified means,No,No,Normal 18.5-24.9,2500 - 2999 grams,10.0,200211.0,0.05 (Unreliable),2021
+Other viral infections of unspecified site,No,No,Normal 18.5-24.9,3000 - 3499 grams,11.0,416971.0,0.03 (Unreliable),2022
+Newborn affected by incompetent cervix,No,Yes,Overweight 25.0-29.9,499 grams or less,11.0,175.0,64.45 (Unreliable),2022
+Newborn affected by incompetent cervix,No,No,Normal 18.5-24.9,499 grams or less,31.0,611.0,50.1,2022
+Newborn affected by incompetent cervix,No,No,Overweight 25.0-29.9,499 grams or less,54.0,625.0,86.58,2022
+Newborn affected by incompetent cervix,No,No,Obesity I 30.0-34.9,499 grams or less,40.0,500.0,79.93,2022
+Newborn affected by incompetent cervix,No,No,Obesity II 35.0-39.9,499 grams or less,22.0,335.0,66.9,2022
+Newborn affected by incompetent cervix,No,No,Extreme Obesity III > 39.9,499 grams or less,28.0,281.0,98.67,2022
+Newborn affected by incompetent cervix,No,No,Unknown or Not Stated,499 grams or less,13.0,176.0,74.83 (Unreliable),2022
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,499 grams or less,19.0,156.0,123.22 (Unreliable),2022
+Newborn affected by premature rupture of membranes,No,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,90.0,112.69 (Unreliable),2022
+Newborn affected by premature rupture of membranes,No,Yes,Overweight 25.0-29.9,499 grams or less,20.0,175.0,116.27,2022
+Newborn affected by premature rupture of membranes,No,Yes,Obesity I 30.0-34.9,499 grams or less,14.0,134.0,105.55 (Unreliable),2022
+Newborn affected by premature rupture of membranes,No,Yes,Obesity II 35.0-39.9,499 grams or less,15.0,98.0,157.75 (Unreliable),2022
+Newborn affected by premature rupture of membranes,No,Yes,Unknown or Not Stated,499 grams or less,10.0,37.0,273.12 (Unreliable),2022
+Newborn affected by premature rupture of membranes,No,No,Normal 18.5-24.9,499 grams or less,65.0,611.0,106.95,2022
+Newborn affected by premature rupture of membranes,No,No,Overweight 25.0-29.9,499 grams or less,62.0,625.0,98.99,2022
+Newborn affected by premature rupture of membranes,No,No,Obesity I 30.0-34.9,499 grams or less,41.0,500.0,81.68,2022
+Newborn affected by premature rupture of membranes,No,No,Obesity II 35.0-39.9,499 grams or less,28.0,335.0,85.0,2022
+Newborn affected by premature rupture of membranes,No,No,Extreme Obesity III > 39.9,499 grams or less,27.0,281.0,97.83,2022
+Newborn affected by premature rupture of membranes,No,No,Unknown or Not Stated,499 grams or less,13.0,176.0,71.13 (Unreliable),2022
+Newborn affected by other maternal complications of pregnancy,No,No,Overweight 25.0-29.9,499 grams or less,10.0,625.0,16.23 (Unreliable),2022
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Normal 18.5-24.9,499 grams or less,29.0,611.0,47.97,2022
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Overweight 25.0-29.9,499 grams or less,16.0,625.0,25.92 (Unreliable),2022
+Newborn affected by other forms of placental separation and haemorrhage,No,No,Unknown or Not Stated,499 grams or less,10.0,176.0,58.20 (Unreliable),2022
+Newborn affected by chorioamnionitis,No,Yes,Normal 18.5-24.9,499 grams or less,12.0,156.0,78.78 (Unreliable),2022
+Newborn affected by chorioamnionitis,No,Yes,Obesity I 30.0-34.9,499 grams or less,11.0,134.0,82.67 (Unreliable),2022
+Newborn affected by chorioamnionitis,No,No,Normal 18.5-24.9,499 grams or less,11.0,611.0,18.04 (Unreliable),2022
+Newborn affected by chorioamnionitis,No,No,Overweight 25.0-29.9,499 grams or less,15.0,625.0,24.59 (Unreliable),2022
+Newborn affected by chorioamnionitis,No,No,Obesity I 30.0-34.9,499 grams or less,10.0,500.0,20.11 (Unreliable),2022
+Newborn affected by chorioamnionitis,No,No,Obesity II 35.0-39.9,499 grams or less,13.0,335.0,38.86 (Unreliable),2022
+Newborn affected by other specified complications of labour and delivery,No,No,Overweight 25.0-29.9,499 grams or less,10.0,625.0,16.44 (Unreliable),2022
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,499 grams or less,18.0,151.0,121.56 (Unreliable),2022
+Extreme immaturity,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,27.0,744.0,36.9,2022
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,499 grams or less,14.0,150.0,96.24 (Unreliable),2022
+Extreme immaturity,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,24.0,740.0,31.87,2022
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,499 grams or less,12.0,141.0,86.62 (Unreliable),2022
+Extreme immaturity,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,15.0,595.0,25.47 (Unreliable),2022
+Extreme immaturity,Yes,Yes,Extreme Obesity III > 39.9,499 grams or less,16.0,92.0,176.48 (Unreliable),2022
+Extreme immaturity,Yes,No,Normal 18.5-24.9,499 grams or less,29.0,285.0,100.16,2022
+Extreme immaturity,Yes,No,Normal 18.5-24.9,500 - 749 grams,25.0,1058.0,23.92,2022
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,499 grams or less,33.0,259.0,125.92,2022
+Extreme immaturity,Yes,No,Overweight 25.0-29.9,500 - 749 grams,31.0,920.0,34.2,2022
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,499 grams or less,36.0,213.0,168.62,2022
+Extreme immaturity,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,17.0,740.0,23.14 (Unreliable),2022
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,499 grams or less,10.0,136.0,74.52 (Unreliable),2022
+Extreme immaturity,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,13.0,477.0,27.52 (Unreliable),2022
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,499 grams or less,18.0,118.0,156.37 (Unreliable),2022
+Extreme immaturity,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,12.0,401.0,30.45 (Unreliable),2022
+Extreme immaturity,Yes,No,Unknown or Not Stated,499 grams or less,10.0,45.0,228.53 (Unreliable),2022
+Extreme immaturity,No,Yes,Normal 18.5-24.9,499 grams or less,47.0,156.0,298.19,2022
+Extreme immaturity,No,Yes,Normal 18.5-24.9,500 - 749 grams,18.0,90.0,201.78 (Unreliable),2022
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,499 grams or less,62.0,175.0,355.07,2022
+Extreme immaturity,No,Yes,Overweight 25.0-29.9,500 - 749 grams,13.0,65.0,206.40 (Unreliable),2022
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,499 grams or less,45.0,134.0,337.87,2022
+Extreme immaturity,No,Yes,Obesity I 30.0-34.9,500 - 749 grams,13.0,83.0,158.67 (Unreliable),2022
+Extreme immaturity,No,Yes,Obesity II 35.0-39.9,499 grams or less,34.0,98.0,350.15,2022
+Extreme immaturity,No,Yes,Extreme Obesity III > 39.9,499 grams or less,24.0,69.0,354.77,2022
+Extreme immaturity,No,Yes,Unknown or Not Stated,499 grams or less,13.0,37.0,360.32 (Unreliable),2022
+Extreme immaturity,No,No,Underweight <18.5,499 grams or less,32.0,74.0,426.83,2022
+Extreme immaturity,No,No,Normal 18.5-24.9,499 grams or less,215.0,611.0,352.18,2022
+Extreme immaturity,No,No,Normal 18.5-24.9,500 - 749 grams,44.0,209.0,210.76,2022
+Extreme immaturity,No,No,Overweight 25.0-29.9,499 grams or less,218.0,625.0,349.19,2022
+Extreme immaturity,No,No,Overweight 25.0-29.9,500 - 749 grams,35.0,178.0,195.37,2022
+Extreme immaturity,No,No,Obesity I 30.0-34.9,499 grams or less,218.0,500.0,436.32,2022
+Extreme immaturity,No,No,Obesity I 30.0-34.9,500 - 749 grams,24.0,133.0,177.32,2022
+Extreme immaturity,No,No,Obesity II 35.0-39.9,499 grams or less,148.0,335.0,440.46,2022
+Extreme immaturity,No,No,Obesity II 35.0-39.9,500 - 749 grams,11.0,71.0,158.88 (Unreliable),2022
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,499 grams or less,100.0,281.0,355.18,2022
+Extreme immaturity,No,No,Extreme Obesity III > 39.9,500 - 749 grams,11.0,59.0,189.88 (Unreliable),2022
+Extreme immaturity,No,No,Unknown or Not Stated,499 grams or less,69.0,176.0,393.81,2022
+Extreme immaturity,No,No,Unknown or Not Stated,500 - 749 grams,15.0,52.0,293.93 (Unreliable),2022
+Other preterm infants,No,Yes,Normal 18.5-24.9,499 grams or less,14.0,156.0,91.90 (Unreliable),2022
+Other preterm infants,No,Yes,Overweight 25.0-29.9,499 grams or less,15.0,175.0,87.37 (Unreliable),2022
+Other preterm infants,No,Yes,Obesity I 30.0-34.9,499 grams or less,12.0,134.0,92.09 (Unreliable),2022
+Other preterm infants,No,Yes,Obesity II 35.0-39.9,499 grams or less,11.0,98.0,114.21 (Unreliable),2022
+Other preterm infants,No,No,Normal 18.5-24.9,499 grams or less,76.0,611.0,124.23,2022
+Other preterm infants,No,No,Normal 18.5-24.9,500 - 749 grams,10.0,209.0,48.82 (Unreliable),2022
+Other preterm infants,No,No,Overweight 25.0-29.9,499 grams or less,53.0,625.0,84.27,2022
+Other preterm infants,No,No,Overweight 25.0-29.9,500 - 749 grams,10.0,178.0,56.32 (Unreliable),2022
+Other preterm infants,No,No,Obesity I 30.0-34.9,499 grams or less,61.0,500.0,122.12,2022
+Other preterm infants,No,No,Obesity I 30.0-34.9,500 - 749 grams,17.0,133.0,129.74 (Unreliable),2022
+Other preterm infants,No,No,Obesity II 35.0-39.9,499 grams or less,32.0,335.0,94.63,2022
+Other preterm infants,No,No,Extreme Obesity III > 39.9,499 grams or less,41.0,281.0,146.04,2022
+Other preterm infants,No,No,Unknown or Not Stated,499 grams or less,19.0,176.0,110.77 (Unreliable),2022
+"Intrauterine hypoxia, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,12.0,1058.0,11.70 (Unreliable),2022
+"Intrauterine hypoxia, unspecified",Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,920.0,11.20 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,19.0,744.0,25.89 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,14.0,740.0,19.26 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,16.0,595.0,27.44 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,Yes,Obesity II 35.0-39.9,500 - 749 grams,15.0,374.0,40.67 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,499 grams or less,10.0,285.0,35.84 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,22.0,1058.0,20.96,2022
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,499 grams or less,18.0,259.0,70.31 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,18.0,920.0,19.69 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,16.0,740.0,22.03 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,No,Obesity II 35.0-39.9,500 - 749 grams,13.0,477.0,27.68 (Unreliable),2022
+Respiratory distress syndrome of newborn,Yes,No,Extreme Obesity III > 39.9,500 - 749 grams,11.0,401.0,27.61 (Unreliable),2022
+Primary atelectasis of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,19.0,1058.0,18.03 (Unreliable),2022
+Neonatal cardiac failure,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,10.0,744.0,13.83 (Unreliable),2022
+Neonatal cardiac failure,Yes,No,Normal 18.5-24.9,499 grams or less,12.0,285.0,42.26 (Unreliable),2022
+Neonatal cardiac failure,Yes,No,Normal 18.5-24.9,500 - 749 grams,11.0,1058.0,10.54 (Unreliable),2022
+Neonatal cardiac failure,Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,920.0,10.95 (Unreliable),2022
+Neonatal cardiac failure,No,No,Overweight 25.0-29.9,499 grams or less,11.0,625.0,17.75 (Unreliable),2022
+Neonatal cardiac dysrhythmia,Yes,No,Normal 18.5-24.9,500 - 749 grams,12.0,1058.0,11.45 (Unreliable),2022
+Neonatal cardiac dysrhythmia,No,No,Normal 18.5-24.9,499 grams or less,16.0,611.0,26.51 (Unreliable),2022
+Neonatal cardiac dysrhythmia,No,No,Overweight 25.0-29.9,499 grams or less,16.0,625.0,25.94 (Unreliable),2022
+Neonatal cardiac dysrhythmia,No,No,Obesity I 30.0-34.9,499 grams or less,17.0,500.0,34.29 (Unreliable),2022
+Neonatal cardiac dysrhythmia,No,No,Obesity II 35.0-39.9,499 grams or less,15.0,335.0,45.80 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Normal 18.5-24.9,500 - 749 grams,19.0,744.0,25.78 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,17.0,740.0,23.40 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,14.0,595.0,23.88 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,500 - 749 grams,31.0,1058.0,29.76,2022
+"Bacterial sepsis of newborn, unspecified",Yes,No,Normal 18.5-24.9,750 - 999 grams,19.0,1396.0,13.69 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,920.0,10.92 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,499 grams or less,11.0,213.0,52.39 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,500 - 749 grams,18.0,740.0,24.53 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity I 30.0-34.9,750 - 999 grams,11.0,923.0,11.99 (Unreliable),2022
+"Bacterial sepsis of newborn, unspecified",Yes,No,Obesity II 35.0-39.9,500 - 749 grams,13.0,477.0,27.48 (Unreliable),2022
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,16.0,1058.0,15.37 (Unreliable),2022
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,10.0,920.0,10.98 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,Yes,Normal 18.5-24.9,500 - 749 grams,19.0,744.0,25.67 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,Yes,Normal 18.5-24.9,750 - 999 grams,11.0,1062.0,10.49 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,Yes,Overweight 25.0-29.9,500 - 749 grams,13.0,740.0,17.66 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,Yes,Obesity I 30.0-34.9,500 - 749 grams,11.0,595.0,18.65 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,500 - 749 grams,15.0,1058.0,14.32 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,No,Normal 18.5-24.9,750 - 999 grams,12.0,1396.0,8.70 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,500 - 749 grams,15.0,920.0,16.40 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,No,Overweight 25.0-29.9,750 - 999 grams,17.0,1181.0,14.52 (Unreliable),2022
+Necrotizing enterocolitis of newborn,Yes,No,Obesity I 30.0-34.9,500 - 749 grams,13.0,740.0,17.61 (Unreliable),2022
+Hypoxic ischemic encephalopathy of newborn,Yes,Yes,Normal 18.5-24.9,3000 - 3499 grams,11.0,6323.0,1.77 (Unreliable),2022
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,2500 - 2999 grams,14.0,13287.0,1.08 (Unreliable),2022
+Hypoxic ischemic encephalopathy of newborn,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,17.0,14250.0,1.21 (Unreliable),2022
+Anencephaly,No,No,Normal 18.5-24.9,1500 - 1999 grams,13.0,2563.0,5.23 (Unreliable),2022
+Anencephaly,No,No,Normal 18.5-24.9,2000 - 2499 grams,12.0,37097.0,0.33 (Unreliable),2022
+Anencephaly,No,No,Normal 18.5-24.9,2500 - 2999 grams,14.0,200911.0,0.07 (Unreliable),2022
+Anencephaly,No,No,Overweight 25.0-29.9,1500 - 1999 grams,12.0,1764.0,6.91 (Unreliable),2022
+Anencephaly,No,No,Overweight 25.0-29.9,2000 - 2499 grams,12.0,22325.0,0.55 (Unreliable),2022
+Anencephaly,No,No,Obesity I 30.0-34.9,2000 - 2499 grams,11.0,13288.0,0.85 (Unreliable),2022
+Hypoplastic left heart syndrome,Yes,No,Normal 18.5-24.9,3000 - 3499 grams,10.0,14250.0,0.71 (Unreliable),2022
+Hypoplastic left heart syndrome,Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,11.0,11099.0,1.00 (Unreliable),2022
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,11.0,9407.0,1.17 (Unreliable),2022
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,11.0,12825.0,0.86 (Unreliable),2022
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,2500 - 2999 grams,19.0,13287.0,1.44 (Unreliable),2022
+"Congenital malformation of heart, unspecified",Yes,No,Normal 18.5-24.9,3000 - 3499 grams,11.0,14250.0,0.78 (Unreliable),2022
+"Congenital malformation of heart, unspecified",Yes,No,Overweight 25.0-29.9,3000 - 3499 grams,14.0,11099.0,1.27 (Unreliable),2022
+"Congenital malformation of heart, unspecified",No,No,Overweight 25.0-29.9,2500 - 2999 grams,12.0,122099.0,0.10 (Unreliable),2022
+"Edwards syndrome, unspecified",Yes,Yes,Normal 18.5-24.9,1500 - 1999 grams,11.0,7275.0,1.54 (Unreliable),2022
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,1500 - 1999 grams,23.0,9407.0,2.47,2022
+"Edwards syndrome, unspecified",Yes,No,Normal 18.5-24.9,2000 - 2499 grams,13.0,12825.0,1.02 (Unreliable),2022
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,1500 - 1999 grams,19.0,6727.0,2.87 (Unreliable),2022
+"Edwards syndrome, unspecified",Yes,No,Overweight 25.0-29.9,2000 - 2499 grams,15.0,9332.0,1.62 (Unreliable),2022
+"Edwards syndrome, unspecified",Yes,No,Obesity I 30.0-34.9,1500 - 1999 grams,12.0,4762.0,2.57 (Unreliable),2022
+"Edwards syndrome, unspecified",No,No,Normal 18.5-24.9,1500 - 1999 grams,17.0,2563.0,6.67 (Unreliable),2022
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1250 - 1499 grams,11.0,258.0,43.56 (Unreliable),2022
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,1500 - 1999 grams,15.0,1764.0,8.56 (Unreliable),2022
+"Edwards syndrome, unspecified",No,No,Overweight 25.0-29.9,2000 - 2499 grams,10.0,22325.0,0.46 (Unreliable),2022
+Sudden infant death syndrome - SIDS,Yes,Yes,Normal 18.5-24.9,2000 - 2499 grams,11.0,9781.0,1.13 (Unreliable),2022
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,14.0,9407.0,1.50 (Unreliable),2022
+Sudden infant death syndrome - SIDS,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,11.0,12825.0,0.86 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,11.0,15486.0,0.71 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,29.0,61274.0,0.48,2022
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,32.0,110798.0,0.29,2022
+Sudden infant death syndrome - SIDS,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,16.0,66022.0,0.24 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,20.0,41777.0,0.48,2022
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,26.0,82641.0,0.32,2022
+Sudden infant death syndrome - SIDS,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,16.0,57366.0,0.28 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,2000 - 2499 grams,10.0,6675.0,1.51 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,20.0,26194.0,0.77,2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,27.0,52970.0,0.51,2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity I 30.0-34.9,3500 - 3999 grams,13.0,37947.0,0.34 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,2000 - 2499 grams,14.0,3556.0,3.95 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,2500 - 2999 grams,14.0,14091.0,1.00 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,15.0,27964.0,0.54 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Obesity II 35.0-39.9,3500 - 3999 grams,10.0,20631.0,0.49 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Extreme Obesity III > 39.9,2500 - 2999 grams,13.0,11300.0,1.16 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,Yes,Extreme Obesity III > 39.9,3000 - 3499 grams,14.0,21514.0,0.65 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,No,Underweight <18.5,3000 - 3499 grams,12.0,28703.0,0.42 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2000 - 2499 grams,35.0,37097.0,0.95,2022
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,2500 - 2999 grams,89.0,200911.0,0.44,2022
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3000 - 3499 grams,104.0,416971.0,0.25,2022
+Sudden infant death syndrome - SIDS,No,No,Normal 18.5-24.9,3500 - 3999 grams,45.0,249495.0,0.18,2022
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2000 - 2499 grams,24.0,22325.0,1.08,2022
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,2500 - 2999 grams,55.0,122099.0,0.45,2022
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3000 - 3499 grams,76.0,280351.0,0.27,2022
+Sudden infant death syndrome - SIDS,No,No,Overweight 25.0-29.9,3500 - 3999 grams,45.0,194444.0,0.23,2022
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2000 - 2499 grams,15.0,13288.0,1.13 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,30.0,69391.0,0.43,2022
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,44.0,159320.0,0.28,2022
+Sudden infant death syndrome - SIDS,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,21.0,115768.0,0.18,2022
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,35.0,33615.0,1.05,2022
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,33.0,75556.0,0.44,2022
+Sudden infant death syndrome - SIDS,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,26.0,56534.0,0.46,2022
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,21.0,23508.0,0.9,2022
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,29.0,50402.0,0.58,2022
+Sudden infant death syndrome - SIDS,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,16.0,37518.0,0.43 (Unreliable),2022
+Sudden infant death syndrome - SIDS,No,No,Unknown or Not Stated,3000 - 3499 grams,10.0,16738.0,0.60 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,1500 - 1999 grams,13.0,9407.0,1.39 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,13.0,12825.0,1.02 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,19.0,61274.0,0.31 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,21.0,110798.0,0.19,2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,15.0,66022.0,0.23 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,2000 - 2499 grams,10.0,10208.0,0.98 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,16.0,41777.0,0.39 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,19.0,82641.0,0.23 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,10.0,57366.0,0.17 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,22.0,26194.0,0.85,2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,14.0,52970.0,0.27 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,14.0,27964.0,0.50 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,No,Underweight <18.5,2500 - 2999 grams,10.0,20117.0,0.50 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2000 - 2499 grams,10.0,37097.0,0.27 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,2500 - 2999 grams,62.0,200911.0,0.31,2022
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3000 - 3499 grams,77.0,416971.0,0.18,2022
+Other ill-defined and unspecified causes of mortality,No,No,Normal 18.5-24.9,3500 - 3999 grams,39.0,249495.0,0.16,2022
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,2500 - 2999 grams,41.0,122099.0,0.34,2022
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3000 - 3499 grams,55.0,280351.0,0.2,2022
+Other ill-defined and unspecified causes of mortality,No,No,Overweight 25.0-29.9,3500 - 3999 grams,28.0,194444.0,0.15,2022
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,2000 - 2499 grams,16.0,13288.0,1.21 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,20.0,69391.0,0.29,2022
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,50.0,159320.0,0.32,2022
+Other ill-defined and unspecified causes of mortality,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,17.0,115768.0,0.15 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,20.0,33615.0,0.6,2022
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,27.0,75556.0,0.36,2022
+Other ill-defined and unspecified causes of mortality,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,13.0,56534.0,0.23 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,13.0,23508.0,0.55 (Unreliable),2022
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,20.0,50402.0,0.4,2022
+Other ill-defined and unspecified causes of mortality,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,14.0,37518.0,0.38 (Unreliable),2022
+COVID-19,No,No,Normal 18.5-24.9,3000 - 3499 grams,10.0,416971.0,0.02 (Unreliable),2022
+Accidental suffocation and strangulation in bed,Yes,No,Normal 18.5-24.9,2000 - 2499 grams,11.0,12825.0,0.86 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2000 - 2499 grams,15.0,15486.0,0.97 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,2500 - 2999 grams,26.0,61274.0,0.43,2022
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3000 - 3499 grams,26.0,110798.0,0.24,2022
+Accidental suffocation and strangulation in bed,No,Yes,Normal 18.5-24.9,3500 - 3999 grams,11.0,66022.0,0.17 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,2500 - 2999 grams,16.0,41777.0,0.39 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3000 - 3499 grams,17.0,82641.0,0.21 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Overweight 25.0-29.9,3500 - 3999 grams,14.0,57366.0,0.25 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,2500 - 2999 grams,13.0,26194.0,0.50 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,3000 - 3499 grams,10.0,52970.0,0.19 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Obesity I 30.0-34.9,3500 - 3999 grams,10.0,37947.0,0.27 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Obesity II 35.0-39.9,2500 - 2999 grams,11.0,14091.0,0.78 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Obesity II 35.0-39.9,3000 - 3499 grams,12.0,27964.0,0.43 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,Yes,Extreme Obesity III > 39.9,2500 - 2999 grams,11.0,11300.0,0.98 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2000 - 2499 grams,27.0,37097.0,0.73,2022
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,2500 - 2999 grams,49.0,200911.0,0.24,2022
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3000 - 3499 grams,72.0,416971.0,0.17,2022
+Accidental suffocation and strangulation in bed,No,No,Normal 18.5-24.9,3500 - 3999 grams,29.0,249495.0,0.12,2022
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2000 - 2499 grams,10.0,22325.0,0.45 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,2500 - 2999 grams,33.0,122099.0,0.27,2022
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3000 - 3499 grams,50.0,280351.0,0.18,2022
+Accidental suffocation and strangulation in bed,No,No,Overweight 25.0-29.9,3500 - 3999 grams,23.0,194444.0,0.12,2022
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2000 - 2499 grams,10.0,13288.0,0.75 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,2500 - 2999 grams,21.0,69391.0,0.3,2022
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3000 - 3499 grams,50.0,159320.0,0.32,2022
+Accidental suffocation and strangulation in bed,No,No,Obesity I 30.0-34.9,3500 - 3999 grams,18.0,115768.0,0.16 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,2500 - 2999 grams,18.0,33615.0,0.54 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3000 - 3499 grams,28.0,75556.0,0.37,2022
+Accidental suffocation and strangulation in bed,No,No,Obesity II 35.0-39.9,3500 - 3999 grams,13.0,56534.0,0.23 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,2500 - 2999 grams,17.0,23508.0,0.73 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3000 - 3499 grams,16.0,50402.0,0.32 (Unreliable),2022
+Accidental suffocation and strangulation in bed,No,No,Extreme Obesity III > 39.9,3500 - 3999 grams,14.0,37518.0,0.37 (Unreliable),2022

@@ -1,0 +1,1444 @@
+Cause of death,NICU Admission,Antibiotics for Mother,Mother's Pre-pregnancy BMI,Infant birth weight,Deaths,Births,Death rate per 1000,Year
+Other causes,1,1,2,624.5,12,726,16.56,2017
+Other causes,1,0,1,624.5,13,1254,10.4,2017
+Other causes,1,0,1,874.5,10,1701,5.88,2017
+Other causes,1,0,2,624.5,12,994,12.08,2017
+Incompetent cervix,0,1,1,249.5,12,270,45.0,2017
+Incompetent cervix,0,1,3,249.5,12,151,79.8,2017
+Incompetent cervix,0,1,4,249.5,11,98,113.24,2017
+Incompetent cervix,0,0,1,249.5,57,880,65.21,2017
+Incompetent cervix,0,0,2,249.5,62,721,86.45,2017
+Incompetent cervix,0,0,3,249.5,54,593,91.66,2017
+Incompetent cervix,0,0,4,249.5,33,347,95.62,2017
+Incompetent cervix,0,0,5,249.5,22,291,75.76,2017
+Incompetent cervix,0,0,-1,249.5,17,283,60.59,2017
+Premature rupture,0,1,1,249.5,37,270,138.17,2017
+Premature rupture,0,1,1,624.5,10,138,73.05,2017
+Premature rupture,0,1,2,249.5,13,193,67.78,2017
+Premature rupture,0,1,3,249.5,15,151,100.46,2017
+Premature rupture,0,1,4,249.5,11,98,112.81,2017
+Premature rupture,0,1,5,249.5,10,67,150.0,2017
+Premature rupture,0,0,0,249.5,13,95,138.52,2017
+Premature rupture,0,0,1,249.5,74,880,83.54,2017
+Premature rupture,0,0,1,624.5,15,352,42.9,2017
+Premature rupture,0,0,2,249.5,62,721,86.61,2017
+Premature rupture,0,0,3,249.5,73,593,122.29,2017
+Premature rupture,0,0,4,249.5,33,347,96.04,2017
+Premature rupture,0,0,5,249.5,38,291,131.3,2017
+Premature rupture,0,0,-1,249.5,17,283,60.34,2017
+Other causes,0,1,1,249.5,12,270,44.84,2017
+Other causes,0,0,1,249.5,15,880,17.11,2017
+Other causes,0,0,3,249.5,15,593,25.55,2017
+Other causes,0,0,1,249.5,11,880,12.52,2017
+Placental separation,0,0,1,249.5,45,880,51.29,2017
+Placental separation,0,0,1,624.5,11,352,31.33,2017
+Placental separation,0,0,2,249.5,24,721,33.55,2017
+Placental separation,0,0,3,249.5,11,593,18.74,2017
+Placental separation,0,0,5,249.5,10,291,34.42,2017
+Placental separation,0,0,-1,249.5,12,283,42.53,2017
+Chorioamnionitis,0,1,1,249.5,19,270,70.84,2017
+Chorioamnionitis,0,1,2,249.5,15,193,78.2,2017
+Chorioamnionitis,0,1,3,249.5,13,151,87.23,2017
+Chorioamnionitis,0,0,1,249.5,41,880,46.81,2017
+Chorioamnionitis,0,0,1,624.5,10,352,28.6,2017
+Chorioamnionitis,0,0,2,249.5,23,721,32.05,2017
+Chorioamnionitis,0,0,3,249.5,23,593,39.1,2017
+Chorioamnionitis,0,0,-1,249.5,11,283,39.11,2017
+Extreme immaturity,1,1,1,624.5,29,940,31.1,2017
+Extreme immaturity,1,1,2,249.5,14,97,144.85,2017
+Extreme immaturity,1,1,2,624.5,22,726,30.46,2017
+Extreme immaturity,1,1,3,624.5,23,565,40.83,2017
+Extreme immaturity,1,1,4,624.5,12,349,34.48,2017
+Extreme immaturity,1,0,1,249.5,41,268,154.2,2017
+Extreme immaturity,1,0,1,624.5,58,1254,46.45,2017
+Extreme immaturity,1,0,2,249.5,39,220,178.17,2017
+Extreme immaturity,1,0,2,624.5,28,994,28.25,2017
+Extreme immaturity,1,0,3,249.5,23,165,139.74,2017
+Extreme immaturity,1,0,3,624.5,25,744,33.76,2017
+Extreme immaturity,1,0,4,249.5,17,100,171.25,2017
+Extreme immaturity,1,0,4,624.5,11,403,27.45,2017
+Extreme immaturity,1,0,5,249.5,20,88,228.74,2017
+Extreme immaturity,1,0,5,624.5,18,352,51.4,2017
+Extreme immaturity,1,0,-1,249.5,14,59,237.99,2017
+Extreme immaturity,1,0,-1,624.5,12,187,64.22,2017
+Extreme immaturity,0,1,1,249.5,86,270,320.11,2017
+Extreme immaturity,0,1,1,624.5,28,138,204.13,2017
+Extreme immaturity,0,1,2,249.5,91,193,473.7,2017
+Extreme immaturity,0,1,2,624.5,24,99,244.19,2017
+Extreme immaturity,0,1,3,249.5,55,151,365.42,2017
+Extreme immaturity,0,1,3,624.5,14,82,171.31,2017
+Extreme immaturity,0,1,4,249.5,21,98,215.32,2017
+Extreme immaturity,0,1,4,624.5,12,34,355.97,2017
+Extreme immaturity,0,1,5,249.5,22,67,329.39,2017
+Extreme immaturity,0,1,-1,249.5,15,33,457.55,2017
+Extreme immaturity,0,0,0,249.5,36,95,381.09,2017
+Extreme immaturity,0,0,1,249.5,317,880,360.35,2017
+Extreme immaturity,0,0,1,624.5,69,352,197.04,2017
+Extreme immaturity,0,0,2,249.5,295,721,408.63,2017
+Extreme immaturity,0,0,2,624.5,55,265,209.4,2017
+Extreme immaturity,0,0,3,249.5,212,593,357.84,2017
+Extreme immaturity,0,0,3,624.5,37,176,211.32,2017
+Extreme immaturity,0,0,4,249.5,157,347,451.75,2017
+Extreme immaturity,0,0,4,624.5,21,98,216.03,2017
+Extreme immaturity,0,0,5,249.5,107,291,369.38,2017
+Extreme immaturity,0,0,5,624.5,18,78,232.48,2017
+Extreme immaturity,0,0,-1,249.5,117,283,414.64,2017
+Extreme immaturity,0,0,-1,624.5,22,81,272.72,2017
+Other preterm infants,1,0,1,624.5,14,1254,11.17,2017
+Other preterm infants,0,1,1,249.5,24,270,89.3,2017
+Other preterm infants,0,1,2,249.5,14,193,72.97,2017
+Other preterm infants,0,1,3,249.5,14,151,93.25,2017
+Other preterm infants,0,1,4,249.5,16,98,163.92,2017
+Other preterm infants,0,1,5,249.5,12,67,180.34,2017
+Other preterm infants,0,0,0,249.5,10,95,105.86,2017
+Other preterm infants,0,0,1,249.5,84,880,95.96,2017
+Other preterm infants,0,0,1,624.5,24,352,68.63,2017
+Other preterm infants,0,0,2,249.5,77,721,107.15,2017
+Other preterm infants,0,0,2,624.5,27,265,102.83,2017
+Other preterm infants,0,0,3,249.5,62,593,105.1,2017
+Other preterm infants,0,0,3,624.5,14,176,79.82,2017
+Other preterm infants,0,0,4,249.5,36,347,104.06,2017
+Other preterm infants,0,0,5,249.5,43,291,148.37,2017
+Other preterm infants,0,0,-1,249.5,41,283,145.14,2017
+Other causes,1,0,1,624.5,12,1254,9.64,2017
+Respiratory distress,1,1,1,624.5,23,940,24.62,2017
+Respiratory distress,1,1,2,624.5,19,726,26.34,2017
+Respiratory distress,1,1,3,624.5,15,565,26.67,2017
+Respiratory distress,1,0,1,624.5,28,1254,22.45,2017
+Respiratory distress,1,0,2,624.5,17,994,17.13,2017
+Respiratory distress,1,0,3,624.5,11,744,14.85,2017
+Other causes,1,0,1,624.5,12,1254,9.58,2017
+Other causes,0,0,1,249.5,14,880,16.01,2017
+Cardiac failure,1,1,1,624.5,12,940,12.84,2017
+Cardiac failure,1,0,1,624.5,14,1254,11.2,2017
+Cardiac failure,0,0,1,249.5,12,880,13.76,2017
+Cardiac dysrhythmia,1,1,2,624.5,10,726,13.81,2017
+Cardiac dysrhythmia,1,0,1,624.5,12,1254,9.59,2017
+Cardiac dysrhythmia,0,0,1,249.5,24,880,27.49,2017
+Cardiac dysrhythmia,0,0,2,249.5,23,721,32.12,2017
+Cardiac dysrhythmia,0,0,3,249.5,15,593,25.5,2017
+Cardiac dysrhythmia,0,0,4,249.5,10,347,28.99,2017
+Bacterial sepsis,1,1,1,624.5,21,940,22.4,2017
+Bacterial sepsis,1,1,1,874.5,14,1277,10.98,2017
+Bacterial sepsis,1,1,2,624.5,12,726,16.73,2017
+Bacterial sepsis,1,1,3,624.5,13,565,23.18,2017
+Bacterial sepsis,1,0,1,249.5,12,268,45.07,2017
+Bacterial sepsis,1,0,1,624.5,26,1254,20.82,2017
+Bacterial sepsis,1,0,1,874.5,15,1701,8.86,2017
+Bacterial sepsis,1,0,2,624.5,15,994,15.12,2017
+Bacterial sepsis,1,0,2,874.5,13,1243,10.51,2017
+Bacterial sepsis,1,0,3,624.5,11,744,14.82,2017
+Intraventricular haemorrhage,1,1,1,624.5,21,940,22.48,2017
+Intraventricular haemorrhage,1,1,2,624.5,12,726,16.59,2017
+Intraventricular haemorrhage,1,0,1,624.5,13,1254,10.43,2017
+Intraventricular haemorrhage,1,0,1,874.5,13,1701,7.71,2017
+Intraventricular haemorrhage,1,0,2,624.5,18,994,18.28,2017
+Intraventricular haemorrhage,1,0,3,624.5,10,744,13.51,2017
+Necrotizing enterocolitis,1,1,1,624.5,13,940,13.85,2017
+Necrotizing enterocolitis,1,1,1,874.5,14,1277,10.97,2017
+Necrotizing enterocolitis,1,1,2,624.5,10,726,13.81,2017
+Necrotizing enterocolitis,1,0,1,624.5,11,1254,8.8,2017
+Necrotizing enterocolitis,1,0,1,1124.5,10,2092,4.78,2017
+Necrotizing enterocolitis,1,0,2,624.5,11,994,11.07,2017
+Necrotizing enterocolitis,1,0,2,874.5,11,1243,8.88,2017
+Necrotizing enterocolitis,1,0,3,624.5,14,744,18.84,2017
+HIE of newborn,1,0,1,3249.5,16,16069,1.0,2017
+HIE of newborn,1,0,3,3749.5,10,4480,2.23,2017
+Anencephaly,0,0,1,1124.5,11,347,31.87,2017
+Anencephaly,0,0,1,1749.5,15,3470,4.35,2017
+Anencephaly,0,0,1,2249.5,25,41610,0.61,2017
+Anencephaly,0,0,1,2749.5,15,226913,0.07,2017
+Anencephaly,0,0,2,1749.5,12,1972,6.12,2017
+Anencephaly,0,0,3,1749.5,10,1170,8.65,2017
+Other causes,1,0,1,2749.5,11,14689,0.75,2017
+Other causes,1,0,1,3249.5,10,16069,0.62,2017
+Other causes,1,0,2,3249.5,13,10136,1.29,2017
+Congenital heart defect,1,0,1,1749.5,12,10449,1.16,2017
+Congenital heart defect,1,0,1,2249.5,17,14831,1.15,2017
+Congenital heart defect,1,0,1,2749.5,16,14689,1.1,2017
+Congenital heart defect,1,0,1,3249.5,17,16069,1.06,2017
+Congenital heart defect,1,0,2,2749.5,12,9062,1.33,2017
+Congenital heart defect,1,0,3,2749.5,10,5445,1.84,2017
+Congenital heart defect,1,0,3,3249.5,12,5985,2.01,2017
+Congenital heart defect,0,0,1,3249.5,13,491335,0.03,2017
+Congenital heart defect,0,0,2,3249.5,11,275284,0.04,2017
+Other causes,0,0,1,1749.5,10,3470,2.91,2017
+Edwards syndrome,1,1,1,1749.5,13,8199,1.59,2017
+Edwards syndrome,1,0,1,1749.5,14,10449,1.35,2017
+Edwards syndrome,1,0,1,2249.5,16,14831,1.09,2017
+Edwards syndrome,1,0,2,1749.5,14,6384,2.2,2017
+Edwards syndrome,1,0,2,2249.5,13,8897,1.47,2017
+Edwards syndrome,0,0,1,1749.5,16,3470,4.62,2017
+Edwards syndrome,0,0,1,2249.5,14,41610,0.34,2017
+Edwards syndrome,0,0,2,1749.5,16,1972,8.18,2017
+Other causes,1,0,1,2749.5,12,14689,0.82,2017
+Other causes,0,0,1,2249.5,14,41610,0.34,2017
+Other causes,0,0,2,2749.5,12,114550,0.11,2017
+SIDS,1,1,1,1749.5,12,8199,1.47,2017
+SIDS,1,0,1,1749.5,10,10449,0.96,2017
+SIDS,1,0,1,2249.5,12,14831,0.81,2017
+SIDS,1,0,1,2749.5,11,14689,0.75,2017
+SIDS,0,1,1,2249.5,16,17087,0.94,2017
+SIDS,0,1,1,2749.5,28,68267,0.41,2017
+SIDS,0,1,1,3249.5,32,132042,0.24,2017
+SIDS,0,1,1,3749.5,23,82657,0.28,2017
+SIDS,0,1,2,2749.5,19,38152,0.5,2017
+SIDS,0,1,2,3249.5,30,81305,0.37,2017
+SIDS,0,1,2,3749.5,15,59655,0.25,2017
+SIDS,0,1,3,2749.5,12,21964,0.55,2017
+SIDS,0,1,3,3249.5,14,46985,0.3,2017
+SIDS,0,1,4,2749.5,11,11190,0.99,2017
+SIDS,0,1,4,3249.5,10,23731,0.42,2017
+SIDS,0,0,0,2749.5,14,25688,0.55,2017
+SIDS,0,0,1,2249.5,35,41610,0.84,2017
+SIDS,0,0,1,2749.5,94,226913,0.42,2017
+SIDS,0,0,1,3249.5,117,491335,0.24,2017
+SIDS,0,0,1,3749.5,42,305879,0.14,2017
+SIDS,0,0,2,2249.5,15,21111,0.71,2017
+SIDS,0,0,2,2749.5,54,114550,0.47,2017
+SIDS,0,0,2,3249.5,67,275284,0.24,2017
+SIDS,0,0,2,3749.5,43,200267,0.22,2017
+SIDS,0,0,3,2749.5,42,59611,0.71,2017
+SIDS,0,0,3,3249.5,46,143311,0.32,2017
+SIDS,0,0,3,3749.5,22,111139,0.2,2017
+SIDS,0,0,3,4249.5,11,31615,0.35,2017
+SIDS,0,0,4,2749.5,11,27420,0.4,2017
+SIDS,0,0,4,3249.5,30,65878,0.46,2017
+SIDS,0,0,4,3749.5,18,52967,0.34,2017
+SIDS,0,0,5,3249.5,23,42750,0.54,2017
+SIDS,0,0,5,3749.5,14,35354,0.4,2017
+SIDS,0,0,-1,3249.5,10,21500,0.47,2017
+Unspecified causes,1,0,1,1749.5,14,10449,1.34,2017
+Unspecified causes,1,0,2,2249.5,10,8897,1.12,2017
+Unspecified causes,0,1,1,2249.5,12,17087,0.7,2017
+Unspecified causes,0,1,1,2749.5,31,68267,0.45,2017
+Unspecified causes,0,1,1,3249.5,30,132042,0.23,2017
+Unspecified causes,0,1,1,3749.5,10,82657,0.12,2017
+Unspecified causes,0,1,2,2749.5,17,38152,0.45,2017
+Unspecified causes,0,1,2,3249.5,22,81305,0.27,2017
+Unspecified causes,0,1,2,3749.5,14,59655,0.24,2017
+Unspecified causes,0,1,3,2749.5,14,21964,0.64,2017
+Unspecified causes,0,1,3,3249.5,11,46985,0.23,2017
+Unspecified causes,0,1,4,3249.5,10,23731,0.42,2017
+Unspecified causes,0,0,0,2749.5,10,25688,0.39,2017
+Unspecified causes,0,0,1,2249.5,25,41610,0.6,2017
+Unspecified causes,0,0,1,2749.5,79,226913,0.35,2017
+Unspecified causes,0,0,1,3249.5,107,491335,0.22,2017
+Unspecified causes,0,0,1,3749.5,41,305879,0.13,2017
+Unspecified causes,0,0,2,2249.5,20,21111,0.95,2017
+Unspecified causes,0,0,2,2749.5,31,114550,0.27,2017
+Unspecified causes,0,0,2,3249.5,75,275284,0.27,2017
+Unspecified causes,0,0,2,3749.5,31,200267,0.16,2017
+Unspecified causes,0,0,3,2749.5,41,59611,0.69,2017
+Unspecified causes,0,0,3,3249.5,48,143311,0.34,2017
+Unspecified causes,0,0,3,3749.5,19,111139,0.17,2017
+Unspecified causes,0,0,4,2749.5,12,27420,0.44,2017
+Unspecified causes,0,0,4,3249.5,23,65878,0.35,2017
+Unspecified causes,0,0,4,3749.5,15,52967,0.28,2017
+Unspecified causes,0,0,5,2749.5,15,18537,0.81,2017
+Unspecified causes,0,0,5,3249.5,18,42750,0.42,2017
+Unspecified causes,0,0,5,3749.5,12,35354,0.34,2017
+Accidental suffocation,0,1,1,2749.5,19,68267,0.28,2017
+Accidental suffocation,0,1,1,3249.5,25,132042,0.19,2017
+Accidental suffocation,0,1,1,3749.5,15,82657,0.18,2017
+Accidental suffocation,0,1,2,2749.5,13,38152,0.34,2017
+Accidental suffocation,0,1,2,3249.5,16,81305,0.2,2017
+Accidental suffocation,0,1,2,3749.5,11,59655,0.18,2017
+Accidental suffocation,0,1,3,2749.5,10,21964,0.46,2017
+Accidental suffocation,0,1,3,3249.5,13,46985,0.28,2017
+Accidental suffocation,0,1,5,3249.5,10,18149,0.55,2017
+Accidental suffocation,0,0,0,2749.5,11,25688,0.43,2017
+Accidental suffocation,0,0,1,2249.5,20,41610,0.48,2017
+Accidental suffocation,0,0,1,2749.5,71,226913,0.31,2017
+Accidental suffocation,0,0,1,3249.5,78,491335,0.16,2017
+Accidental suffocation,0,0,1,3749.5,35,305879,0.11,2017
+Accidental suffocation,0,0,2,2249.5,13,21111,0.62,2017
+Accidental suffocation,0,0,2,2749.5,32,114550,0.28,2017
+Accidental suffocation,0,0,2,3249.5,55,275284,0.2,2017
+Accidental suffocation,0,0,2,3749.5,25,200267,0.13,2017
+Accidental suffocation,0,0,3,2749.5,29,59611,0.49,2017
+Accidental suffocation,0,0,3,3249.5,36,143311,0.25,2017
+Accidental suffocation,0,0,3,3749.5,23,111139,0.21,2017
+Accidental suffocation,0,0,4,2749.5,10,27420,0.37,2017
+Accidental suffocation,0,0,4,3249.5,22,65878,0.33,2017
+Accidental suffocation,0,0,4,3749.5,10,52967,0.19,2017
+Accidental suffocation,0,0,5,3249.5,14,42750,0.33,2017
+Other causes,0,0,2,3249.5,10,275284,0.04,2017
+Other causes,0,0,1,3249.5,11,491335,0.02,2017
+Other causes,1,0,1,624.5,11,1136,9.69,2018
+Incompetent cervix,0,1,1,249.5,13,205,64.15,2018
+Incompetent cervix,0,1,2,249.5,21,218,97.13,2018
+Incompetent cervix,0,1,3,249.5,14,169,83.52,2018
+Incompetent cervix,0,0,1,249.5,57,834,68.04,2018
+Incompetent cervix,0,0,2,249.5,48,686,70.61,2018
+Incompetent cervix,0,0,3,249.5,35,547,64.78,2018
+Incompetent cervix,0,0,4,249.5,33,327,101.91,2018
+Incompetent cervix,0,0,5,249.5,19,287,66.69,2018
+Premature rupture,0,1,1,249.5,24,205,117.63,2018
+Premature rupture,0,1,1,624.5,11,131,84.7,2018
+Premature rupture,0,1,2,249.5,20,218,93.24,2018
+Premature rupture,0,1,3,249.5,30,169,179.05,2018
+Premature rupture,0,1,4,249.5,11,101,110.38,2018
+Premature rupture,0,1,5,249.5,12,81,148.68,2018
+Premature rupture,0,0,1,249.5,62,834,73.86,2018
+Premature rupture,0,0,1,624.5,13,303,43.62,2018
+Premature rupture,0,0,2,249.5,77,686,111.94,2018
+Premature rupture,0,0,2,624.5,10,236,42.94,2018
+Premature rupture,0,0,3,249.5,41,547,74.14,2018
+Premature rupture,0,0,3,624.5,11,186,59.87,2018
+Premature rupture,0,0,4,249.5,35,327,107.94,2018
+Premature rupture,0,0,5,249.5,37,287,129.59,2018
+Premature rupture,0,0,-1,249.5,15,205,74.0,2018
+Other causes,0,0,3,249.5,10,547,18.73,2018
+Placental separation,0,1,1,249.5,10,205,49.37,2018
+Placental separation,0,0,1,249.5,39,834,47.08,2018
+Placental separation,0,0,1,624.5,12,303,39.87,2018
+Placental separation,0,0,2,249.5,25,686,36.74,2018
+Placental separation,0,0,3,249.5,11,547,20.36,2018
+Chorioamnionitis,0,1,1,249.5,15,205,74.22,2018
+Chorioamnionitis,0,1,2,249.5,18,218,83.82,2018
+Chorioamnionitis,0,0,1,249.5,15,834,18.07,2018
+Chorioamnionitis,0,0,2,249.5,17,686,25.13,2018
+Chorioamnionitis,0,0,3,249.5,13,547,24.11,2018
+Other causes,1,0,3,249.5,14,166,85.03,2018
+Extreme immaturity,1,1,1,249.5,18,144,125.71,2018
+Extreme immaturity,1,1,1,624.5,28,873,32.47,2018
+Extreme immaturity,1,1,2,249.5,10,108,93.77,2018
+Extreme immaturity,1,1,2,624.5,28,756,37.14,2018
+Extreme immaturity,1,1,3,249.5,10,92,110.28,2018
+Extreme immaturity,1,1,3,624.5,20,560,36.32,2018
+Extreme immaturity,1,0,1,249.5,45,251,181.16,2018
+Extreme immaturity,1,0,1,624.5,40,1136,34.77,2018
+Extreme immaturity,1,0,2,249.5,32,201,160.4,2018
+Extreme immaturity,1,0,2,624.5,26,952,27.49,2018
+Extreme immaturity,1,0,3,249.5,30,166,182.71,2018
+Extreme immaturity,1,0,3,624.5,11,652,17.0,2018
+Extreme immaturity,1,0,4,249.5,19,125,153.82,2018
+Extreme immaturity,1,0,4,624.5,14,471,30.12,2018
+Extreme immaturity,1,0,5,249.5,14,97,145.53,2018
+Extreme immaturity,1,0,5,624.5,12,372,32.44,2018
+Extreme immaturity,1,0,-1,624.5,15,196,76.98,2018
+Extreme immaturity,0,1,1,249.5,72,205,350.32,2018
+Extreme immaturity,0,1,1,624.5,28,131,215.74,2018
+Extreme immaturity,0,1,2,249.5,85,218,389.39,2018
+Extreme immaturity,0,1,2,624.5,20,106,190.44,2018
+Extreme immaturity,0,1,3,249.5,46,169,275.0,2018
+Extreme immaturity,0,1,3,624.5,11,57,194.5,2018
+Extreme immaturity,0,1,4,249.5,41,101,410.81,2018
+Extreme immaturity,0,1,5,249.5,32,81,399.51,2018
+Extreme immaturity,0,1,-1,249.5,20,39,516.63,2018
+Extreme immaturity,0,0,0,249.5,32,89,362.52,2018
+Extreme immaturity,0,0,1,249.5,351,834,420.89,2018
+Extreme immaturity,0,0,1,624.5,86,303,283.79,2018
+Extreme immaturity,0,0,1,874.5,10,205,49.18,2018
+Extreme immaturity,0,0,2,249.5,279,686,406.2,2018
+Extreme immaturity,0,0,2,624.5,49,236,207.09,2018
+Extreme immaturity,0,0,3,249.5,231,547,421.53,2018
+Extreme immaturity,0,0,3,624.5,60,186,320.24,2018
+Extreme immaturity,0,0,4,249.5,135,327,412.54,2018
+Extreme immaturity,0,0,4,624.5,23,98,238.67,2018
+Extreme immaturity,0,0,5,249.5,119,287,414.17,2018
+Extreme immaturity,0,0,5,624.5,16,81,199.59,2018
+Extreme immaturity,0,0,-1,249.5,90,205,436.85,2018
+Extreme immaturity,0,0,-1,624.5,15,63,238.87,2018
+Other preterm infants,0,1,1,249.5,19,205,93.78,2018
+Other preterm infants,0,1,2,249.5,18,218,83.27,2018
+Other preterm infants,0,1,3,249.5,10,169,59.87,2018
+Other preterm infants,0,1,4,249.5,14,101,139.81,2018
+Other preterm infants,0,0,0,249.5,11,89,125.01,2018
+Other preterm infants,0,0,1,249.5,109,834,130.77,2018
+Other preterm infants,0,0,1,624.5,20,303,66.39,2018
+Other preterm infants,0,0,2,249.5,73,686,107.12,2018
+Other preterm infants,0,0,2,624.5,12,236,51.25,2018
+Other preterm infants,0,0,3,249.5,71,547,128.95,2018
+Other preterm infants,0,0,4,249.5,48,327,148.24,2018
+Other preterm infants,0,0,5,249.5,41,287,143.86,2018
+Other preterm infants,0,0,-1,249.5,26,205,127.33,2018
+Respiratory distress,1,1,1,624.5,21,873,24.23,2018
+Respiratory distress,1,1,2,624.5,19,756,25.27,2018
+Respiratory distress,1,1,3,624.5,12,560,21.54,2018
+Respiratory distress,1,0,1,624.5,26,1136,23.2,2018
+Respiratory distress,1,0,2,624.5,26,952,27.51,2018
+Respiratory distress,1,0,3,624.5,12,652,18.5,2018
+Other causes,1,0,1,624.5,16,1136,14.31,2018
+Cardiac failure,1,0,1,624.5,12,1136,10.75,2018
+Cardiac failure,1,0,2,624.5,13,952,13.71,2018
+Cardiac failure,0,0,1,249.5,17,834,20.55,2018
+Cardiac failure,0,0,3,249.5,11,547,20.46,2018
+Cardiac dysrhythmia,1,0,1,624.5,10,1136,8.93,2018
+Cardiac dysrhythmia,0,0,1,249.5,25,834,30.21,2018
+Cardiac dysrhythmia,0,0,2,249.5,21,686,30.92,2018
+Cardiac dysrhythmia,0,0,3,249.5,19,547,34.99,2018
+Bacterial sepsis,1,1,1,624.5,20,873,23.04,2018
+Bacterial sepsis,1,1,2,624.5,16,756,21.26,2018
+Bacterial sepsis,1,1,5,624.5,12,265,45.56,2018
+Bacterial sepsis,1,0,1,624.5,24,1136,21.21,2018
+Bacterial sepsis,1,0,2,624.5,17,952,17.92,2018
+Bacterial sepsis,1,0,3,624.5,13,652,20.0,2018
+Bacterial sepsis,1,0,4,624.5,11,471,23.4,2018
+Intraventricular haemorrhage,1,1,1,624.5,14,873,16.09,2018
+Intraventricular haemorrhage,1,1,2,624.5,15,756,20.07,2018
+Intraventricular haemorrhage,1,0,1,624.5,20,1136,17.77,2018
+Necrotizing enterocolitis,1,1,1,624.5,10,873,11.46,2018
+Necrotizing enterocolitis,1,0,1,624.5,11,1136,9.7,2018
+Necrotizing enterocolitis,1,0,1,874.5,11,1508,7.3,2018
+Necrotizing enterocolitis,1,0,2,624.5,14,952,14.71,2018
+Necrotizing enterocolitis,1,0,3,624.5,12,652,18.41,2018
+HIE of newborn,1,0,1,3249.5,12,15518,0.78,2018
+HIE of newborn,1,0,1,3749.5,12,9254,1.31,2018
+HIE of newborn,1,0,2,3249.5,11,10368,1.07,2018
+Anencephaly,0,0,1,1749.5,11,3027,3.67,2018
+Anencephaly,0,0,1,2249.5,21,39388,0.54,2018
+Anencephaly,0,0,1,2749.5,12,216767,0.06,2018
+Other causes,1,0,1,2749.5,14,14176,1.0,2018
+Congenital heart defect,1,0,1,2249.5,16,14437,1.11,2018
+Congenital heart defect,1,0,1,2749.5,16,14176,1.13,2018
+Congenital heart defect,1,0,1,3249.5,16,15518,1.04,2018
+Congenital heart defect,1,0,2,3249.5,14,10368,1.36,2018
+Congenital heart defect,0,0,1,2749.5,15,216767,0.07,2018
+Other causes,1,0,1,2249.5,10,14437,0.7,2018
+Other causes,1,0,1,2749.5,10,14176,0.71,2018
+Edwards syndrome,1,0,1,1374.5,13,2595,5.06,2018
+Edwards syndrome,1,0,1,1749.5,27,9995,2.71,2018
+Edwards syndrome,1,0,1,2249.5,12,14437,0.84,2018
+Edwards syndrome,1,0,2,1749.5,21,6518,3.24,2018
+Edwards syndrome,1,0,2,2249.5,16,9060,1.78,2018
+Edwards syndrome,0,0,1,1749.5,29,3027,9.64,2018
+Edwards syndrome,0,0,2,1749.5,12,1802,6.71,2018
+Edwards syndrome,0,0,3,1749.5,11,1148,9.69,2018
+Other causes,1,0,2,2749.5,11,9172,1.22,2018
+Other causes,0,0,1,1749.5,10,3027,3.32,2018
+SIDS,1,1,1,2249.5,12,10742,1.12,2018
+SIDS,1,0,1,2249.5,13,14437,0.9,2018
+SIDS,0,1,1,2249.5,16,16287,0.98,2018
+SIDS,0,1,1,2749.5,32,66206,0.48,2018
+SIDS,0,1,1,3249.5,31,127598,0.24,2018
+SIDS,0,1,1,3749.5,17,79718,0.21,2018
+SIDS,0,1,2,2749.5,20,38983,0.51,2018
+SIDS,0,1,2,3249.5,17,81976,0.21,2018
+SIDS,0,1,3,3249.5,18,48130,0.38,2018
+SIDS,0,1,4,3249.5,13,24827,0.53,2018
+SIDS,0,1,5,3249.5,10,18766,0.53,2018
+SIDS,0,0,0,2749.5,19,24244,0.78,2018
+SIDS,0,0,0,3249.5,14,35327,0.4,2018
+SIDS,0,0,1,2249.5,31,39388,0.79,2018
+SIDS,0,0,1,2749.5,88,216767,0.41,2018
+SIDS,0,0,1,3249.5,116,469551,0.25,2018
+SIDS,0,0,1,3749.5,46,293306,0.16,2018
+SIDS,0,0,1,4249.5,14,61877,0.23,2018
+SIDS,0,0,2,2249.5,15,21213,0.71,2018
+SIDS,0,0,2,2749.5,49,114783,0.43,2018
+SIDS,0,0,2,3249.5,55,274003,0.2,2018
+SIDS,0,0,2,3749.5,36,199599,0.18,2018
+SIDS,0,0,3,2749.5,25,60649,0.41,2018
+SIDS,0,0,3,3249.5,43,145954,0.3,2018
+SIDS,0,0,3,3749.5,31,111580,0.28,2018
+SIDS,0,0,4,2749.5,16,28587,0.56,2018
+SIDS,0,0,4,3249.5,25,67270,0.37,2018
+SIDS,0,0,4,3749.5,25,53577,0.47,2018
+SIDS,0,0,5,2749.5,20,19658,1.02,2018
+SIDS,0,0,5,3249.5,23,44846,0.51,2018
+SIDS,0,0,5,3749.5,14,36154,0.39,2018
+Unspecified causes,1,1,2,1749.5,10,5056,1.98,2018
+Unspecified causes,1,0,1,1749.5,11,9995,1.1,2018
+Unspecified causes,1,0,1,2249.5,15,14437,1.04,2018
+Unspecified causes,0,1,1,2249.5,18,16287,1.11,2018
+Unspecified causes,0,1,1,2749.5,30,66206,0.45,2018
+Unspecified causes,0,1,1,3249.5,30,127598,0.24,2018
+Unspecified causes,0,1,2,2749.5,13,38983,0.33,2018
+Unspecified causes,0,1,2,3249.5,18,81976,0.22,2018
+Unspecified causes,0,1,2,3749.5,16,59277,0.27,2018
+Unspecified causes,0,1,3,3249.5,13,48130,0.27,2018
+Unspecified causes,0,1,4,3249.5,11,24827,0.44,2018
+Unspecified causes,0,0,0,3249.5,12,35327,0.34,2018
+Unspecified causes,0,0,1,2249.5,28,39388,0.71,2018
+Unspecified causes,0,0,1,2749.5,90,216767,0.42,2018
+Unspecified causes,0,0,1,3249.5,97,469551,0.21,2018
+Unspecified causes,0,0,1,3749.5,28,293306,0.1,2018
+Unspecified causes,0,0,2,2249.5,18,21213,0.85,2018
+Unspecified causes,0,0,2,2749.5,49,114783,0.43,2018
+Unspecified causes,0,0,2,3249.5,80,274003,0.29,2018
+Unspecified causes,0,0,2,3749.5,36,199599,0.18,2018
+Unspecified causes,0,0,3,2749.5,40,60649,0.66,2018
+Unspecified causes,0,0,3,3249.5,30,145954,0.21,2018
+Unspecified causes,0,0,3,3749.5,28,111580,0.25,2018
+Unspecified causes,0,0,4,2749.5,15,28587,0.53,2018
+Unspecified causes,0,0,4,3249.5,23,67270,0.34,2018
+Unspecified causes,0,0,4,3749.5,12,53577,0.22,2018
+Unspecified causes,0,0,5,2749.5,12,19658,0.61,2018
+Unspecified causes,0,0,5,3249.5,25,44846,0.56,2018
+Unspecified causes,0,0,5,3749.5,11,36154,0.31,2018
+Accidental suffocation,0,1,1,2249.5,10,16287,0.62,2018
+Accidental suffocation,0,1,1,2749.5,22,66206,0.33,2018
+Accidental suffocation,0,1,1,3249.5,25,127598,0.2,2018
+Accidental suffocation,0,1,1,3749.5,12,79718,0.15,2018
+Accidental suffocation,0,1,2,2749.5,11,38983,0.28,2018
+Accidental suffocation,0,1,2,3249.5,13,81976,0.16,2018
+Accidental suffocation,0,1,3,3249.5,11,48130,0.23,2018
+Accidental suffocation,0,0,1,2249.5,16,39388,0.41,2018
+Accidental suffocation,0,0,1,2749.5,65,216767,0.3,2018
+Accidental suffocation,0,0,1,3249.5,57,469551,0.12,2018
+Accidental suffocation,0,0,1,3749.5,27,293306,0.09,2018
+Accidental suffocation,0,0,2,2749.5,38,114783,0.33,2018
+Accidental suffocation,0,0,2,3249.5,55,274003,0.2,2018
+Accidental suffocation,0,0,2,3749.5,17,199599,0.09,2018
+Accidental suffocation,0,0,3,2749.5,20,60649,0.33,2018
+Accidental suffocation,0,0,3,3249.5,29,145954,0.2,2018
+Accidental suffocation,0,0,3,3749.5,22,111580,0.2,2018
+Accidental suffocation,0,0,4,3249.5,15,67270,0.22,2018
+Accidental suffocation,0,0,4,3749.5,13,53577,0.24,2018
+Accidental suffocation,0,0,5,2749.5,10,19658,0.51,2018
+Accidental suffocation,0,0,5,3249.5,19,44846,0.42,2018
+Accidental suffocation,0,0,5,3749.5,16,36154,0.44,2018
+Other causes,0,0,1,3249.5,13,469551,0.03,2018
+Other causes,1,1,1,624.5,10,865,11.58,2019
+Other causes,1,0,1,624.5,15,1139,13.21,2019
+Incompetent cervix,0,1,1,249.5,14,195,72.43,2019
+Incompetent cervix,0,0,1,249.5,50,812,61.07,2019
+Incompetent cervix,0,0,2,249.5,40,659,61.27,2019
+Incompetent cervix,0,0,3,249.5,43,546,79.56,2019
+Incompetent cervix,0,0,4,249.5,23,364,63.99,2019
+Incompetent cervix,0,0,5,249.5,25,290,87.26,2019
+Incompetent cervix,0,0,-1,249.5,14,212,66.27,2019
+Premature rupture,0,1,1,249.5,34,195,175.58,2019
+Premature rupture,0,1,2,249.5,29,200,147.37,2019
+Premature rupture,0,1,3,249.5,15,151,100.94,2019
+Premature rupture,0,1,4,249.5,11,102,108.1,2019
+Premature rupture,0,0,1,249.5,79,812,97.37,2019
+Premature rupture,0,0,1,624.5,22,309,72.3,2019
+Premature rupture,0,0,2,249.5,60,659,90.48,2019
+Premature rupture,0,0,2,624.5,12,224,53.81,2019
+Premature rupture,0,0,3,249.5,43,546,79.42,2019
+Premature rupture,0,0,4,249.5,26,364,72.14,2019
+Premature rupture,0,0,5,249.5,27,290,94.51,2019
+Premature rupture,0,0,-1,249.5,28,212,132.76,2019
+Other causes,0,0,5,249.5,10,290,34.48,2019
+Other causes,0,0,1,249.5,10,812,12.63,2019
+Placental separation,0,0,1,249.5,42,812,52.13,2019
+Placental separation,0,0,1,624.5,10,309,32.95,2019
+Placental separation,0,0,2,249.5,32,659,49.23,2019
+Placental separation,0,0,3,249.5,18,546,33.25,2019
+Chorioamnionitis,0,1,1,249.5,16,195,83.04,2019
+Chorioamnionitis,0,1,2,249.5,16,200,80.74,2019
+Chorioamnionitis,0,1,3,249.5,17,151,113.14,2019
+Chorioamnionitis,0,1,4,249.5,12,102,118.29,2019
+Chorioamnionitis,0,0,1,249.5,31,812,38.55,2019
+Chorioamnionitis,0,0,2,249.5,12,659,18.32,2019
+Chorioamnionitis,0,0,3,249.5,11,546,20.32,2019
+Chorioamnionitis,0,0,4,249.5,12,364,33.28,2019
+Other causes,1,0,2,249.5,10,239,42.54,2019
+Extreme immaturity,1,1,1,249.5,12,137,87.82,2019
+Extreme immaturity,1,1,1,624.5,34,865,39.63,2019
+Extreme immaturity,1,1,2,249.5,16,124,129.53,2019
+Extreme immaturity,1,1,2,624.5,28,723,39.02,2019
+Extreme immaturity,1,1,3,249.5,10,108,93.01,2019
+Extreme immaturity,1,1,3,624.5,17,560,30.72,2019
+Extreme immaturity,1,1,4,249.5,10,55,184.96,2019
+Extreme immaturity,1,0,1,249.5,61,286,213.37,2019
+Extreme immaturity,1,0,1,624.5,37,1139,32.07,2019
+Extreme immaturity,1,0,2,249.5,43,239,178.34,2019
+Extreme immaturity,1,0,2,624.5,35,958,36.78,2019
+Extreme immaturity,1,0,3,249.5,31,176,178.33,2019
+Extreme immaturity,1,0,3,624.5,19,692,27.82,2019
+Extreme immaturity,1,0,4,249.5,20,92,217.89,2019
+Extreme immaturity,1,0,5,249.5,12,95,128.09,2019
+Extreme immaturity,1,0,5,624.5,15,360,42.31,2019
+Extreme immaturity,0,1,1,249.5,68,195,348.04,2019
+Extreme immaturity,0,1,1,624.5,16,100,161.25,2019
+Extreme immaturity,0,1,2,249.5,73,200,363.85,2019
+Extreme immaturity,0,1,2,624.5,16,85,190.07,2019
+Extreme immaturity,0,1,3,249.5,49,151,321.24,2019
+Extreme immaturity,0,1,4,249.5,39,102,383.98,2019
+Extreme immaturity,0,1,5,249.5,30,74,407.3,2019
+Extreme immaturity,0,1,5,624.5,12,29,414.61,2019
+Extreme immaturity,0,1,-1,249.5,11,36,307.1,2019
+Extreme immaturity,0,0,0,249.5,28,65,436.05,2019
+Extreme immaturity,0,0,1,249.5,295,812,363.66,2019
+Extreme immaturity,0,0,1,624.5,64,309,208.42,2019
+Extreme immaturity,0,0,2,249.5,256,659,388.66,2019
+Extreme immaturity,0,0,2,624.5,45,224,202.14,2019
+Extreme immaturity,0,0,3,249.5,221,546,405.08,2019
+Extreme immaturity,0,0,3,624.5,37,149,249.8,2019
+Extreme immaturity,0,0,4,249.5,153,364,421.67,2019
+Extreme immaturity,0,0,4,624.5,31,122,255.71,2019
+Extreme immaturity,0,0,5,249.5,124,290,427.45,2019
+Extreme immaturity,0,0,5,624.5,19,83,229.86,2019
+Extreme immaturity,0,0,-1,249.5,81,212,379.85,2019
+Extreme immaturity,0,0,-1,624.5,13,51,256.8,2019
+Other preterm infants,0,1,1,249.5,14,195,73.89,2019
+Other preterm infants,0,1,2,249.5,21,200,105.87,2019
+Other preterm infants,0,1,3,249.5,17,151,112.81,2019
+Other preterm infants,0,0,1,249.5,96,812,117.8,2019
+Other preterm infants,0,0,1,624.5,25,309,81.47,2019
+Other preterm infants,0,0,2,249.5,82,659,124.21,2019
+Other preterm infants,0,0,2,624.5,15,224,67.98,2019
+Other preterm infants,0,0,3,249.5,68,546,124.54,2019
+Other preterm infants,0,0,4,249.5,49,364,135.21,2019
+Other preterm infants,0,0,5,249.5,34,290,117.9,2019
+Other preterm infants,0,0,-1,249.5,29,212,137.56,2019
+Other causes,1,0,1,624.5,10,1139,8.82,2019
+Respiratory distress,1,1,1,624.5,22,865,25.67,2019
+Respiratory distress,1,1,2,624.5,17,723,23.69,2019
+Respiratory distress,1,1,3,624.5,16,560,28.82,2019
+Respiratory distress,1,1,4,624.5,16,355,45.63,2019
+Respiratory distress,1,0,1,624.5,24,1139,21.18,2019
+Respiratory distress,1,0,1,874.5,11,1595,6.96,2019
+Respiratory distress,1,0,2,249.5,11,239,46.08,2019
+Respiratory distress,1,0,2,624.5,15,958,15.91,2019
+Respiratory distress,1,0,3,624.5,21,692,30.65,2019
+Other causes,1,0,2,624.5,10,958,10.49,2019
+Other causes,1,1,1,624.5,10,865,11.78,2019
+Other causes,0,0,2,249.5,11,659,16.81,2019
+Cardiac failure,1,1,1,624.5,10,865,11.69,2019
+Cardiac failure,1,0,1,624.5,13,1139,11.47,2019
+Cardiac failure,1,0,2,249.5,12,239,50.27,2019
+Cardiac failure,0,0,1,624.5,12,309,39.23,2019
+Cardiac failure,0,0,2,249.5,14,659,21.38,2019
+Cardiac dysrhythmia,0,0,1,249.5,25,812,31.03,2019
+Cardiac dysrhythmia,0,0,2,249.5,20,659,30.59,2019
+Cardiac dysrhythmia,0,0,3,249.5,25,546,46.3,2019
+Cardiac dysrhythmia,0,0,4,249.5,10,364,27.64,2019
+Cardiac dysrhythmia,0,0,5,249.5,10,290,34.82,2019
+Bacterial sepsis,1,1,1,624.5,17,865,19.72,2019
+Bacterial sepsis,1,1,1,874.5,12,1206,9.96,2019
+Bacterial sepsis,1,1,2,624.5,18,723,25.07,2019
+Bacterial sepsis,1,1,3,624.5,12,560,21.54,2019
+Bacterial sepsis,1,0,1,624.5,20,1139,17.74,2019
+Bacterial sepsis,1,0,1,874.5,11,1595,6.91,2019
+Bacterial sepsis,1,0,2,249.5,11,239,46.46,2019
+Bacterial sepsis,1,0,2,624.5,23,958,24.25,2019
+Bacterial sepsis,1,0,2,874.5,11,1214,9.13,2019
+Intraventricular haemorrhage,1,1,1,624.5,11,865,13.08,2019
+Intraventricular haemorrhage,1,1,2,624.5,13,723,18.17,2019
+Intraventricular haemorrhage,1,0,1,624.5,13,1139,11.55,2019
+Intraventricular haemorrhage,1,0,2,624.5,20,958,21.07,2019
+Necrotizing enterocolitis,1,1,1,624.5,11,865,12.74,2019
+Necrotizing enterocolitis,1,1,2,624.5,12,723,16.65,2019
+Necrotizing enterocolitis,1,0,1,624.5,23,1139,20.32,2019
+Necrotizing enterocolitis,1,0,2,874.5,16,1214,13.25,2019
+HIE of newborn,1,0,1,3249.5,12,15474,0.78,2019
+Anencephaly,0,0,1,1749.5,12,2922,4.16,2019
+Anencephaly,0,0,1,2249.5,19,38445,0.5,2019
+Anencephaly,0,0,1,2749.5,10,211957,0.05,2019
+Congenital heart defect,1,0,1,2249.5,12,14133,0.86,2019
+Congenital heart defect,1,0,1,2749.5,19,14342,1.33,2019
+Congenital heart defect,1,0,2,2249.5,10,9034,1.12,2019
+Congenital heart defect,1,0,2,2749.5,11,9584,1.16,2019
+Edwards syndrome,1,1,1,1749.5,14,7898,1.79,2019
+Edwards syndrome,1,1,2,1749.5,12,5067,2.37,2019
+Edwards syndrome,1,0,1,1749.5,20,9657,2.09,2019
+Edwards syndrome,1,0,1,2249.5,12,14133,0.85,2019
+Edwards syndrome,1,0,2,1749.5,10,6652,1.5,2019
+Edwards syndrome,1,0,2,2249.5,11,9034,1.23,2019
+Edwards syndrome,0,0,1,1749.5,23,2922,7.93,2019
+Edwards syndrome,0,0,2,1374.5,10,282,35.86,2019
+Edwards syndrome,0,0,2,1749.5,15,1804,8.38,2019
+Other causes,1,0,1,2249.5,10,14133,0.71,2019
+SIDS,1,0,1,1749.5,11,9657,1.14,2019
+SIDS,0,1,1,2249.5,12,15637,0.77,2019
+SIDS,0,1,1,2749.5,23,64960,0.36,2019
+SIDS,0,1,1,3249.5,35,122930,0.29,2019
+SIDS,0,1,1,3749.5,11,74352,0.15,2019
+SIDS,0,1,2,2749.5,11,39537,0.28,2019
+SIDS,0,1,2,3249.5,17,82381,0.21,2019
+SIDS,0,1,3,2749.5,17,23687,0.72,2019
+SIDS,0,1,3,3249.5,12,49872,0.24,2019
+SIDS,0,1,4,2749.5,13,12168,1.07,2019
+SIDS,0,1,4,3249.5,20,25717,0.78,2019
+SIDS,0,0,0,3249.5,17,33550,0.51,2019
+SIDS,0,0,1,2249.5,30,38445,0.78,2019
+SIDS,0,0,1,2749.5,73,211957,0.35,2019
+SIDS,0,0,1,3249.5,91,458350,0.2,2019
+SIDS,0,0,1,3749.5,32,279019,0.12,2019
+SIDS,0,0,2,2249.5,20,21123,0.95,2019
+SIDS,0,0,2,2749.5,51,117266,0.44,2019
+SIDS,0,0,2,3249.5,55,277168,0.2,2019
+SIDS,0,0,2,3749.5,37,197874,0.19,2019
+SIDS,0,0,3,2249.5,11,11878,0.93,2019
+SIDS,0,0,3,2749.5,28,63491,0.44,2019
+SIDS,0,0,3,3249.5,40,149677,0.27,2019
+SIDS,0,0,3,3749.5,27,112089,0.24,2019
+SIDS,0,0,4,2749.5,15,29844,0.5,2019
+SIDS,0,0,4,3249.5,20,69693,0.29,2019
+SIDS,0,0,4,3749.5,24,54322,0.44,2019
+SIDS,0,0,5,2749.5,12,20678,0.58,2019
+SIDS,0,0,5,3249.5,29,46224,0.63,2019
+SIDS,0,0,5,3749.5,12,36098,0.33,2019
+Unspecified causes,1,1,2,1749.5,11,5067,2.18,2019
+Unspecified causes,1,0,1,1749.5,12,9657,1.25,2019
+Unspecified causes,0,1,1,2249.5,12,15637,0.77,2019
+Unspecified causes,0,1,1,2749.5,27,64960,0.42,2019
+Unspecified causes,0,1,1,3249.5,21,122930,0.17,2019
+Unspecified causes,0,1,1,3749.5,11,74352,0.15,2019
+Unspecified causes,0,1,2,2749.5,15,39537,0.38,2019
+Unspecified causes,0,1,2,3249.5,26,82381,0.32,2019
+Unspecified causes,0,1,2,3749.5,10,58223,0.17,2019
+Unspecified causes,0,1,3,2749.5,11,23687,0.47,2019
+Unspecified causes,0,1,5,3249.5,12,19605,0.61,2019
+Unspecified causes,0,0,0,2749.5,12,22941,0.52,2019
+Unspecified causes,0,0,1,2249.5,25,38445,0.65,2019
+Unspecified causes,0,0,1,2749.5,62,211957,0.29,2019
+Unspecified causes,0,0,1,3249.5,91,458350,0.2,2019
+Unspecified causes,0,0,1,3749.5,38,279019,0.14,2019
+Unspecified causes,0,0,2,2249.5,17,21123,0.81,2019
+Unspecified causes,0,0,2,2749.5,40,117266,0.34,2019
+Unspecified causes,0,0,2,3249.5,62,277168,0.22,2019
+Unspecified causes,0,0,2,3749.5,35,197874,0.18,2019
+Unspecified causes,0,0,2,4249.5,13,49208,0.27,2019
+Unspecified causes,0,0,3,2749.5,23,63491,0.36,2019
+Unspecified causes,0,0,3,3249.5,45,149677,0.3,2019
+Unspecified causes,0,0,3,3749.5,18,112089,0.16,2019
+Unspecified causes,0,0,4,2749.5,14,29844,0.47,2019
+Unspecified causes,0,0,4,3249.5,28,69693,0.4,2019
+Unspecified causes,0,0,4,3749.5,11,54322,0.2,2019
+Unspecified causes,0,0,5,2749.5,16,20678,0.78,2019
+Unspecified causes,0,0,5,3249.5,13,46224,0.28,2019
+Unspecified causes,0,0,5,3749.5,12,36098,0.33,2019
+Accidental suffocation,0,1,1,2249.5,10,15637,0.64,2019
+Accidental suffocation,0,1,1,2749.5,21,64960,0.32,2019
+Accidental suffocation,0,1,1,3249.5,19,122930,0.15,2019
+Accidental suffocation,0,1,1,3749.5,11,74352,0.15,2019
+Accidental suffocation,0,1,2,2749.5,15,39537,0.38,2019
+Accidental suffocation,0,1,2,3249.5,17,82381,0.21,2019
+Accidental suffocation,0,1,3,2749.5,11,23687,0.47,2019
+Accidental suffocation,0,1,3,3249.5,13,49872,0.26,2019
+Accidental suffocation,0,0,1,2249.5,22,38445,0.57,2019
+Accidental suffocation,0,0,1,2749.5,62,211957,0.29,2019
+Accidental suffocation,0,0,1,3249.5,79,458350,0.17,2019
+Accidental suffocation,0,0,1,3749.5,35,279019,0.13,2019
+Accidental suffocation,0,0,2,2749.5,36,117266,0.31,2019
+Accidental suffocation,0,0,2,3249.5,53,277168,0.19,2019
+Accidental suffocation,0,0,2,3749.5,20,197874,0.1,2019
+Accidental suffocation,0,0,3,2749.5,24,63491,0.38,2019
+Accidental suffocation,0,0,3,3249.5,46,149677,0.31,2019
+Accidental suffocation,0,0,3,3749.5,18,112089,0.16,2019
+Accidental suffocation,0,0,4,2749.5,16,29844,0.54,2019
+Accidental suffocation,0,0,4,3249.5,28,69693,0.4,2019
+Accidental suffocation,0,0,4,3749.5,19,54322,0.35,2019
+Accidental suffocation,0,0,5,2749.5,10,20678,0.48,2019
+Accidental suffocation,0,0,5,3249.5,10,46224,0.22,2019
+Accidental suffocation,0,0,5,3749.5,11,36098,0.3,2019
+Other causes,0,0,1,2749.5,12,211957,0.06,2019
+Incompetent cervix,0,1,2,249.5,19,178,108.08,2020
+Incompetent cervix,0,0,1,249.5,48,745,64.97,2020
+Incompetent cervix,0,0,2,249.5,42,636,65.48,2020
+Incompetent cervix,0,0,3,249.5,35,524,67.32,2020
+Incompetent cervix,0,0,4,249.5,25,332,76.45,2020
+Incompetent cervix,0,0,5,249.5,16,304,53.13,2020
+Incompetent cervix,0,0,-1,249.5,11,195,56.8,2020
+Premature rupture,0,1,1,249.5,22,179,124.02,2020
+Premature rupture,0,1,2,249.5,25,178,141.37,2020
+Premature rupture,0,1,3,249.5,14,154,91.98,2020
+Premature rupture,0,1,4,249.5,15,108,139.96,2020
+Premature rupture,0,0,1,249.5,79,745,105.52,2020
+Premature rupture,0,0,2,249.5,62,636,96.95,2020
+Premature rupture,0,0,2,624.5,11,175,64.18,2020
+Premature rupture,0,0,3,249.5,60,524,113.88,2020
+Premature rupture,0,0,4,249.5,26,332,78.97,2020
+Premature rupture,0,0,5,249.5,39,304,129.04,2020
+Premature rupture,0,0,-1,249.5,23,195,118.64,2020
+Placental separation,0,0,1,249.5,29,745,39.5,2020
+Placental separation,0,0,2,249.5,29,636,46.0,2020
+Placental separation,0,0,3,249.5,13,524,25.11,2020
+Placental separation,0,0,4,249.5,10,332,30.41,2020
+Chorioamnionitis,0,1,1,249.5,13,179,72.98,2020
+Chorioamnionitis,0,1,2,249.5,14,178,79.53,2020
+Chorioamnionitis,0,1,3,249.5,14,154,91.98,2020
+Chorioamnionitis,0,1,5,249.5,10,77,130.1,2020
+Chorioamnionitis,0,0,1,249.5,14,745,19.07,2020
+Chorioamnionitis,0,0,2,249.5,19,636,30.12,2020
+Chorioamnionitis,0,0,4,249.5,11,332,33.6,2020
+Extreme immaturity,1,1,1,249.5,16,135,119.49,2020
+Extreme immaturity,1,1,1,624.5,27,782,34.74,2020
+Extreme immaturity,1,1,2,249.5,15,121,125.05,2020
+Extreme immaturity,1,1,2,624.5,15,715,21.06,2020
+Extreme immaturity,1,1,3,624.5,16,549,29.47,2020
+Extreme immaturity,1,1,5,624.5,11,308,35.83,2020
+Extreme immaturity,1,0,1,249.5,41,225,180.12,2020
+Extreme immaturity,1,0,1,624.5,37,1065,34.93,2020
+Extreme immaturity,1,0,2,249.5,30,241,125.25,2020
+Extreme immaturity,1,0,2,624.5,28,907,31.16,2020
+Extreme immaturity,1,0,3,249.5,31,180,173.78,2020
+Extreme immaturity,1,0,3,624.5,32,677,47.7,2020
+Extreme immaturity,1,0,4,249.5,19,99,193.3,2020
+Extreme immaturity,1,0,4,624.5,13,427,30.65,2020
+Extreme immaturity,1,0,5,249.5,20,105,191.8,2020
+Extreme immaturity,1,0,5,624.5,18,357,50.6,2020
+Extreme immaturity,0,1,1,249.5,56,179,311.05,2020
+Extreme immaturity,0,1,1,624.5,27,103,264.51,2020
+Extreme immaturity,0,1,2,249.5,53,178,299.98,2020
+Extreme immaturity,0,1,2,624.5,11,76,146.23,2020
+Extreme immaturity,0,1,3,249.5,53,154,341.64,2020
+Extreme immaturity,0,1,3,624.5,14,72,196.32,2020
+Extreme immaturity,0,1,4,249.5,36,108,336.48,2020
+Extreme immaturity,0,1,5,249.5,28,77,365.29,2020
+Extreme immaturity,0,0,0,249.5,22,67,330.69,2020
+Extreme immaturity,0,0,1,249.5,294,745,394.71,2020
+Extreme immaturity,0,0,1,624.5,51,221,229.39,2020
+Extreme immaturity,0,0,2,249.5,225,636,353.04,2020
+Extreme immaturity,0,0,2,624.5,31,175,178.23,2020
+Extreme immaturity,0,0,3,249.5,216,524,411.98,2020
+Extreme immaturity,0,0,3,624.5,32,148,218.91,2020
+Extreme immaturity,0,0,4,249.5,127,332,382.46,2020
+Extreme immaturity,0,0,4,624.5,19,68,283.51,2020
+Extreme immaturity,0,0,5,249.5,123,304,404.76,2020
+Extreme immaturity,0,0,5,624.5,13,68,193.71,2020
+Extreme immaturity,0,0,-1,249.5,68,195,346.46,2020
+Extreme immaturity,0,0,-1,624.5,15,45,336.9,2020
+Other preterm infants,1,0,2,249.5,10,241,42.22,2020
+Other preterm infants,0,1,1,249.5,19,179,107.86,2020
+Other preterm infants,0,1,2,249.5,15,178,85.54,2020
+Other preterm infants,0,1,3,249.5,28,154,183.05,2020
+Other preterm infants,0,1,4,249.5,14,108,130.57,2020
+Other preterm infants,0,0,0,249.5,10,67,150.14,2020
+Other preterm infants,0,0,1,249.5,77,745,102.96,2020
+Other preterm infants,0,0,1,624.5,20,221,91.05,2020
+Other preterm infants,0,0,2,249.5,87,636,136.61,2020
+Other preterm infants,0,0,2,624.5,13,175,75.03,2020
+Other preterm infants,0,0,3,249.5,52,524,100.17,2020
+Other preterm infants,0,0,4,249.5,41,332,124.48,2020
+Other preterm infants,0,0,5,249.5,33,304,109.05,2020
+Other preterm infants,0,0,-1,249.5,27,195,139.32,2020
+Respiratory distress,1,1,1,624.5,21,782,27.03,2020
+Respiratory distress,1,1,2,624.5,17,715,23.88,2020
+Respiratory distress,1,1,3,624.5,13,549,23.86,2020
+Respiratory distress,1,0,1,624.5,16,1065,15.12,2020
+Respiratory distress,1,0,1,874.5,10,1392,7.23,2020
+Respiratory distress,1,0,2,249.5,11,241,45.8,2020
+Respiratory distress,1,0,2,624.5,22,907,24.42,2020
+Respiratory distress,1,0,2,874.5,10,1131,8.89,2020
+Respiratory distress,1,0,4,624.5,11,427,25.96,2020
+Respiratory distress,1,0,5,624.5,10,357,28.09,2020
+Other causes,1,0,2,624.5,11,907,12.16,2020
+Other causes,0,0,1,249.5,11,745,14.97,2020
+Cardiac failure,1,0,1,624.5,13,1065,12.26,2020
+Cardiac failure,1,0,2,624.5,13,907,14.4,2020
+Cardiac failure,0,0,1,249.5,13,745,17.64,2020
+Cardiac failure,0,0,2,249.5,14,636,22.18,2020
+Cardiac failure,0,0,3,249.5,11,524,21.08,2020
+Cardiac dysrhythmia,1,0,2,624.5,10,907,11.07,2020
+Cardiac dysrhythmia,0,0,1,249.5,21,745,28.4,2020
+Cardiac dysrhythmia,0,0,2,249.5,20,636,31.95,2020
+Cardiac dysrhythmia,0,0,3,249.5,17,524,32.61,2020
+Cardiac dysrhythmia,0,0,-1,249.5,10,195,51.76,2020
+Bacterial sepsis,1,1,1,624.5,16,782,20.57,2020
+Bacterial sepsis,1,1,3,624.5,15,549,27.57,2020
+Bacterial sepsis,1,1,4,624.5,10,352,28.8,2020
+Bacterial sepsis,1,0,1,624.5,18,1065,16.97,2020
+Bacterial sepsis,1,0,2,624.5,18,907,19.88,2020
+Bacterial sepsis,1,0,2,874.5,10,1131,8.86,2020
+Bacterial sepsis,1,0,3,624.5,13,677,19.36,2020
+Intraventricular haemorrhage,1,1,1,624.5,17,782,21.91,2020
+Intraventricular haemorrhage,1,0,1,624.5,11,1065,10.37,2020
+Intraventricular haemorrhage,1,0,2,624.5,10,907,11.11,2020
+Intraventricular haemorrhage,1,0,3,624.5,17,677,25.41,2020
+Necrotizing enterocolitis,1,1,1,624.5,10,782,12.81,2020
+Necrotizing enterocolitis,1,1,2,624.5,10,715,14.02,2020
+Necrotizing enterocolitis,1,1,2,874.5,12,910,13.21,2020
+Necrotizing enterocolitis,1,0,1,624.5,14,1065,13.15,2020
+Necrotizing enterocolitis,1,0,1,874.5,11,1392,7.92,2020
+Necrotizing enterocolitis,1,0,2,624.5,13,907,14.34,2020
+Necrotizing enterocolitis,1,0,3,624.5,10,677,14.79,2020
+HIE of newborn,1,0,1,2749.5,14,13447,1.06,2020
+HIE of newborn,1,0,1,3249.5,15,14542,1.04,2020
+HIE of newborn,1,0,2,3249.5,13,10653,1.23,2020
+Anencephaly,0,0,1,2249.5,10,35886,0.28,2020
+Anencephaly,0,0,1,2749.5,14,200809,0.07,2020
+Anencephaly,0,0,2,2249.5,10,20467,0.49,2020
+Congenital heart defect,1,0,1,2249.5,10,12756,0.78,2020
+Congenital heart defect,1,0,1,2749.5,16,13447,1.19,2020
+Congenital heart defect,1,0,1,3249.5,11,14542,0.76,2020
+Congenital heart defect,1,0,2,2749.5,14,9393,1.5,2020
+Congenital heart defect,1,0,2,3249.5,12,10653,1.13,2020
+Congenital heart defect,1,0,3,2749.5,12,5902,2.05,2020
+Edwards syndrome,1,1,1,1749.5,11,7169,1.54,2020
+Edwards syndrome,1,0,1,1749.5,21,9164,2.3,2020
+Edwards syndrome,1,0,1,2249.5,14,12756,1.1,2020
+Edwards syndrome,1,0,2,1749.5,12,6348,1.9,2020
+Edwards syndrome,1,0,2,2249.5,14,8767,1.6,2020
+Edwards syndrome,1,0,3,1749.5,13,4220,3.11,2020
+Edwards syndrome,0,0,1,1749.5,17,2597,6.59,2020
+Edwards syndrome,0,0,1,2249.5,11,35886,0.31,2020
+Edwards syndrome,0,0,2,1749.5,13,1672,7.81,2020
+Edwards syndrome,0,0,2,2249.5,10,20467,0.49,2020
+Other causes,1,0,1,2749.5,13,13447,0.98,2020
+Other causes,0,0,1,2749.5,14,200809,0.07,2020
+SIDS,1,1,1,1749.5,10,7169,1.4,2020
+SIDS,1,0,1,1749.5,15,9164,1.64,2020
+SIDS,1,0,1,2249.5,12,12756,0.95,2020
+SIDS,0,1,1,2249.5,12,15417,0.78,2020
+SIDS,0,1,1,2749.5,26,62792,0.42,2020
+SIDS,0,1,1,3249.5,37,117553,0.32,2020
+SIDS,0,1,2,2749.5,20,39883,0.5,2020
+SIDS,0,1,2,3249.5,30,81580,0.37,2020
+SIDS,0,1,2,3749.5,13,58139,0.23,2020
+SIDS,0,1,3,2749.5,12,24265,0.5,2020
+SIDS,0,1,3,3249.5,20,50363,0.4,2020
+SIDS,0,1,3,3749.5,11,37507,0.29,2020
+SIDS,0,1,5,3249.5,10,20193,0.5,2020
+SIDS,0,0,0,2749.5,13,20727,0.63,2020
+SIDS,0,0,1,2249.5,18,35886,0.5,2020
+SIDS,0,0,1,2749.5,83,200809,0.42,2020
+SIDS,0,0,1,3249.5,107,429659,0.25,2020
+SIDS,0,0,1,3749.5,44,263142,0.17,2020
+SIDS,0,0,2,2249.5,15,20467,0.74,2020
+SIDS,0,0,2,2749.5,54,114685,0.47,2020
+SIDS,0,0,2,3249.5,78,269802,0.29,2020
+SIDS,0,0,2,3749.5,64,192826,0.33,2020
+SIDS,0,0,3,2749.5,30,62906,0.48,2020
+SIDS,0,0,3,3249.5,63,148865,0.43,2020
+SIDS,0,0,3,3749.5,24,111507,0.22,2020
+SIDS,0,0,4,2749.5,23,29940,0.77,2020
+SIDS,0,0,4,3249.5,25,69913,0.36,2020
+SIDS,0,0,4,3749.5,17,54180,0.31,2020
+SIDS,0,0,5,2749.5,24,20990,1.15,2020
+SIDS,0,0,5,3249.5,34,46108,0.74,2020
+SIDS,0,0,5,3749.5,22,36099,0.61,2020
+SIDS,0,0,-1,2749.5,10,7667,1.31,2020
+Unspecified causes,1,0,1,2249.5,12,12756,0.95,2020
+Unspecified causes,0,1,1,2249.5,10,15417,0.65,2020
+Unspecified causes,0,1,1,2749.5,21,62792,0.34,2020
+Unspecified causes,0,1,1,3249.5,17,117553,0.15,2020
+Unspecified causes,0,1,2,2749.5,16,39883,0.4,2020
+Unspecified causes,0,1,2,3249.5,12,81580,0.15,2020
+Unspecified causes,0,1,2,3749.5,12,58139,0.21,2020
+Unspecified causes,0,1,3,2749.5,10,24265,0.41,2020
+Unspecified causes,0,1,3,3249.5,14,50363,0.28,2020
+Unspecified causes,0,1,5,3249.5,11,20193,0.55,2020
+Unspecified causes,0,0,0,2749.5,10,20727,0.48,2020
+Unspecified causes,0,0,1,2249.5,16,35886,0.45,2020
+Unspecified causes,0,0,1,2749.5,63,200809,0.31,2020
+Unspecified causes,0,0,1,3249.5,70,429659,0.16,2020
+Unspecified causes,0,0,1,3749.5,38,263142,0.14,2020
+Unspecified causes,0,0,2,2249.5,14,20467,0.69,2020
+Unspecified causes,0,0,2,2749.5,36,114685,0.32,2020
+Unspecified causes,0,0,2,3249.5,57,269802,0.21,2020
+Unspecified causes,0,0,2,3749.5,16,192826,0.08,2020
+Unspecified causes,0,0,3,2749.5,27,62906,0.43,2020
+Unspecified causes,0,0,3,3249.5,42,148865,0.28,2020
+Unspecified causes,0,0,3,3749.5,22,111507,0.2,2020
+Unspecified causes,0,0,4,2749.5,18,29940,0.6,2020
+Unspecified causes,0,0,4,3249.5,19,69913,0.27,2020
+Unspecified causes,0,0,4,3749.5,16,54180,0.3,2020
+Unspecified causes,0,0,5,2749.5,15,20990,0.72,2020
+Unspecified causes,0,0,5,3249.5,16,46108,0.35,2020
+Accidental suffocation,0,1,1,2749.5,17,62792,0.27,2020
+Accidental suffocation,0,1,1,3249.5,23,117553,0.2,2020
+Accidental suffocation,0,1,2,2749.5,15,39883,0.38,2020
+Accidental suffocation,0,1,2,3249.5,31,81580,0.38,2020
+Accidental suffocation,0,1,2,3749.5,10,58139,0.17,2020
+Accidental suffocation,0,1,3,2749.5,13,24265,0.54,2020
+Accidental suffocation,0,1,3,3249.5,17,50363,0.34,2020
+Accidental suffocation,0,1,5,2749.5,10,10028,1.0,2020
+Accidental suffocation,0,0,1,2249.5,20,35886,0.56,2020
+Accidental suffocation,0,0,1,2749.5,42,200809,0.21,2020
+Accidental suffocation,0,0,1,3249.5,72,429659,0.17,2020
+Accidental suffocation,0,0,1,3749.5,28,263142,0.11,2020
+Accidental suffocation,0,0,2,2249.5,12,20467,0.59,2020
+Accidental suffocation,0,0,2,2749.5,31,114685,0.27,2020
+Accidental suffocation,0,0,2,3249.5,49,269802,0.18,2020
+Accidental suffocation,0,0,2,3749.5,25,192826,0.13,2020
+Accidental suffocation,0,0,3,2249.5,13,11776,1.11,2020
+Accidental suffocation,0,0,3,2749.5,23,62906,0.37,2020
+Accidental suffocation,0,0,3,3249.5,35,148865,0.24,2020
+Accidental suffocation,0,0,3,3749.5,17,111507,0.15,2020
+Accidental suffocation,0,0,4,2749.5,12,29940,0.4,2020
+Accidental suffocation,0,0,4,3249.5,27,69913,0.39,2020
+Accidental suffocation,0,0,4,3749.5,15,54180,0.28,2020
+Accidental suffocation,0,0,5,2749.5,11,20990,0.53,2020
+Accidental suffocation,0,0,5,3249.5,16,46108,0.35,2020
+Accidental suffocation,0,0,5,3749.5,15,36099,0.42,2020
+Other causes,0,0,1,3249.5,10,429659,0.02,2020
+Other causes,1,0,1,624.5,11,1141,9.68,2021
+Incompetent cervix,0,1,1,249.5,11,175,63.2,2021
+Incompetent cervix,0,1,3,249.5,10,144,70.92,2021
+Incompetent cervix,0,0,1,249.5,36,646,56.29,2021
+Incompetent cervix,0,0,2,249.5,53,685,77.73,2021
+Incompetent cervix,0,0,2,624.5,12,184,65.86,2021
+Incompetent cervix,0,0,3,249.5,44,526,83.05,2021
+Incompetent cervix,0,0,4,249.5,31,287,106.61,2021
+Incompetent cervix,0,0,5,249.5,28,275,103.49,2021
+Premature rupture,0,1,1,249.5,17,175,98.48,2021
+Premature rupture,0,1,2,249.5,26,173,152.5,2021
+Premature rupture,0,1,3,249.5,20,144,140.97,2021
+Premature rupture,0,1,5,249.5,11,73,151.75,2021
+Premature rupture,0,0,1,249.5,65,646,100.68,2021
+Premature rupture,0,0,1,624.5,10,202,50.67,2021
+Premature rupture,0,0,2,249.5,65,685,95.14,2021
+Premature rupture,0,0,3,249.5,53,526,99.9,2021
+Premature rupture,0,0,4,249.5,25,287,87.8,2021
+Premature rupture,0,0,5,249.5,25,275,92.27,2021
+Premature rupture,0,0,-1,249.5,21,159,134.45,2021
+Other causes,0,0,1,249.5,10,646,15.57,2021
+Other causes,0,0,2,249.5,10,685,14.95,2021
+Other causes,0,0,3,249.5,11,526,21.07,2021
+Placental separation,0,0,1,249.5,26,646,40.77,2021
+Placental separation,0,0,2,249.5,14,685,20.65,2021
+Placental separation,0,0,3,249.5,18,526,34.64,2021
+Chorioamnionitis,0,1,1,249.5,15,175,86.64,2021
+Chorioamnionitis,0,1,3,249.5,12,144,83.96,2021
+Chorioamnionitis,0,1,4,249.5,12,75,161.88,2021
+Chorioamnionitis,0,0,1,249.5,14,646,21.96,2021
+Chorioamnionitis,0,0,2,249.5,13,685,19.26,2021
+Chorioamnionitis,0,0,3,249.5,17,526,32.49,2021
+Extreme immaturity,1,1,1,249.5,19,146,132.82,2021
+Extreme immaturity,1,1,1,624.5,29,829,35.58,2021
+Extreme immaturity,1,1,2,249.5,10,132,77.68,2021
+Extreme immaturity,1,1,2,624.5,25,756,33.71,2021
+Extreme immaturity,1,1,3,249.5,11,120,93.16,2021
+Extreme immaturity,1,1,3,624.5,22,634,35.21,2021
+Extreme immaturity,1,1,4,249.5,15,100,152.51,2021
+Extreme immaturity,1,1,4,624.5,12,353,34.9,2021
+Extreme immaturity,1,0,1,249.5,38,225,168.42,2021
+Extreme immaturity,1,0,1,624.5,44,1141,38.26,2021
+Extreme immaturity,1,0,2,249.5,39,236,164.76,2021
+Extreme immaturity,1,0,2,624.5,36,943,38.52,2021
+Extreme immaturity,1,0,3,249.5,27,213,128.24,2021
+Extreme immaturity,1,0,3,624.5,22,742,29.87,2021
+Extreme immaturity,1,0,4,249.5,17,117,146.3,2021
+Extreme immaturity,1,0,4,624.5,17,477,36.48,2021
+Extreme immaturity,1,0,5,249.5,10,104,98.78,2021
+Extreme immaturity,1,0,5,624.5,10,384,26.6,2021
+Extreme immaturity,1,0,-1,624.5,14,150,95.41,2021
+Extreme immaturity,0,1,1,249.5,61,175,347.24,2021
+Extreme immaturity,0,1,1,624.5,17,95,182.13,2021
+Extreme immaturity,0,1,2,249.5,49,173,285.94,2021
+Extreme immaturity,0,1,2,624.5,10,81,126.5,2021
+Extreme immaturity,0,1,3,249.5,49,144,338.81,2021
+Extreme immaturity,0,1,3,624.5,12,65,188.29,2021
+Extreme immaturity,0,1,4,249.5,21,75,284.14,2021
+Extreme immaturity,0,1,5,249.5,25,73,346.78,2021
+Extreme immaturity,0,1,-1,249.5,10,31,327.98,2021
+Extreme immaturity,0,0,0,249.5,30,69,440.02,2021
+Extreme immaturity,0,0,1,249.5,246,646,380.35,2021
+Extreme immaturity,0,0,1,624.5,41,202,201.49,2021
+Extreme immaturity,0,0,2,249.5,237,685,346.6,2021
+Extreme immaturity,0,0,2,624.5,39,184,210.28,2021
+Extreme immaturity,0,0,3,249.5,202,526,384.19,2021
+Extreme immaturity,0,0,3,624.5,26,136,194.25,2021
+Extreme immaturity,0,0,4,249.5,120,287,419.6,2021
+Extreme immaturity,0,0,4,624.5,11,83,134.51,2021
+Extreme immaturity,0,0,5,249.5,111,275,405.05,2021
+Extreme immaturity,0,0,-1,249.5,64,159,402.7,2021
+Other preterm infants,0,1,1,249.5,12,175,69.01,2021
+Other preterm infants,0,1,2,249.5,22,173,129.15,2021
+Other preterm infants,0,1,3,249.5,18,144,127.81,2021
+Other preterm infants,0,1,4,249.5,14,75,188.13,2021
+Other preterm infants,0,0,0,249.5,12,69,177.94,2021
+Other preterm infants,0,0,1,249.5,72,646,111.76,2021
+Other preterm infants,0,0,1,624.5,13,202,64.83,2021
+Other preterm infants,0,0,2,249.5,90,685,130.78,2021
+Other preterm infants,0,0,3,249.5,59,526,112.39,2021
+Other preterm infants,0,0,3,624.5,11,136,81.84,2021
+Other preterm infants,0,0,4,249.5,38,287,131.22,2021
+Other preterm infants,0,0,5,249.5,35,275,128.54,2021
+Other preterm infants,0,0,-1,249.5,14,159,89.35,2021
+Respiratory distress,1,1,1,624.5,16,829,19.42,2021
+Respiratory distress,1,1,2,624.5,25,756,33.68,2021
+Respiratory distress,1,1,3,624.5,10,634,15.93,2021
+Respiratory distress,1,1,5,624.5,10,300,33.69,2021
+Respiratory distress,1,0,1,249.5,11,225,49.1,2021
+Respiratory distress,1,0,1,624.5,30,1141,26.56,2021
+Respiratory distress,1,0,2,624.5,20,943,21.51,2021
+Respiratory distress,1,0,3,624.5,15,742,20.36,2021
+Other causes,1,1,2,624.5,10,756,13.3,2021
+Other causes,0,0,3,249.5,11,526,21.53,2021
+Cardiac failure,1,1,1,624.5,12,829,14.68,2021
+Cardiac failure,0,0,3,249.5,11,526,21.1,2021
+Cardiac dysrhythmia,1,0,1,624.5,11,1141,9.69,2021
+Cardiac dysrhythmia,0,0,2,249.5,15,685,22.16,2021
+Cardiac dysrhythmia,0,0,3,249.5,14,526,27.12,2021
+Bacterial sepsis,1,1,1,624.5,12,829,14.55,2021
+Bacterial sepsis,1,1,2,624.5,18,756,24.2,2021
+Bacterial sepsis,1,1,3,624.5,15,634,24.1,2021
+Bacterial sepsis,1,0,1,624.5,26,1141,23.01,2021
+Bacterial sepsis,1,0,2,624.5,18,943,19.34,2021
+Bacterial sepsis,1,0,3,624.5,16,742,21.61,2021
+Bacterial sepsis,1,0,3,874.5,12,935,13.07,2021
+Intraventricular haemorrhage,1,1,1,624.5,19,829,23.38,2021
+Intraventricular haemorrhage,1,1,2,624.5,10,756,13.38,2021
+Intraventricular haemorrhage,1,0,1,624.5,17,1141,15.13,2021
+Intraventricular haemorrhage,1,0,2,624.5,17,943,18.3,2021
+Intraventricular haemorrhage,1,0,2,874.5,12,1218,9.99,2021
+Intraventricular haemorrhage,1,0,3,624.5,11,742,15.15,2021
+Intraventricular haemorrhage,1,0,5,624.5,11,384,29.17,2021
+Necrotizing enterocolitis,1,1,3,624.5,10,634,15.91,2021
+Necrotizing enterocolitis,1,0,1,624.5,11,1141,9.66,2021
+Necrotizing enterocolitis,1,0,1,874.5,15,1488,10.16,2021
+Necrotizing enterocolitis,1,0,2,624.5,10,943,10.6,2021
+Necrotizing enterocolitis,1,0,3,624.5,15,742,20.42,2021
+Necrotizing enterocolitis,1,0,4,624.5,12,477,25.37,2021
+HIE of newborn,1,0,1,2249.5,13,13137,1.0,2021
+HIE of newborn,1,0,1,3249.5,14,14821,0.95,2021
+Anencephaly,0,0,1,1749.5,13,2725,4.9,2021
+Anencephaly,0,0,1,2249.5,14,36731,0.39,2021
+Anencephaly,0,0,2,1749.5,15,1910,7.92,2021
+Anencephaly,0,0,2,2249.5,10,21470,0.47,2021
+Congenital heart defect,1,0,1,2749.5,19,13588,1.41,2021
+Congenital heart defect,1,0,1,3249.5,10,14821,0.68,2021
+Congenital heart defect,1,0,2,3249.5,17,11172,1.55,2021
+Other causes,1,0,1,2749.5,11,13588,0.82,2021
+Edwards syndrome,1,1,1,1749.5,10,7457,1.36,2021
+Edwards syndrome,1,0,1,1749.5,14,9359,1.51,2021
+Edwards syndrome,1,0,1,2249.5,13,13137,1.01,2021
+Edwards syndrome,1,0,2,1749.5,18,6742,2.69,2021
+Edwards syndrome,1,0,2,2249.5,14,9378,1.5,2021
+Edwards syndrome,1,0,3,1749.5,16,4705,3.44,2021
+Edwards syndrome,1,0,3,2249.5,11,6144,1.8,2021
+Edwards syndrome,0,0,1,1749.5,12,2725,4.45,2021
+Edwards syndrome,0,0,2,1749.5,21,1910,11.12,2021
+Edwards syndrome,0,0,3,1749.5,11,1145,9.72,2021
+Other causes,1,0,1,2249.5,11,13137,0.85,2021
+Other causes,0,0,1,1749.5,11,2725,4.1,2021
+Other causes,0,0,1,2749.5,10,200211,0.05,2021
+SIDS,1,0,1,2249.5,14,13137,1.07,2021
+SIDS,1,0,2,1749.5,13,6742,1.94,2021
+SIDS,1,0,2,2749.5,12,9709,1.24,2021
+SIDS,0,1,1,2249.5,12,15624,0.78,2021
+SIDS,0,1,1,2749.5,30,62140,0.49,2021
+SIDS,0,1,1,3249.5,24,115817,0.21,2021
+SIDS,0,1,1,3749.5,14,70139,0.2,2021
+SIDS,0,1,2,2749.5,21,40837,0.52,2021
+SIDS,0,1,2,3249.5,33,83686,0.4,2021
+SIDS,0,1,3,2749.5,16,25178,0.64,2021
+SIDS,0,1,3,3249.5,15,52022,0.29,2021
+SIDS,0,1,4,2749.5,13,13387,0.98,2021
+SIDS,0,1,4,3249.5,15,27199,0.55,2021
+SIDS,0,1,5,3249.5,12,21148,0.57,2021
+SIDS,0,1,5,3749.5,11,15952,0.7,2021
+SIDS,0,0,1,2249.5,31,36731,0.85,2021
+SIDS,0,0,1,2749.5,88,200211,0.44,2021
+SIDS,0,0,1,3249.5,99,423796,0.23,2021
+SIDS,0,0,1,3749.5,43,257938,0.17,2021
+SIDS,0,0,2,2249.5,15,21470,0.7,2021
+SIDS,0,0,2,2749.5,40,117687,0.34,2021
+SIDS,0,0,2,3249.5,98,276450,0.35,2021
+SIDS,0,0,2,3749.5,31,195176,0.16,2021
+SIDS,0,0,3,2749.5,36,65739,0.55,2021
+SIDS,0,0,3,3249.5,52,153685,0.34,2021
+SIDS,0,0,3,3749.5,22,114307,0.19,2021
+SIDS,0,0,4,2249.5,11,6116,1.8,2021
+SIDS,0,0,4,2749.5,15,31719,0.48,2021
+SIDS,0,0,4,3249.5,35,72591,0.48,2021
+SIDS,0,0,4,3749.5,15,55046,0.27,2021
+SIDS,0,0,5,2749.5,16,22046,0.73,2021
+SIDS,0,0,5,3249.5,38,48222,0.79,2021
+SIDS,0,0,5,3749.5,17,36306,0.47,2021
+SIDS,0,0,-1,3249.5,13,15332,0.85,2021
+Unspecified causes,1,1,1,2249.5,11,9963,1.12,2021
+Unspecified causes,1,0,1,1749.5,10,9359,1.07,2021
+Unspecified causes,1,0,1,2249.5,10,13137,0.77,2021
+Unspecified causes,0,1,1,2749.5,16,62140,0.26,2021
+Unspecified causes,0,1,1,3249.5,32,115817,0.28,2021
+Unspecified causes,0,1,2,2749.5,11,40837,0.27,2021
+Unspecified causes,0,1,2,3249.5,21,83686,0.25,2021
+Unspecified causes,0,1,2,3749.5,10,59247,0.17,2021
+Unspecified causes,0,1,3,3249.5,17,52022,0.33,2021
+Unspecified causes,0,1,3,3749.5,12,38805,0.31,2021
+Unspecified causes,0,1,4,3249.5,10,27199,0.37,2021
+Unspecified causes,0,1,5,3249.5,12,21148,0.57,2021
+Unspecified causes,0,0,1,2249.5,20,36731,0.55,2021
+Unspecified causes,0,0,1,2749.5,64,200211,0.32,2021
+Unspecified causes,0,0,1,3249.5,76,423796,0.18,2021
+Unspecified causes,0,0,1,3749.5,45,257938,0.18,2021
+Unspecified causes,0,0,2,2249.5,12,21470,0.56,2021
+Unspecified causes,0,0,2,2749.5,52,117687,0.45,2021
+Unspecified causes,0,0,2,3249.5,54,276450,0.2,2021
+Unspecified causes,0,0,2,3749.5,27,195176,0.14,2021
+Unspecified causes,0,0,3,2749.5,30,65739,0.46,2021
+Unspecified causes,0,0,3,3249.5,42,153685,0.28,2021
+Unspecified causes,0,0,3,3749.5,28,114307,0.25,2021
+Unspecified causes,0,0,4,2749.5,18,31719,0.57,2021
+Unspecified causes,0,0,4,3249.5,27,72591,0.38,2021
+Unspecified causes,0,0,4,3749.5,12,55046,0.22,2021
+Unspecified causes,0,0,5,2749.5,10,22046,0.46,2021
+Unspecified causes,0,0,5,3249.5,20,48222,0.42,2021
+Unspecified causes,0,0,5,3749.5,12,36306,0.33,2021
+Accidental suffocation,0,1,1,2249.5,12,15624,0.77,2021
+Accidental suffocation,0,1,1,2749.5,21,62140,0.34,2021
+Accidental suffocation,0,1,1,3249.5,20,115817,0.17,2021
+Accidental suffocation,0,1,2,2749.5,18,40837,0.44,2021
+Accidental suffocation,0,1,2,3249.5,18,83686,0.22,2021
+Accidental suffocation,0,1,2,3749.5,11,59247,0.19,2021
+Accidental suffocation,0,1,3,2749.5,11,25178,0.44,2021
+Accidental suffocation,0,1,3,3249.5,15,52022,0.29,2021
+Accidental suffocation,0,1,4,3249.5,11,27199,0.41,2021
+Accidental suffocation,0,1,5,3249.5,16,21148,0.76,2021
+Accidental suffocation,0,0,1,2249.5,25,36731,0.68,2021
+Accidental suffocation,0,0,1,2749.5,53,200211,0.27,2021
+Accidental suffocation,0,0,1,3249.5,71,423796,0.17,2021
+Accidental suffocation,0,0,1,3749.5,43,257938,0.17,2021
+Accidental suffocation,0,0,2,2249.5,15,21470,0.7,2021
+Accidental suffocation,0,0,2,2749.5,37,117687,0.32,2021
+Accidental suffocation,0,0,2,3249.5,43,276450,0.16,2021
+Accidental suffocation,0,0,2,3749.5,30,195176,0.15,2021
+Accidental suffocation,0,0,3,2249.5,11,12496,0.88,2021
+Accidental suffocation,0,0,3,2749.5,22,65739,0.34,2021
+Accidental suffocation,0,0,3,3249.5,32,153685,0.21,2021
+Accidental suffocation,0,0,3,3749.5,24,114307,0.21,2021
+Accidental suffocation,0,0,4,2749.5,16,31719,0.51,2021
+Accidental suffocation,0,0,4,3249.5,24,72591,0.33,2021
+Accidental suffocation,0,0,4,3749.5,13,55046,0.24,2021
+Accidental suffocation,0,0,5,2749.5,14,22046,0.64,2021
+Accidental suffocation,0,0,5,3249.5,22,48222,0.46,2021
+Accidental suffocation,0,0,5,3749.5,18,36306,0.5,2021
+Other causes,0,0,1,2749.5,10,200211,0.05,2021
+Other causes,0,0,1,3249.5,11,416971,0.03,2022
+Incompetent cervix,0,1,2,249.5,11,175,64.45,2022
+Incompetent cervix,0,0,1,249.5,31,611,50.1,2022
+Incompetent cervix,0,0,2,249.5,54,625,86.58,2022
+Incompetent cervix,0,0,3,249.5,40,500,79.93,2022
+Incompetent cervix,0,0,4,249.5,22,335,66.9,2022
+Incompetent cervix,0,0,5,249.5,28,281,98.67,2022
+Incompetent cervix,0,0,-1,249.5,13,176,74.83,2022
+Premature rupture,0,1,1,249.5,19,156,123.22,2022
+Premature rupture,0,1,1,624.5,10,90,112.69,2022
+Premature rupture,0,1,2,249.5,20,175,116.27,2022
+Premature rupture,0,1,3,249.5,14,134,105.55,2022
+Premature rupture,0,1,4,249.5,15,98,157.75,2022
+Premature rupture,0,1,-1,249.5,10,37,273.12,2022
+Premature rupture,0,0,1,249.5,65,611,106.95,2022
+Premature rupture,0,0,2,249.5,62,625,98.99,2022
+Premature rupture,0,0,3,249.5,41,500,81.68,2022
+Premature rupture,0,0,4,249.5,28,335,85.0,2022
+Premature rupture,0,0,5,249.5,27,281,97.83,2022
+Premature rupture,0,0,-1,249.5,13,176,71.13,2022
+Other causes,0,0,2,249.5,10,625,16.23,2022
+Placental separation,0,0,1,249.5,29,611,47.97,2022
+Placental separation,0,0,2,249.5,16,625,25.92,2022
+Placental separation,0,0,-1,249.5,10,176,58.2,2022
+Chorioamnionitis,0,1,1,249.5,12,156,78.78,2022
+Chorioamnionitis,0,1,3,249.5,11,134,82.67,2022
+Chorioamnionitis,0,0,1,249.5,11,611,18.04,2022
+Chorioamnionitis,0,0,2,249.5,15,625,24.59,2022
+Chorioamnionitis,0,0,3,249.5,10,500,20.11,2022
+Chorioamnionitis,0,0,4,249.5,13,335,38.86,2022
+Other causes,0,0,2,249.5,10,625,16.44,2022
+Extreme immaturity,1,1,1,249.5,18,151,121.56,2022
+Extreme immaturity,1,1,1,624.5,27,744,36.9,2022
+Extreme immaturity,1,1,2,249.5,14,150,96.24,2022
+Extreme immaturity,1,1,2,624.5,24,740,31.87,2022
+Extreme immaturity,1,1,3,249.5,12,141,86.62,2022
+Extreme immaturity,1,1,3,624.5,15,595,25.47,2022
+Extreme immaturity,1,1,5,249.5,16,92,176.48,2022
+Extreme immaturity,1,0,1,249.5,29,285,100.16,2022
+Extreme immaturity,1,0,1,624.5,25,1058,23.92,2022
+Extreme immaturity,1,0,2,249.5,33,259,125.92,2022
+Extreme immaturity,1,0,2,624.5,31,920,34.2,2022
+Extreme immaturity,1,0,3,249.5,36,213,168.62,2022
+Extreme immaturity,1,0,3,624.5,17,740,23.14,2022
+Extreme immaturity,1,0,4,249.5,10,136,74.52,2022
+Extreme immaturity,1,0,4,624.5,13,477,27.52,2022
+Extreme immaturity,1,0,5,249.5,18,118,156.37,2022
+Extreme immaturity,1,0,5,624.5,12,401,30.45,2022
+Extreme immaturity,1,0,-1,249.5,10,45,228.53,2022
+Extreme immaturity,0,1,1,249.5,47,156,298.19,2022
+Extreme immaturity,0,1,1,624.5,18,90,201.78,2022
+Extreme immaturity,0,1,2,249.5,62,175,355.07,2022
+Extreme immaturity,0,1,2,624.5,13,65,206.4,2022
+Extreme immaturity,0,1,3,249.5,45,134,337.87,2022
+Extreme immaturity,0,1,3,624.5,13,83,158.67,2022
+Extreme immaturity,0,1,4,249.5,34,98,350.15,2022
+Extreme immaturity,0,1,5,249.5,24,69,354.77,2022
+Extreme immaturity,0,1,-1,249.5,13,37,360.32,2022
+Extreme immaturity,0,0,0,249.5,32,74,426.83,2022
+Extreme immaturity,0,0,1,249.5,215,611,352.18,2022
+Extreme immaturity,0,0,1,624.5,44,209,210.76,2022
+Extreme immaturity,0,0,2,249.5,218,625,349.19,2022
+Extreme immaturity,0,0,2,624.5,35,178,195.37,2022
+Extreme immaturity,0,0,3,249.5,218,500,436.32,2022
+Extreme immaturity,0,0,3,624.5,24,133,177.32,2022
+Extreme immaturity,0,0,4,249.5,148,335,440.46,2022
+Extreme immaturity,0,0,4,624.5,11,71,158.88,2022
+Extreme immaturity,0,0,5,249.5,100,281,355.18,2022
+Extreme immaturity,0,0,5,624.5,11,59,189.88,2022
+Extreme immaturity,0,0,-1,249.5,69,176,393.81,2022
+Extreme immaturity,0,0,-1,624.5,15,52,293.93,2022
+Other preterm infants,0,1,1,249.5,14,156,91.9,2022
+Other preterm infants,0,1,2,249.5,15,175,87.37,2022
+Other preterm infants,0,1,3,249.5,12,134,92.09,2022
+Other preterm infants,0,1,4,249.5,11,98,114.21,2022
+Other preterm infants,0,0,1,249.5,76,611,124.23,2022
+Other preterm infants,0,0,1,624.5,10,209,48.82,2022
+Other preterm infants,0,0,2,249.5,53,625,84.27,2022
+Other preterm infants,0,0,2,624.5,10,178,56.32,2022
+Other preterm infants,0,0,3,249.5,61,500,122.12,2022
+Other preterm infants,0,0,3,624.5,17,133,129.74,2022
+Other preterm infants,0,0,4,249.5,32,335,94.63,2022
+Other preterm infants,0,0,5,249.5,41,281,146.04,2022
+Other preterm infants,0,0,-1,249.5,19,176,110.77,2022
+Other causes,1,0,1,624.5,12,1058,11.7,2022
+Other causes,1,0,2,624.5,10,920,11.2,2022
+Respiratory distress,1,1,1,624.5,19,744,25.89,2022
+Respiratory distress,1,1,2,624.5,14,740,19.26,2022
+Respiratory distress,1,1,3,624.5,16,595,27.44,2022
+Respiratory distress,1,1,4,624.5,15,374,40.67,2022
+Respiratory distress,1,0,1,249.5,10,285,35.84,2022
+Respiratory distress,1,0,1,624.5,22,1058,20.96,2022
+Respiratory distress,1,0,2,249.5,18,259,70.31,2022
+Respiratory distress,1,0,2,624.5,18,920,19.69,2022
+Respiratory distress,1,0,3,624.5,16,740,22.03,2022
+Respiratory distress,1,0,4,624.5,13,477,27.68,2022
+Respiratory distress,1,0,5,624.5,11,401,27.61,2022
+Other causes,1,0,1,624.5,19,1058,18.03,2022
+Cardiac failure,1,1,1,624.5,10,744,13.83,2022
+Cardiac failure,1,0,1,249.5,12,285,42.26,2022
+Cardiac failure,1,0,1,624.5,11,1058,10.54,2022
+Cardiac failure,1,0,2,624.5,10,920,10.95,2022
+Cardiac failure,0,0,2,249.5,11,625,17.75,2022
+Cardiac dysrhythmia,1,0,1,624.5,12,1058,11.45,2022
+Cardiac dysrhythmia,0,0,1,249.5,16,611,26.51,2022
+Cardiac dysrhythmia,0,0,2,249.5,16,625,25.94,2022
+Cardiac dysrhythmia,0,0,3,249.5,17,500,34.29,2022
+Cardiac dysrhythmia,0,0,4,249.5,15,335,45.8,2022
+Bacterial sepsis,1,1,1,624.5,19,744,25.78,2022
+Bacterial sepsis,1,1,2,624.5,17,740,23.4,2022
+Bacterial sepsis,1,1,3,624.5,14,595,23.88,2022
+Bacterial sepsis,1,0,1,624.5,31,1058,29.76,2022
+Bacterial sepsis,1,0,1,874.5,19,1396,13.69,2022
+Bacterial sepsis,1,0,2,624.5,10,920,10.92,2022
+Bacterial sepsis,1,0,3,249.5,11,213,52.39,2022
+Bacterial sepsis,1,0,3,624.5,18,740,24.53,2022
+Bacterial sepsis,1,0,3,874.5,11,923,11.99,2022
+Bacterial sepsis,1,0,4,624.5,13,477,27.48,2022
+Intraventricular haemorrhage,1,0,1,624.5,16,1058,15.37,2022
+Intraventricular haemorrhage,1,0,2,624.5,10,920,10.98,2022
+Necrotizing enterocolitis,1,1,1,624.5,19,744,25.67,2022
+Necrotizing enterocolitis,1,1,1,874.5,11,1062,10.49,2022
+Necrotizing enterocolitis,1,1,2,624.5,13,740,17.66,2022
+Necrotizing enterocolitis,1,1,3,624.5,11,595,18.65,2022
+Necrotizing enterocolitis,1,0,1,624.5,15,1058,14.32,2022
+Necrotizing enterocolitis,1,0,1,874.5,12,1396,8.7,2022
+Necrotizing enterocolitis,1,0,2,624.5,15,920,16.4,2022
+Necrotizing enterocolitis,1,0,2,874.5,17,1181,14.52,2022
+Necrotizing enterocolitis,1,0,3,624.5,13,740,17.61,2022
+HIE of newborn,1,1,1,3249.5,11,6323,1.77,2022
+HIE of newborn,1,0,1,2749.5,14,13287,1.08,2022
+HIE of newborn,1,0,1,3249.5,17,14250,1.21,2022
+Anencephaly,0,0,1,1749.5,13,2563,5.23,2022
+Anencephaly,0,0,1,2249.5,12,37097,0.33,2022
+Anencephaly,0,0,1,2749.5,14,200911,0.07,2022
+Anencephaly,0,0,2,1749.5,12,1764,6.91,2022
+Anencephaly,0,0,2,2249.5,12,22325,0.55,2022
+Anencephaly,0,0,3,2249.5,11,13288,0.85,2022
+Other causes,1,0,1,3249.5,10,14250,0.71,2022
+Other causes,1,0,2,3249.5,11,11099,1.0,2022
+Congenital heart defect,1,0,1,1749.5,11,9407,1.17,2022
+Congenital heart defect,1,0,1,2249.5,11,12825,0.86,2022
+Congenital heart defect,1,0,1,2749.5,19,13287,1.44,2022
+Congenital heart defect,1,0,1,3249.5,11,14250,0.78,2022
+Congenital heart defect,1,0,2,3249.5,14,11099,1.27,2022
+Congenital heart defect,0,0,2,2749.5,12,122099,0.1,2022
+Edwards syndrome,1,1,1,1749.5,11,7275,1.54,2022
+Edwards syndrome,1,0,1,1749.5,23,9407,2.47,2022
+Edwards syndrome,1,0,1,2249.5,13,12825,1.02,2022
+Edwards syndrome,1,0,2,1749.5,19,6727,2.87,2022
+Edwards syndrome,1,0,2,2249.5,15,9332,1.62,2022
+Edwards syndrome,1,0,3,1749.5,12,4762,2.57,2022
+Edwards syndrome,0,0,1,1749.5,17,2563,6.67,2022
+Edwards syndrome,0,0,2,1374.5,11,258,43.56,2022
+Edwards syndrome,0,0,2,1749.5,15,1764,8.56,2022
+Edwards syndrome,0,0,2,2249.5,10,22325,0.46,2022
+SIDS,1,1,1,2249.5,11,9781,1.13,2022
+SIDS,1,0,1,1749.5,14,9407,1.5,2022
+SIDS,1,0,1,2249.5,11,12825,0.86,2022
+SIDS,0,1,1,2249.5,11,15486,0.71,2022
+SIDS,0,1,1,2749.5,29,61274,0.48,2022
+SIDS,0,1,1,3249.5,32,110798,0.29,2022
+SIDS,0,1,1,3749.5,16,66022,0.24,2022
+SIDS,0,1,2,2749.5,20,41777,0.48,2022
+SIDS,0,1,2,3249.5,26,82641,0.32,2022
+SIDS,0,1,2,3749.5,16,57366,0.28,2022
+SIDS,0,1,3,2249.5,10,6675,1.51,2022
+SIDS,0,1,3,2749.5,20,26194,0.77,2022
+SIDS,0,1,3,3249.5,27,52970,0.51,2022
+SIDS,0,1,3,3749.5,13,37947,0.34,2022
+SIDS,0,1,4,2249.5,14,3556,3.95,2022
+SIDS,0,1,4,2749.5,14,14091,1.0,2022
+SIDS,0,1,4,3249.5,15,27964,0.54,2022
+SIDS,0,1,4,3749.5,10,20631,0.49,2022
+SIDS,0,1,5,2749.5,13,11300,1.16,2022
+SIDS,0,1,5,3249.5,14,21514,0.65,2022
+SIDS,0,0,0,3249.5,12,28703,0.42,2022
+SIDS,0,0,1,2249.5,35,37097,0.95,2022
+SIDS,0,0,1,2749.5,89,200911,0.44,2022
+SIDS,0,0,1,3249.5,104,416971,0.25,2022
+SIDS,0,0,1,3749.5,45,249495,0.18,2022
+SIDS,0,0,2,2249.5,24,22325,1.08,2022
+SIDS,0,0,2,2749.5,55,122099,0.45,2022
+SIDS,0,0,2,3249.5,76,280351,0.27,2022
+SIDS,0,0,2,3749.5,45,194444,0.23,2022
+SIDS,0,0,3,2249.5,15,13288,1.13,2022
+SIDS,0,0,3,2749.5,30,69391,0.43,2022
+SIDS,0,0,3,3249.5,44,159320,0.28,2022
+SIDS,0,0,3,3749.5,21,115768,0.18,2022
+SIDS,0,0,4,2749.5,35,33615,1.05,2022
+SIDS,0,0,4,3249.5,33,75556,0.44,2022
+SIDS,0,0,4,3749.5,26,56534,0.46,2022
+SIDS,0,0,5,2749.5,21,23508,0.9,2022
+SIDS,0,0,5,3249.5,29,50402,0.58,2022
+SIDS,0,0,5,3749.5,16,37518,0.43,2022
+SIDS,0,0,-1,3249.5,10,16738,0.6,2022
+Unspecified causes,1,0,1,1749.5,13,9407,1.39,2022
+Unspecified causes,1,0,1,2249.5,13,12825,1.02,2022
+Unspecified causes,0,1,1,2749.5,19,61274,0.31,2022
+Unspecified causes,0,1,1,3249.5,21,110798,0.19,2022
+Unspecified causes,0,1,1,3749.5,15,66022,0.23,2022
+Unspecified causes,0,1,2,2249.5,10,10208,0.98,2022
+Unspecified causes,0,1,2,2749.5,16,41777,0.39,2022
+Unspecified causes,0,1,2,3249.5,19,82641,0.23,2022
+Unspecified causes,0,1,2,3749.5,10,57366,0.17,2022
+Unspecified causes,0,1,3,2749.5,22,26194,0.85,2022
+Unspecified causes,0,1,3,3249.5,14,52970,0.27,2022
+Unspecified causes,0,1,4,3249.5,14,27964,0.5,2022
+Unspecified causes,0,0,0,2749.5,10,20117,0.5,2022
+Unspecified causes,0,0,1,2249.5,10,37097,0.27,2022
+Unspecified causes,0,0,1,2749.5,62,200911,0.31,2022
+Unspecified causes,0,0,1,3249.5,77,416971,0.18,2022
+Unspecified causes,0,0,1,3749.5,39,249495,0.16,2022
+Unspecified causes,0,0,2,2749.5,41,122099,0.34,2022
+Unspecified causes,0,0,2,3249.5,55,280351,0.2,2022
+Unspecified causes,0,0,2,3749.5,28,194444,0.15,2022
+Unspecified causes,0,0,3,2249.5,16,13288,1.21,2022
+Unspecified causes,0,0,3,2749.5,20,69391,0.29,2022
+Unspecified causes,0,0,3,3249.5,50,159320,0.32,2022
+Unspecified causes,0,0,3,3749.5,17,115768,0.15,2022
+Unspecified causes,0,0,4,2749.5,20,33615,0.6,2022
+Unspecified causes,0,0,4,3249.5,27,75556,0.36,2022
+Unspecified causes,0,0,4,3749.5,13,56534,0.23,2022
+Unspecified causes,0,0,5,2749.5,13,23508,0.55,2022
+Unspecified causes,0,0,5,3249.5,20,50402,0.4,2022
+Unspecified causes,0,0,5,3749.5,14,37518,0.38,2022
+Other causes,0,0,1,3249.5,10,416971,0.02,2022
+Accidental suffocation,1,0,1,2249.5,11,12825,0.86,2022
+Accidental suffocation,0,1,1,2249.5,15,15486,0.97,2022
+Accidental suffocation,0,1,1,2749.5,26,61274,0.43,2022
+Accidental suffocation,0,1,1,3249.5,26,110798,0.24,2022
+Accidental suffocation,0,1,1,3749.5,11,66022,0.17,2022
+Accidental suffocation,0,1,2,2749.5,16,41777,0.39,2022
+Accidental suffocation,0,1,2,3249.5,17,82641,0.21,2022
+Accidental suffocation,0,1,2,3749.5,14,57366,0.25,2022
+Accidental suffocation,0,1,3,2749.5,13,26194,0.5,2022
+Accidental suffocation,0,1,3,3249.5,10,52970,0.19,2022
+Accidental suffocation,0,1,3,3749.5,10,37947,0.27,2022
+Accidental suffocation,0,1,4,2749.5,11,14091,0.78,2022
+Accidental suffocation,0,1,4,3249.5,12,27964,0.43,2022
+Accidental suffocation,0,1,5,2749.5,11,11300,0.98,2022
+Accidental suffocation,0,0,1,2249.5,27,37097,0.73,2022
+Accidental suffocation,0,0,1,2749.5,49,200911,0.24,2022
+Accidental suffocation,0,0,1,3249.5,72,416971,0.17,2022
+Accidental suffocation,0,0,1,3749.5,29,249495,0.12,2022
+Accidental suffocation,0,0,2,2249.5,10,22325,0.45,2022
+Accidental suffocation,0,0,2,2749.5,33,122099,0.27,2022
+Accidental suffocation,0,0,2,3249.5,50,280351,0.18,2022
+Accidental suffocation,0,0,2,3749.5,23,194444,0.12,2022
+Accidental suffocation,0,0,3,2249.5,10,13288,0.75,2022
+Accidental suffocation,0,0,3,2749.5,21,69391,0.3,2022
+Accidental suffocation,0,0,3,3249.5,50,159320,0.32,2022
+Accidental suffocation,0,0,3,3749.5,18,115768,0.16,2022
+Accidental suffocation,0,0,4,2749.5,18,33615,0.54,2022
+Accidental suffocation,0,0,4,3249.5,28,75556,0.37,2022
+Accidental suffocation,0,0,4,3749.5,13,56534,0.23,2022
+Accidental suffocation,0,0,5,2749.5,17,23508,0.73,2022
+Accidental suffocation,0,0,5,3249.5,16,50402,0.32,2022
+Accidental suffocation,0,0,5,3749.5,14,37518,0.37,2022

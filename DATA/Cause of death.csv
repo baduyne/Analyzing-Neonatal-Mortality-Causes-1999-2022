@@ -1,0 +1,62 @@
+Cause of death,Short Name
+"Certain infectious and parasitic diseases (A00-B99,U07.1)",Certain infectious and parasitic diseases
+#Septicemia (A40-A41),Septicemia
+Diseases of the nervous system (G00-G98),Diseases of the nervous system
+"Other diseases of nervous system (G04,G06-G11,G12.1-G12.9,G20-G72,G81-G92,G93.0,G93.2-G93.9,G95-G98)",Other diseases of nervous system
+#Diseases of the circulatory system (I00-I99),Diseases of the circulatory system
+"Diseases of the respiratory system (J00-J98,U04)",Diseases of the respiratory system
+#Influenza and pneumonia (J09-J18),Influenza and pneumonia
+Pneumonia (J12-J18),Pneumonia
+"Other and unspecified diseases of respiratory system (J22,J30-J39,J43-J44,J47-J68,J70-J98,U04)",Other and unspecified diseases of respiratory system
+Diseases of the digestive system (K00-K92),Diseases of the digestive system
+"#Gastritis, duodenitis, and noninfective enteritis and colitis (K29,K50-K55)","Gastritis, duodenitis, and noninfective enteritis and colitis"
+Diseases of the genitourinary system (N00-N95),Diseases of the genitourinary system
+"#Renal failure and other disorders of kidney (N17-N19,N25,N27)",Renal failure and other disorders of kidney
+Certain conditions originating in the perinatal period (P00-P96),Certain conditions originating in the perinatal period
+"Newborn affected by maternal factors and by complications of pregnancy, labor and delivery (P00-P04)","Affected by maternal factors and by complications of pregnancy, labor and delivery"
+#Newborn affected by maternal complications of pregnancy (P01),Affected by maternal complications of pregnancy
+Newborn affected by incompetent cervix (P01.0),Incompetent cervix
+Newborn affected by premature rupture of membranes (P01.1),Premature rupture
+"#Newborn affected by complications of placenta, cord and membranes (P02)","Newborn affected by complications of placenta, cord and membranes"
+Newborn affected by complications involving placenta (P02.0-P02.3),Newborn affected by complications involving placenta
+Newborn affected by chorioamnionitis (P02.7),Chorioamnionitis
+Disorders related to length of gestation and fetal malnutrition (P05-P08),Disorders related to length of gestation and fetal malnutrition
+"#Disorders related to short gestation and low birth weight, not elsewhere classified (P07)","Disorders related to short gestation and low birth weight, not elsewhere classified"
+"Extremely low birth weight or extreme immaturity (P07.0,P07.2)",Extremely low birth weight or extreme immaturity
+"Other low birth weight or preterm (P07.1,P07.3)",Other low birth weight or preterm
+#Respiratory distress of newborn (P22),Respiratory distress of newborn
+Other respiratory conditions originating in the perinatal period (P23-P28),Other respiratory conditions originating in the perinatal period
+#Pulmonary hemorrhage originating in the perinatal period (P26),Pulmonary hemorrhage originating in the perinatal period
+#Chronic respiratory disease originating in the perinatal period (P27),Chronic respiratory disease originating in the perinatal period
+#Atelectasis (P28.0-P28.1),Atelectasis
+Infections specific to the perinatal period (P35-P39),Infections specific to the perinatal period
+#Bacterial sepsis of newborn (P36),Bacterial sepsis of newborn
+Hemorrhagic and hematological disorders of newborn (P50-P61),Hemorrhagic and hematological disorders of newborn
+"#Neonatal hemorrhage (P50-P52,P54)",Neonatal hemorrhage
+#Necrotizing enterocolitis of newborn (P77),Necrotizing enterocolitis of newborn
+"Other perinatal conditions (P29,P70.3-P70.9,P71-P76,P78-P81,P83.0-P83.1,P83.3-P83.9,P90-P96)",Other perinatal conditions
+"#Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)","Congenital malformations, deformations and chromosomal abnormalities"
+Congenital malformations of heart (Q20-Q24),Congenital malformations of heart
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+#Sudden infant death syndrome (R95),Sudden infant death syndrome
+"Other symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R53,R55-R94,R96-R99)","Other symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+"External causes of mortality (*U01,V01-Y84)",External causes of mortality
+#Accidents (unintentional injuries) (V01-X59),Accidents
+Transport accidents (V01-V99),Transport accidents
+"Motor vehicle accidents (V02-V04,V09.0,V09.2,V12-V14,V19.0-V19.2,V19.4-V19.6,V20-V79,V80.3-V80.5,V81.0-V81.1,V82.0-V82.1,V83-V86,V87.0-V87.8,V88.0-V88.8,V89.0,V89.2)",Motor vehicle accidents
+Accidental suffocation and strangulation in bed (W75),Accidental suffocation
+"Other accidental suffocation and strangulation (W76-W77,W81-W84)",Other accidental suffocation and strangulation
+"#Assault (homicide) (*U01,X85-Y09)",Assault
+"Neglect, abandonment and other maltreatment syndromes (Y06-Y07)","Neglect, abandonment and other maltreatment syndromes"
+Newborn affected by multiple pregnancy (P01.5),Newborn affected by multiple pregnancy
+Congenital malformations of respiratory system (Q30-Q34),Congenital malformations of respiratory system
+"Assault (homicide) by other and unspecified means (*U01.0-*U01.3,*U01.5-*U01.9,X85-X90,X92,X96-X99,Y00-Y05,Y08-Y09)",Assault
+#Birth trauma (P10-P15),Birth trauma
+Cerebrovascular diseases (I60-I69),Cerebrovascular diseases
+#Diarrhea and gastroenteritis of infectious origin (A09),Diarrhea and gastroenteritis of infectious origin
+Congenital malformations of genitourinary system (Q50-Q64),Congenital malformations of genitourinary system
+Other external causes (Y10-Y36),Other external causes
+"Viral diseases (A80-B34,U07.1)",Viral diseases
+"Other and unspecified viral diseases (A81-B00,B02-B04,B06-B19,B25,B27-B34,U07.1)",Other and unspecified viral diseases
+"Newborn affected by other maternal complications of pregnancy (P01.2-P01.4,P01.6-P01.9)",Newborn affected by other maternal complications of pregnancy
+Edward syndrome (Q91.0-Q91.3),Edward syndrome

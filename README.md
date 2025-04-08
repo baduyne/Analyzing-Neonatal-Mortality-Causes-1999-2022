@@ -40,9 +40,9 @@ The goal of this project is to analyze **factors related to mothers and the caus
 
 ## 📅 Timeline
 - Data Collection: Complete
-- Data Cleaning and Preprocessing: In Progress
-- Exploratory Data Analysis: Upcoming
-- Modeling and Evaluation: Upcoming
+- Data Cleaning and Preprocessing: Complete
+- Exploratory Data Analysis: Complete
+- Modeling and Evaluation: Complete
 
 ---
 

@@ -46,9 +46,9 @@ The goal of this project is to analyze **factors related to mothers and the caus
 
 ---
 
-## 📚 License
+##  License
 This project is for educational and research purposes only.
 
 ---
 
-Thank you for visiting our repository! 🙏 If you find this project helpful, please consider giving it a star ⭐ and sharing it!
+Thank you for visiting our repository! If you find this project helpful, please consider giving it a star and sharing it!

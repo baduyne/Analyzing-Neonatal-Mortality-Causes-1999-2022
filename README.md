@@ -1,11 +1,11 @@
-# 👶 Welcome to Our Project: Analyzing Neonatal Mortality Causes (1999–2022)
+#  Welcome to Our Project: Analyzing Neonatal Mortality Causes (1999–2022)
 
-## 🌟 Project Objective
+##  Project Objective
 The goal of this project is to analyze **factors related to mothers and the causes of neonatal mortality** during the period from **1999 to 2022**. Based on the findings, we aim to draw valuable insights and provide recommendations for expectant parents to reduce risks during pregnancy and improve neonatal health outcomes.
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **Source**: [CDC WONDER](https://wonder.cdc.gov)  
 - **Time Frame**: 1999–2022  
@@ -31,14 +31,14 @@ The goal of this project is to analyze **factors related to mothers and the caus
 
 ---
 
-## 🚀 Future Goals
+##  Future Goals
 - Identify patterns and trends in neonatal mortality over the years
 - Build predictive models using machine learning techniques
 - Provide actionable insights for healthcare policy makers and parents
 
 ---
 
-## 📅 Timeline
+##  Timeline
 - Data Collection: Complete
 - Data Cleaning and Preprocessing: Complete
 - Exploratory Data Analysis: Complete
